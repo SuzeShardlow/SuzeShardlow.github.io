@@ -1567,7 +1567,7 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Roboto", Helvetica, sans-serif;
+		font-family: "Arimo", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
 		line-height: 1.75em;
@@ -1578,13 +1578,13 @@
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
-		color: #e44c65;
+		border-bottom: dashed 1px;
+		color: #f20000;
 		text-decoration: none;
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			color: #f20000 !important;
 			border-bottom-color: transparent;
 		}
 
@@ -1601,7 +1601,14 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+  h1, h2 {
+    color: #f20000;
+    font-weight: 800;
+    line-height: 1em;
+    margin: 0 0 1em 0;
+  }
+
+	h3, h4, h5, h6 {
 		color: #ffffff;
 		font-weight: 300;
 		line-height: 1em;
