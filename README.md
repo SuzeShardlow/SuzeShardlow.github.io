@@ -1,3 +1,5 @@
-# Suze Shardlow's portfolio website
+# Suze Shardlow's Portfolio Website
 
-This is my personal portfolio website.  You can also find me on [LinkedIn](http://www.linkedin.com/in/SuzeShardlow).
+This is my portfolio website, which is at http://suzeshardlow.com.
+
+You can also find me on [LinkedIn](http://linkedin.com/in/SuzeShardlow).
