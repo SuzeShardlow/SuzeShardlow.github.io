@@ -1,13 +1,15 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/main.css"
-  </head>
-  <body>
-    {% include navigation.html %}
-    {{ content }}
-    {% include footer.html %}
-  </body>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/main.css"
+</head>
+<body>
+  <div id="wrapper"
+  {% include navigation.html %}
+  {{ content }}
+  {% include footer.html %}
+</div>
+</body>
 </html>
