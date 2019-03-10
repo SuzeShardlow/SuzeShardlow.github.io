@@ -70,23 +70,6 @@ I worked with two classmates and we divided up tasks to create this app within s
 
 My role within this app was to act as Git master (merging contributed code into the app), create the three RESTful resources (Users, Items and Requests) and set up the user authentication and Angular controllers.
 
-        <!-- Footer -->
-        <footer id="footer">
-          <h2>Let's talk!</h2>
-          <ul class="icons">
-            <!-- <li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-            <li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li> -->
-            <li><a href="https://www.linkedin.com/in/SuzeShardlow/" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
-            <!-- <li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li> -->
-            <li><a href="https://github.com/SuzeShardlow" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-            <li><a href="mailto:hello@suzeshardlow.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
-          </ul>
-          <ul class="copyright">
-            <li>&copy; Suze Shardlow. All rights reserved.</li><li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>
-          </ul>
-        </footer>
-
-
 
       <!-- Scripts -->
       <script src="assets/js/jquery.min.js"></script>
