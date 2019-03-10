@@ -8,8 +8,10 @@
 <body>
   <div id="wrapper">
     <div id="main">
-      {{ content }}
-      {% include footer.html %}
+      <div class="inner">
+        {{ content }}
+        {% include footer.html %}
+      </div>
     </div>
     {% include navigation.html %}
   </div>
