@@ -1,48 +1,44 @@
 // Misc.
 	$misc: (
-		z-index-base:		10000,
-		z-index-overlay:	100000,
-		max-spotlight:		20
+		z-index-base:		10000
 	);
 
 // Duration.
 	$duration: (
-		navPanel:			0.5s,
-		transition:			0.2s,
-		landing-fadein:		1.5s
+		nav:				0.5s,
+		transition:			0.2s
 	);
 
 // Size.
 	$size: (
-		border-radius:		4px,
-		element-height:		3em,
+		border-radius:		0.375em,
+		element-height:		2.75em,
 		element-margin:		2em,
-		navPanel:			275px
+		sidebar-width:		26em,
+		sidebar-width-alt:	24em,
+		gutter:				3em
 	);
 
 // Font.
 	$font: (
-		family:				('Roboto', Helvetica, sans-serif),
+		family:				('Open Sans', sans-serif),
+		family-heading:		('Roboto Slab', serif),
 		family-fixed:		('Courier New', monospace),
-		weight:				100,
-		weight-bold:		300
+		weight:				400,
+		weight-bold:		600,
+		weight-heading:		700,
+		weight-heading-alt:	400,
+		kerning-heading:	0.075em
 	);
 
 // Palette.
 	$palette: (
-		bg:					#1c1d26,
-		bg-transparent:		rgba(23,24,32,0.95),
-		fg-bold:			#ffffff,
-		fg:					rgba(255,255,255,0.75),
-		fg-light:			rgba(255,255,255,0.5),
-		fg-lighter:			rgba(255,255,255,0.15),
-		border:				rgba(255,255,255,0.3),
-		border-bg:			rgba(255,255,255,0.075),
-		border2:			rgba(255,255,255,0.5),
-		border2-bg:			rgba(255,255,255,0.25),
-		accent1:			#e44c65,
-		accent2:			#272833,
-		accent2-transparent:rgba(39,40,51,0.965),
-		accent3:			#5480f1,
-		accent4:			#39c088
+		bg:					#ffffff,
+		bg-alt:				#f5f6f7,
+		fg:					#7f888f,
+		fg-bold:			#3d4449,
+		fg-light:			#9fa3a6,
+		border:				rgba(210,215,217,0.75),
+		border-bg:			transparentize(#e6ebed, 0.75),
+		accent:				#f56a6a
 	);
