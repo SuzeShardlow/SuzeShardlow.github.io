@@ -5,7 +5,6 @@
 - name: What I've Done
   link: /projects.html
 - name: What I Think
-  link: /blog.html
+  link: /blog
 - name: Let's Talk!
   link: /contact.html
-  
