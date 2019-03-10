@@ -1,0 +1,209 @@
+---
+layout: default
+title: About
+---
+# Projects page
+
+Here are the coding projects I have created which you can see in action.
+
+
+
+<!DOCTYPE HTML>
+<!--
+Landed by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108081564-1"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108081564-1');
+  </script>
+
+  <title>Suze Shardlow</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+</head>
+<body class="landing">
+  <div id="page-wrapper">
+
+    <!-- Header -->
+    <header id="header">
+      <h1 id="logo"><a href="index.html">SuzeShardlow.com</a></h1>
+      <nav id="nav">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#one" class="scrolly">Who I Am</a></li>
+          <li><a href="#two" class="scrolly">What I've Done</a></li>
+          <li><a href="#footer" class="scrolly">Let's Talk!</a></li>
+        </ul>
+      </nav>
+    </header>
+
+
+    <!-- Banner -->
+    <section id="banner">
+      <div class="content">
+        <header>
+          <h2>Hi!&nbsp;&nbsp;I'm Suze.</h2>
+          <p>I'm a full stack software developer,<br />
+            crafter and choir singer.</p>
+            <p>Find out more <a href="#one" class="scrolly">about me</a> or<br />
+              have a look at my <a href="#two" class="scrolly">coding projects</a>.</p>
+            </header>
+            <span class="image"><img src="images/portfolio_pic.jpg" alt="" /></span>
+          </div>
+          <a href="#one" class="goto-next scrolly">Next</a>
+        </section>
+
+
+        <!-- One -->
+        <section id="one" class="spotlight style1 bottom">
+          <span class="image fit main"><img src="images/wedding_bunting.jpg" alt="Me standing underneath 100ft of bunting I sewed for my best friend's wedding." /></span>
+          <div class="content">
+            <div class="container">
+              <div class="row">
+                <div class="4u 12u$(medium)">
+                  <header>
+                    <h2>I love making things that people use and enjoy.</h2>
+                    <p>I have moved into software development and am now looking for a full stack role in a fun, supportive team where I can make a real contribution and learn new skills.</p>
+                  </header>
+                </div>
+                <div class="4u 12u$(medium)">
+                  <p>I have a lifelong interest in coding and spent many happy hours in my childhood programming my BBC Micro, using BASIC.  I designed and wrote a computer game which earned me the school prize for IT.</p>
+                  <p>At university I taught myself HTML and CSS and built websites for my friends.</p>
+                  <p>More recently, I participated in my first <a href="https://blog.makersacademy.com/international-womens-day-hackathon-makeithappen-923aba741e58" target="_blank">hackathon</a>... and won it.</p>
+                </div>
+                <div class="4u$ 12u$(medium)">
+                  <p>Throughout my career so far, I’ve consistently been drawn to the problem-solving, strategic and technical aspects of my work.  I enjoy using new tech but I've always been more interested in how things are made.  I've realised that coding is my true calling.</p>
+                  <p>In my spare time I love to sew, bake and sing.</p>
+                  <p>The photo is of me standing underneath 100ft of bunting I sewed for my best friend's wedding.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a href="#two" class="goto-next scrolly">Next</a>
+        </section>
+
+
+        <!-- Two -->
+        <section id="two" class="spotlight style2 right">
+          <span class="image fit main bottom"><img src="images/icebreaker_on_macbook.jpg" alt="" /></span>
+          <div class="content">
+            <header>
+              <h2>Icebreaker was the final project I built on the 12-week coding bootcamp I attended.</h2>
+              <p>I wrote it in seven days, using AngularJS on Rails and internal and external APIs.</p>
+            </header>
+
+            <ul class="actions">
+              <li><a href="http://suzeshardlow.com/icebreaker" target="_blank" class="button">Launch app</a></li>
+              <li><a href="https://github.com/SuzeShardlow/icebreaker_backend" target="_blank" class="button">View code</a></li>
+            </ul>
+
+            <p>This full stack app is for techies who know they have to attend networking events but are too scared to go on their own.</p>
+
+            <p>The app pulls event data from the <a href="https://www.meetup.com/meetup_api" target="_blank">Meetup.com API</a>, from which the user can select an event.  The details from the Meetup.com API are then populated into the internal API as a pre-meet.  Other users can then join that pre-meet so that they know at least one person at the main event.</p>
+
+          </div>
+          <a href="#three" class="goto-next scrolly">Next</a>
+        </section>
+
+
+        <!-- Three -->
+        <section id="three" class="spotlight style3 left">
+          <span class="image fit main"><img src="images/unscramble_on_macbook.jpg" alt="" /></span>
+          <div class="content">
+            <header>
+              <h2>Unscramble! is a JavaScript game I built after two weeks of coding tuition.</h2>
+              <p>I wrote it in seven days using HTML, CSS and JavaScript.</p>
+            </header>
+            <ul class="actions">
+              <li><a href="http://suzeshardlow.com/unscramble" target="_blank" class="button">Play game</a></li>
+              <li><a href="https://github.com/SuzeShardlow/unscramble" target="_blank" class="button">View code</a></li>
+            </ul>
+            <p>It is based on a <a href="https://en.wikipedia.org/wiki/15_puzzle" target="_blank">popular toy</a> from my childhood where the player must slide number tiles around a 4x4 grid until they are in numerical order.</p>
+            <p>We were given a free choice of projects and I wanted to do this one because it was heavy on logic and therefore presented me with a number of challenges.</p>
+          </div>
+          <a href="#four" class="goto-next scrolly">Next</a>
+        </section>
+
+
+        <!-- Four -->
+        <section id="four" class="spotlight style2 right">
+          <span class="image fit main"><img src="images/skedaddle_on_macbook.jpg" alt="" /></span>
+          <div class="content">
+            <header>
+              <h2>Skedaddle is a MEN (MongoDB, Express, Node.js) stack app I built which draws data from the <a href="https://api.tfl.gov.uk" target="_blank">TfL API</a> to help Tube travellers.</h2>
+              <p>I created this app in seven days, during my 12-week coding bootcamp.</p>
+            </header>
+            <ul class="actions">
+              <li><a href="http://suzeshardlow.com/skedaddle" target="_blank" class="button">Launch app</a></li>
+              <li><a href="https://github.com/SuzeShardlow/skedaddle" target="_blank" class="button">View code</a></li>
+            </ul>
+            <p>The TfL API has thousands of endpoints and I wanted to see if I could build an app which allows users to log in securely, plan journeys and save them to the database, as well as view station information.</p>
+            <p>I am now creating an <a href="https://github.com/SuzeShardlow/alexa_skill_skedaddle" target="_blank">Alexa skill</a> which also uses the TfL API.</p>
+            <p>I am especially pleased with the real-time arrivals boards I created, which display the same data you would see if you were on the Tube network looking at a platform indicator.</p>
+            <p>I used <a href="https://trello.com/" target="_blank">Trello</a> and <a href="https://balsamiq.com/" target="_blank">Balsamiq</a> to plan.</p>
+          </div>
+          <a href="#five" class="goto-next scrolly">Next</a>
+        </section>
+
+
+        <!-- Five -->
+        <section id="five" class="spotlight style3 left">
+          <span class="image fit main"><img src="images/borro_on_macbook.jpg" alt="" /></span>
+          <div class="content">
+            <header>
+              <h2>Borro is a MEAN (MongoDB, Express, AngularJS, Node.js) stack app which allows users to lend and borrow household items.</h2>
+              <p>I worked with two classmates and we divided up tasks to create this app within seven days, towards the end of our coding bootcamp.</p>
+            </header>
+            <ul class="actions">
+              <li><a href="http://suzeshardlow.com/borro" target="_blank" class="button">Launch app</a></li>
+              <li><a href="https://github.com/SuzeShardlow/borro" target="_blank" class="button">View code</a></li>
+            </ul>
+            <p>My role within this app was to act as Git master (merging contributed code into the app), create the three RESTful resources (Users, Items and Requests) and set up the user authentication and Angular controllers.</p>
+          </div>
+          <a href="#footer" class="goto-next scrolly">Next</a>
+        </section>
+
+
+        <!-- Footer -->
+        <footer id="footer">
+          <h2>Let's talk!</h2>
+          <ul class="icons">
+            <!-- <li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+            <li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li> -->
+            <li><a href="https://www.linkedin.com/in/SuzeShardlow/" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+            <!-- <li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li> -->
+            <li><a href="https://github.com/SuzeShardlow" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+            <li><a href="mailto:hello@suzeshardlow.com" class="icon alt fa-envelope"><span class="label">Email</span></a></li>
+          </ul>
+          <ul class="copyright">
+            <li>&copy; Suze Shardlow. All rights reserved.</li><li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>
+          </ul>
+        </footer>
+
+      </div>
+
+      <!-- Scripts -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/jquery.scrolly.min.js"></script>
+      <script src="assets/js/jquery.dropotron.min.js"></script>
+      <script src="assets/js/jquery.scrollex.min.js"></script>
+      <script src="assets/js/skel.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+      <script src="assets/js/main.js"></script>
+
+    </body>
+    </html>
