@@ -1,47 +1,23 @@
-<!DOCTYPE HTML>
+---
+layout: default
+title: Home
+---
+# Home page
+
+
 <!--
 Landed by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<html>
-<head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108081564-1"></script>
-  <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-108081564-1');
-  </script>
-
-  <title>Suze Shardlow</title>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-  <link rel="stylesheet" href="assets/css/main.css" />
-  <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-  <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-</head>
-<body class="landing">
   <div id="page-wrapper">
 
+  Hi! I'm Suze.
 
-    <!-- Banner -->
-    <section id="banner">
-      <div class="content">
-        <header>
-          <h2>Hi!&nbsp;&nbsp;I'm Suze.</h2>
-          <p>I'm a full stack software developer,<br />
-            crafter and choir singer.</p>
-            <p>Find out more <a href="#one" class="scrolly">about me</a> or<br />
-              have a look at my <a href="#two" class="scrolly">coding projects</a>.</p>
-            </header>
-            <span class="image"><img src="images/portfolio_pic.jpg" alt="" /></span>
-          </div>
-          <a href="#one" class="goto-next scrolly">Next</a>
-        </section>
+  I'm a full stack software developer, crafter and choir singer.
+
+  Find out more about me or have a look at my coding projects.
 
 
         <!-- One -->
@@ -181,6 +157,3 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
       <script src="assets/js/util.js"></script>
       <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
       <script src="assets/js/main.js"></script>
-
-    </body>
-    </html>
