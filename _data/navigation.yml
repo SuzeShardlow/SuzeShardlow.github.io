@@ -1,4 +1,11 @@
 - name: Home
   link: /
-- name: About
+- name: Who I Am
   link: /about.html
+- name: What I've Done
+  link: /projects.html
+- name: What I Think
+  link: /blog.html
+- name: Let's Talk!
+  link: /contact.html
+  
