@@ -4,7 +4,6 @@ title: Projects
 ---
 # Projects page
 
-Here are the coding projects I have created which you can see in action.
 
 <!--
 Landed by HTML5 UP
@@ -12,6 +11,8 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 
+
+Here are the coding projects I have created which you can see in action.
 
 ## Icebreaker was the final project I built on the 12-week coding bootcamp I attended.
 
@@ -67,14 +68,3 @@ I worked with two classmates and we divided up tasks to create this app within s
 <a href="https://github.com/SuzeShardlow/borro">View code</a>
 
 My role within this app was to act as Git master (merging contributed code into the app), create the three RESTful resources (Users, Items and Requests) and set up the user authentication and Angular controllers.
-
-
-      <!-- Scripts -->
-      <script src="assets/js/jquery.min.js"></script>
-      <script src="assets/js/jquery.scrolly.min.js"></script>
-      <script src="assets/js/jquery.dropotron.min.js"></script>
-      <script src="assets/js/jquery.scrollex.min.js"></script>
-      <script src="assets/js/skel.min.js"></script>
-      <script src="assets/js/util.js"></script>
-      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-      <script src="assets/js/main.js"></script>
