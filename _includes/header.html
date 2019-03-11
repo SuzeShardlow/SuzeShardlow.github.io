@@ -1,0 +1,14 @@
+<header id="header">
+
+  <a href="index.html" class="logo"><strong>Suze.dev</strong></a>
+
+  <ul class="icons">
+    <span class="label">Share</span>
+    {% for item in site.data.header %}
+    <li>
+      <a href="{{ item.link }}" class="{{ item.class }}"></a>
+    </li>
+    {% endfor %}
+  </ul>
+
+</header>

@@ -1,8 +1,9 @@
 <footer id="footer">
+  Get in touch!
   <ul class="icons">
     {% for item in site.data.footer %}
     <li>
-      <a href="{{ item.link }}" class="{{ item.class }}"></a>
+      <a href="{{ item.link }}" class="{{ item.class }}"><span class="label"></a>
     </li>
     {% endfor %}
     <p class="copyright">
