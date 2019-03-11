@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: "Suze Shardlow :: Projects"
 ---
 # Projects page
 

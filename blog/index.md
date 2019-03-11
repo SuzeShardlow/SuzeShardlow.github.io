@@ -1,7 +1,7 @@
 ---
 layout: list
 headline: Latest Posts
-title: Blog
+title: "Suze Shardlow :: Blog"
 main_image: typewriter3.jpg
 ---
 

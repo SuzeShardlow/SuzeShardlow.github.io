@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: "Suze Shardlow :: About"
 headline: About Me
 sub_headline: I love making things that people use and enjoy.
 ---

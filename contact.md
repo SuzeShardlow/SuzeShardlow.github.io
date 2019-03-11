@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact
+title: "Suze Shardlow :: Contact"
 ---
 # Contact page
 
