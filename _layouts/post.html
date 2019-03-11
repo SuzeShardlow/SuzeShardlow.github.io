@@ -15,12 +15,12 @@
           <div class="content">
             <header class="main">
               <h1>{{ page.headline }}</h1>
-              <h2>{{ page.sub-headline }}</h2>
+              <h2>{{ page.sub_headline }}</h2>
 
-              <p>{{ page.date | date: "%A %-d %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %} • {{ page.read-time }} read{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+              <p>{{ page.date | date: "%A %-d %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %} • {{ page.read_time }} read{% if page.meta %} • {{ page.meta }}{% endif %}</p>
               <ul class="icons">
                 <span class="label">{{ item.name }}</span>
-                {% for item in site.data.social-sharer %}
+                {% for item in site.data.social_sharer %}
                 <li>
                   <a href="{{ item.link }}http://localhost:4000{{ page.url }}%0A%0ACheck out %22{{ page.headline }}%22 by Suze Shardlow!" class="{{ item.class }}"></a>
                 </li>
@@ -31,7 +31,7 @@
           </header>
 
         </section>
-        <span class="image main"><img src="/images/{{ page.main-image }}"></span>
+        <span class="image main"><img src="/images/{{ page.main_image }}"></span>
 
         {{ content }}
       </div>

@@ -2,7 +2,7 @@
 layout: default
 title: About
 headline: About Me
-sub-headline: I love making things that people use and enjoy.
+sub_headline: I love making things that people use and enjoy.
 ---
 
 I have moved into software development and am now looking for a full stack role in a fun, supportive team where I can make a real contribution and learn new skills.
