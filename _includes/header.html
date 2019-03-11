@@ -2,11 +2,11 @@
 
   <!-- <a href="../../../../index.html" class="logo"><strong>Suze.dev</strong> by Suze Shardlow</a> -->
 
-  {% if site.page.layout == post %}<a href="../../../index.html" class="logo"><strong>Blog posts</strong> by Suze Shardlow</a>{% elsif site.page.layout == default %}<a href="../../../../index.html" class="logo"><strong>Suze.dev</strong> by Suze Shardlow</a>{% endif %}
+  {% if site.page.layout == default %}<a href="../../../index.html" class="logo"><strong>Suze.dev</strong> by Suze Shardlow</a>{% elsif site.page.layout == post %}<a href="../../../../index.html" class="logo"><strong>Blog posts</strong> by Suze Shardlow</a>{% endif %}
 
   <ul class="icons">
     <span class="label">Share</span>
-    {% for item in site.data.social-sharer %}
+    {% for item in site.data.social_sharer %}
     <li>
       <a href="{{ item.link }}Check out {{ page.headline }} by Suze Shardlow! http://localhost:4000/{{ page.url }}" class="{{ item.class }}"></a>
     </li>
