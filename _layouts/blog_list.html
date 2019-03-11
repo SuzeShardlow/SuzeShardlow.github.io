@@ -22,9 +22,7 @@
 
           <div class=row>
             {% for post in site.posts %}
-
             <div class="col-4 col-12-medium">
-
               <a href="{{ post.url }}">
                 <span class="image fit"><img src="/images/{{ post.main_image }}"></span>
                 <h3>{{ post.title }}</a></h3>
@@ -33,7 +31,6 @@
                 <p>{{ post.excerpt }}</p>
               </div>
               {% endfor %}
-
             </div>
 
             <!-- {{ content }} -->

@@ -2,8 +2,9 @@
   link: /
 - name: Who I Am
   link: /about.html
-- name: What I've Done
+- name: What I've Coded
   link: /projects.html
+  sub: yes
 - name: What I Think
   link: /blog
 - name: Let's Talk!
