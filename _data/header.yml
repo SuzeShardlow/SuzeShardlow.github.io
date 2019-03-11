@@ -1,12 +1,15 @@
 - name: Twitter
-  link: https://twitter.com/SuzeShardlow
+  link: https://twitter.com/home?status=
   class: icon fa-twitter
 - name: LinkedIn
   link: https://linkedin.com/in/SuzeShardlow
   class: icon fa-linkedin
 - name: WhatsApp
-  link: https://instagram.com/suze_makes
+  link: whatsapp://send?text=
   class: icon fa-whatsapp
+- name: Facebook
+  link: https://www.facebook.com/sharer/sharer.php?u=
+  class: icon fa-facebook
 - name: Mail
   link: mailto:hello@suzeshardlow.com
   class: icon fa-envelope
