@@ -7,9 +7,9 @@ read-time: 4-minute
 main-image: conference speaker.jpg
 ---
 
-<!-- ![Speaker at a conference](/images/conference speaker.jpg) -->
-
 Nothing says you’re an expert like being booked to speak at a conference.  But how do you get invited if you have no idea what the selection committee is looking for - or, worse still, you can’t even decide on a topic?
+
+<!-- ![Speaker at a conference](/images/conference speaker.jpg) -->
 
 Maybe you’re all ready to submit your talk proposal, but the thought of actually getting up there and delivering your presentation fills you with a strange mixture of excitement and terror...
 
