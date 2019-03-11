@@ -1,10 +1,10 @@
 <footer id="footer">
-  {% for item in site.data.footer %}
-  <a href="{{ item.link }}">
-    {{ item.name }}
-  </a>
-  {% endfor %}
-  <p class="copyright">
-    &copy; Suze Shardlow. All rights reserved.
-    Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>
-</footer>
+  <ul class="icons">
+    {% for item in site.data.footer %}
+    <li>
+      <a href="{{ item.link }}" class="{{ item.class }}"></a>
+    </li>
+    {% endfor %}
+    <p class="copyright">
+      &copy; Suze Shardlow. Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>
+    </footer>

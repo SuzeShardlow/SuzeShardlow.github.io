@@ -1,10 +1,15 @@
 - name: Twitter
   link: https://twitter.com/SuzeShardlow
+  class: icon fa-twitter
 - name: LinkedIn
   link: https://linkedin.com/in/SuzeShardlow
+  class: icon fa-linkedin
 - name: GitHub
   link: https://github.com/SuzeShardlow
+  class: icon fa-github
 - name: Instagram
   link: https://instagram.com/suze_makes
+  class: icon fa-instagram
 - name: Mail
   link: mailto:hello@suzeshardlow.com
+  class: icon fa-envelope
