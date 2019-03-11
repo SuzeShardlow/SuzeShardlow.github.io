@@ -11,12 +11,20 @@
     <div id="main">
       <div class="inner">
         {% include header.html %}
-        {{ content }}
-      </div>
-    </div>
-    {% include navigation.html %}
-  </div>
+        <section id="banner">
+          <div class="content">
+            <header class="main">
+              <h1>{{ page.headline }}</h1>
+              <p>{{ page.sub-headline }}</p>
+            </header>
+          </section>
 
+          {{ content }}
+        </div>
+      </div>
+      {% include navigation.html %}
+    </div>
+  </div>
   <script src="assets/js/jquery.min.js"></script>
   <script src="assets/js/browser.min.js"></script>
   <script src="assets/js/breakpoints.min.js"></script>
