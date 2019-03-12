@@ -7,41 +7,22 @@
       <ul>
         {% for menu_item in site.data.navigation %}
 
-        {% if menu_item.sub %}
-
-        {% for menu_item in site.data.navigation %}
-        {% assign options = site.data.navigation[page.sub] %}
-
-        {% for project in options %}
-
+        <li><a href="{{ menu_item.link }}">{{ menu_item.name }}</a></li>
+        {% endfor %}
         <li>
-          <span class="opener">{{ item.name }}</span>
+          <span class="opener">Submenu</span>
           <ul>
-            <li><a href="#">{{ options.project }}</a></li>
+            <li><a href="#">Lorem Dolor</a></li>
+            <li><a href="#">Ipsum Adipiscing</a></li>
+            <li><a href="#">Tempus Magna</a></li>
+            <li><a href="#">Feugiat Veroeros</a></li>
           </ul>
         </li>
+        <li><a href="#">Etiam Dolore</a></li>
+        <li><a href="#">Adipiscing</a></li>
 
-        <li><a href="{{ item.link }}">{{ item.name }}</a></li>
-        {% endfor %}
-
-
-
-        <!-- <a href="../../../index.html" class="logo"><strong>Suze.dev</strong> by Suze Shardlow</a>{% elsif site.page.layout == post %}<a href="../../../../index.html" class="logo"><strong>Blog posts</strong> by Suze Shardlow</a>{% endif %} -->
-
-
-        <!-- <li>
-        <span class="opener">Submenu</span>
-        <ul>
-        <li><a href="#">Lorem Dolor</a></li>
-        <li><a href="#">Ipsum Adipiscing</a></li>
-        <li><a href="#">Tempus Magna</a></li>
-        <li><a href="#">Feugiat Veroeros</a></li>
       </ul>
-    </li>
-    <li><a href="#">Etiam Dolore</a></li>
-    <li><a href="#">Adipiscing</a></li> -->
-  </ul>
-</nav>
-{% include footer.html %}
-</div>
+    </nav>
+    {% include footer.html %}
+  </div>
 </div>

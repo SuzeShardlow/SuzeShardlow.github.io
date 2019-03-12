@@ -3,7 +3,7 @@
 - name: Who I Am
   link: /about.html
 - name: What I've Coded
-  link: /projects.html
+  link: /coding_projects
   sub: yes
 - name: What I Think
   link: /blog

@@ -1,3 +1,20 @@
 collections:
   coding_projects:
-    
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Suze Shardlow"
+  - scope:
+      path: ""
+      type: "coding_projects"
+    values:
+      layout: "coding_project"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

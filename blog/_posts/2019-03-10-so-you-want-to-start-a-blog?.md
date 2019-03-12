@@ -1,9 +1,7 @@
 ---
-layout: post
 headline: So You Want To Start A Blog?
 sub_headline: Getting over writer's block and imposter syndrome
-author: Suze Shardlow
-read_time: 2-minute
+read_time: 2
 main_image: wedding_bunting.jpg
 ---
 

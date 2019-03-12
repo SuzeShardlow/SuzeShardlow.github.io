@@ -1,9 +1,7 @@
 ---
-layout: post
 headline: So You Want To Speak At A Tech Conference?
 sub_headline: Breaking down the barriers we put between us and the stage
-author: Suze Shardlow
-read_time: 4-minute
+read_time: 4
 main_image: conference_speaker.jpg
 ---
 
