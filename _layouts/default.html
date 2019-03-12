@@ -17,19 +17,28 @@
               <h1>{{ page.headline }}</h1>
               <p>{{ page.sub_headline }}</p>
             </header>
-          </section>
+            {{ content }}
+            <ul class="actions">
+              <li><a href="about.html" class="button big">About Me</a></li>
+            </ul>
 
-          {{ content }}
-        </div>
+          </div>
+          <span class="image object">
+            <img src="/images/{{ page.main_image }}" alt="" />
+          </span>
+
+        </section>
+
       </div>
-      {% include navigation.html %}
     </div>
+    {% include navigation.html %}
   </div>
-  <script src="/assets/js/jquery.min.js"></script>
-  <script src="/assets/js/browser.min.js"></script>
-  <script src="/assets/js/breakpoints.min.js"></script>
-  <script src="/assets/js/util.js"></script>
-  <script src="/assets/js/main.js"></script>
+</div>
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/browser.min.js"></script>
+<script src="/assets/js/breakpoints.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/main.js"></script>
 
 </body>
 </html>
