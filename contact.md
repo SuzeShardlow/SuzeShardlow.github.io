@@ -2,7 +2,7 @@
 layout: default
 title: "Suze Shardlow :: Contact"
 ---
-# Contact page
 
+# Let's talk!
 
 Here's how to contact me!
