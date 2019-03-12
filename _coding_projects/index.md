@@ -1,16 +1,8 @@
 ---
-layout: default
+layout: coding_project
 title: "Suze Shardlow :: Projects"
+main_image: coding.jpg
 ---
-# Projects page
-
-
-<!--
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-
 
 Here are the coding projects I have created which you can see in action.
 
