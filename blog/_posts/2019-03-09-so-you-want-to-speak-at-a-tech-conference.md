@@ -5,7 +5,7 @@ read_time: 4
 main_image: conference_speaker.jpg
 ---
 
-**Nothing says you’re an expert like being booked to speak at a conference.  But how do you get invited if you have no idea what the selection committee is looking for - or, worse still, you can’t even decide on a topic?**
+Nothing says you’re an expert like being booked to speak at a conference.  But how do you get invited if you have no idea what the selection committee is looking for - or, worse still, you can’t even decide on a topic?
 
 Maybe you’re all ready to submit your talk proposal, but the thought of actually getting up there and delivering your presentation fills you with a strange mixture of excitement and terror...
 
@@ -19,7 +19,7 @@ As well as Emanuil’s knowledge and expertise, we also drew on the experience o
 
 Here are some of the limiting beliefs we brought to the workshop and the advice that helped us leave them at the door...
 
-#### 1) “There are no new ideas...” aka “... but everyone already knows about X”.
+## 1) “There are no new ideas...” aka “... but everyone already knows about X”.
 
 There are always new perspectives.  Your angle needs to be your experience: you are the only person who can tell **your** story.
 
@@ -27,7 +27,7 @@ To get to your talk title and proposal, [Raquel Vélez](https://twitter.com/rock
 
 For [Sarah Mei](https://twitter.com/sarahmei), founder of [RailsBridge](http://railsbridge.org), inspiration comes from looking for themes running through all the things she’s had to research or learn about over the course of a week.  RailsBridge teaches people to code and Sarah points out that “lots of people in your audience will be relatively new or from a different tech discipline from you,” so to them you won’t necessarily be stating the obvious.
 
-#### 2) “I’m not technical, so I can’t give a tech talk.”
+## 2) “I’m not technical, so I can’t give a tech talk.”
 
 Again, your talk is about YOU.  (Are you noticing a pattern here?)  Tell a story.
 
@@ -39,13 +39,13 @@ Things come in threes and the parts of a talk are no exception.  Saron breaks th
 
 And guess what again?  Your lessons learned are great, but again, “NOBODY CARES.  These end up sounding super generic,” says Saron.  “Lessons learned and technical stuff only matter in the context of a story...  A tech talk is a performance: it’s more theatre than anything else.”
 
-#### 3) “My talk won’t get picked.”
+## 3) “My talk won’t get picked.”
 
 Raquel Vélez sits on conference selection committees and advises that, for abstracts, “wordier is better... some I see are far too short”.  Pouring out all your ideas onto paper has the added advantage that if, once you’ve organised all your thoughts, you actually have four ideas, then you can write four different talk proposals.
 
 Sarah Mei says you need to make sure your abstract shows people that after your talk “they will be able to do amazing things... how badass they will be.”  Be specific about what you’re going to teach them!  “Don’t say ‘in this talk we will...’.  Put ‘have you ever wondered...?’ to them and say ‘you will see a solution if you come to this talk’.”
 
-#### 4) “I can’t think of anything interesting to put in my bio.”
+## 4) “I can’t think of anything interesting to put in my bio.”
 
 In the same way you wouldn’t apply to different jobs using identical CVs, you need to tailor your bio to the conference you are applying to.  [Danielle Barnes](https://twitter.com/daniellesheryce), CEO of [Women Talk Design](https://womentalkdesign.com) says, “read what the organisers are asking for and read previous bios.”
 
@@ -67,7 +67,7 @@ The prompts she gave us to get there were:
 
 One of the people in my group said that he doesn’t put his interest in karate on his CV.  It turned out that he is actually instructor-level!
 
-#### 5) “I’m not biased and my talk is suitable for anyone and everyone.”
+## 5) “I’m not biased and my talk is suitable for anyone and everyone.”
 
 Hmmm.  Have you ever walked into a room and collectively greeted a group of people of different genders with “Hi guys!”?  Yep, we all have.  But have you stopped to think about the fact that the word “guys” actually means “men”?
 
@@ -77,7 +77,7 @@ One mentor shared that in his organisation, they have a Slack bot who pulls them
 
 It’s important to strive to ensure people don’t feel excluded.  This means considering accessibility and special needs, for example using visuals which will not cause issues for those with colour blindness, or pre-warning your audience about any epilepsy triggers, profanity etc.
 
-#### 6) “I’ve been accepted... but I’m not prepared!”
+## 6) “I’ve been accepted... but I’m not prepared!”
 
 Having worked in marketing and business development, I’ve created a lot of PowerPoint decks but always felt they needed to be more eyecatching.  [Melinda Seckington](https://missgeeky.com), Technical Manager at [FutureLearn](https://futurelearn.com), drew on [Lidwell, Holden and Butler's Universal Principles Of Design](http://universalprinciplesofdesign.com/books) to advise us to:
 
