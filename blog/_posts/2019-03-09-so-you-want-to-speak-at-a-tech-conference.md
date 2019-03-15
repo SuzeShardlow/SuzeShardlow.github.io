@@ -99,7 +99,7 @@ Jessica left us with two thoughts: don’t be scared of messing up (“we make l
 
 **A number of delegates from the first Global Diversity CFP Day in 2018 [have since spoken at conferences](https://www.globaldiversitycfpday.com/blog).  I’m working on honing my bio and abstract and will be submitting them soon!  When I give my first tech talk, I will be sure to blog about the experience.**
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">
 
 Had a great time today. People came up with super clear, sharp proposals. Mentoring was a breeze, honestly. I think only [https://twitter.com/SuzeShardlow?ref_src=twsrc%5Etfw][@SuzeShardlow] from my group is on Twitter and reckon I'll be seeing her "From policing to programming: how I switched careers when I turned 40" at a conf soon! [https://t.co/g0NXbclQ8w]
 [https://t.co/g0NXbclQ8w]</p>
