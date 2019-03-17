@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="/assets/css/main.css">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 </head>
-<body>
+<body class="is-preload">
   <div id="wrapper">
     <div id="main">
       <div class="inner">
@@ -14,33 +14,37 @@
         <section id="banner">
           <div class="content">
             <header class="main">
-              <h1>{{ page.headline }}</h1>
-              <p>{{ page.sub_headline }}</p>
-            </header>
-          </section>
-          <span class="image main"><img src="/images/{{ page.main_image }}"></span>
+              <h1>{{ page.name }}</h1>
+              <h2>{{ page.sub_headline }}</h2>
 
-          <div class=row>
-            {% for project in site.coding_projects %}
-            <div class="col-4 col-12-medium">
-              <a href="{{ project.url }}">
-                <span class="image fit"><img src="/images/{{ project.main_image }}"></span>
+              <p>{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+              <ul class="icons">
+                <span class="label">{{ item.name }}</span>
+                {% for item in site.data.social_sharer %}
+                <li>
+                  <a href="{{ item.link }}{{ site.url }}{{ page.url }}%0A%0ACheck out %22{{ page.headline }}%22 by Suze Shardlow!" class="{{ item.class }}"></a>
+                </li>
+                {% endfor %}
+              </ul>
+            </p>
 
-              </div>
-              {% endfor %}
-            </div>
+          </header>
 
-            {{ content }}
-          </div>
+        </section>
+        <span class="image main"><img src="/images/{{ page.main_image }}"></span>
+        <div class="blogpost">
+          {{ content }}
         </div>
-        {% include navigation.html %}
       </div>
+    </div>
+    {% include navigation.html %}
+  </div>
+  <script src="/assets/js/jquery.min.js"></script>
+  <script src="/assets/js/browser.min.js"></script>
+  <script src="/assets/js/breakpoints.min.js"></script>
+  <script src="/assets/js/util.js"></script>
+  <script src="/assets/js/main.js"></script>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-      <script src="/assets/js/jquery.min.js"></script>
-      <script src="/assets/js/browser.min.js"></script>
-      <script src="/assets/js/breakpoints.min.js"></script>
-      <script src="/assets/js/util.js"></script>
-      <script src="/assets/js/main.js"></script>
-
-    </body>
-    </html>
+</body>
+</html>
