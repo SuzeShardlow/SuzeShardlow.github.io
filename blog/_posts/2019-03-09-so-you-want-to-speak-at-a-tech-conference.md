@@ -1,20 +1,21 @@
 ---
 headline: So You Want To Speak At A Tech Conference?
 sub_headline: Breaking down the barriers we put between us and the stage
-read_time: 4
-main_image: conference_speaker.jpg
+read_time: 7
+main_image: conference_speaker2.jpg
 ---
 
 Nothing says you’re an expert like being booked to speak at a conference.  But how do you get invited if you have no idea what the selection committee is looking for - or, worse still, you can’t even decide on a topic?
 
 Maybe you’re all ready to submit your talk proposal, but the thought of actually getting up there and delivering your presentation fills you with a strange mixture of excitement and terror...
 
-I fell into the former camp.  As Chapter Lead at Ladies Of Code: London and a former senior manager at the Met Police, I am no stranger to organising and speaking at large events.  However, since pivoting my career and recently becoming a software engineer, I’ve found it hard to believe that there was a **tech topic** in the world that anyone would want to hear me talk about.  I came to the workshop with vague ideas that I could talk about how I switched careers but this just didn’t seem technical enough for me.
+I fell into the former camp.  As Chapter Lead at Ladies Of Code: London and a former senior manager at the Met Police, I am no stranger to organising and speaking at large events.  However, since pivoting my career and becoming a software engineer, I’ve found it hard to believe that there was a **tech topic** in the world that anyone would want to hear me talk about.  I came to the workshop with vague ideas that I could talk about how I switched careers but this just didn’t seem technical enough for me.
 
 Not so, [Emanuil Tolev](https://twitter.com/emanuil_tolev), my mentor at the 2019 [Global Diversity CFP Day](https://globaldiversitycfpday.com) in London, assured me.  Through a series of practical workshops carefully designed by the organisers, Emanuil coached me and two other keen techies to the point where each of us had not only developed a bio, concise topic and attention-grabbing abstract, but also felt confident enough to present these to the rest of the delegates and mentors at the conclusion of the event.
 
 As well as Emanuil’s knowledge and expertise, we also drew on the experience of a range of [guest speakers](https://globaldiversitycfpday.com/schedule) who shared some invaluable hints and tips which got us really drilling down into what we wanted to say.
 
+![image](/images/scotlandjs.jpg){: .image .right}
 [Global Diversity CFP Day originated in Scotland in 2016](http://scotlandjs.com/global-diversity-cfp-day).  This year, it came to thousands of would-be conference speakers in more than 75 cities worldwide.  Their vision is that “more people from underrepresented groups within the industry feel safe, supported and encouraged to take to the stage and share their valued perspective and unique voice”.
 
 Here are some of the limiting beliefs we brought to the workshop and the advice that helped us leave them at the door...
@@ -52,6 +53,8 @@ In the same way you wouldn’t apply to different jobs using identical CVs, you 
 She agrees with the other speakers: “Why are you uniquely qualified?  No-one is an expert on you like you are.”
 
 Danielle believes that a good bio structure means including what you’re about:
+
+<iframe width="560" height="315" align="right" src="https://www.youtube.com/embed/GPPnvXlVj7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Currently...
 - Before that...
@@ -109,9 +112,3 @@ Had a great time today. People came up with super clear, sharp proposals. Mentor
 
 
 Many thanks to [Nexmo](https://nexmo.com) for hosting us, to [Myrsini Koukiasa](https://twitter.com/myrsiningos) for organising the event and to all the mentors who gave up their Saturday to coach and encourage us.
-
-Our mentors
-
-Family photo :)
-
-Get the photos from Twitter - @frathgeber
