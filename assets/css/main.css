@@ -52,6 +52,11 @@ section, summary, time, mark, audio, video {
       font-size: 1.1em;
     }
 
+    .learn-more {
+      margin-top: -10px;
+      margin-bottom: 10px;
+    }
+
     ol, ul {
       list-style: none;
     }

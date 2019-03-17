@@ -3,6 +3,7 @@ layout: default
 title: "Suze Shardlow :: About"
 headline: About Me
 sub_headline: I love making things that people use and enjoy.
+main_image: wedding_bunting.jpg
 ---
 
 I have moved into software development and am now looking for a full stack role in a fun, supportive team where I can make a real contribution and learn new skills.

@@ -10,9 +10,9 @@
   <div id="wrapper">
     <div id="main">
       <div class="inner">
-        {% include header.html %}
-        <section id="banner">
-          <div class="content">
+        <div class="content">
+          {% include header.html %}
+          <section id="banner">
             <header class="main">
               <h1>{{ page.headline }}</h1>
               <p>{{ page.sub_headline }}</p>
@@ -24,25 +24,27 @@
             <div class="col-6 col-12-medium">
               <a href="{{ app.url }}">
                 <span class="image fit"><img src="/images/{{ app.main_image }}"></span>
-                <h3>{{ app.name }}</a></h3>
-                <p>{{ app.sub_headline }}
-                <a href="{{ app.url }}" class="button small">Learn More</a><p>
-
+                <h3>{{ app.name }}</h3></a>
+                <p>{{ app.sub_headline }}</p>
+                <div class="align-right learn-more">
+                  <a href="{{ app.url }}" class="button small align-right">Learn More</a>
+                </div>
               </div>
               {% endfor %}
             </div>
-
             {{ content }}
           </div>
         </div>
-        {% include navigation.html %}
       </div>
+      {% include navigation.html %}
 
-      <script src="/assets/js/jquery.min.js"></script>
-      <script src="/assets/js/browser.min.js"></script>
-      <script src="/assets/js/breakpoints.min.js"></script>
-      <script src="/assets/js/util.js"></script>
-      <script src="/assets/js/main.js"></script>
+    </div>
 
-    </body>
-    </html>
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/browser.min.js"></script>
+    <script src="/assets/js/breakpoints.min.js"></script>
+    <script src="/assets/js/util.js"></script>
+    <script src="/assets/js/main.js"></script>
+
+  </body>
+  </html>
