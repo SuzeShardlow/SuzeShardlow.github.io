@@ -11,9 +11,9 @@ main_image: unscramble_on_macbook.jpg
 
 I wrote it in seven days using HTML, CSS and JavaScript.
 
-<a href="http://suzeshardlow.com/unscramble">Play game</a>
+[Play game](http://suzeshardlow.com/unscramble)
 
-<a href="https://github.com/SuzeShardlow/unscramble">View code</a>
+[View code](https://github.com/SuzeShardlow/unscramble)
 
 It is based on a [popular toy](https://en.wikipedia.org/wiki/15_puzzle) from my childhood where the player must slide number tiles around a 4x4 grid until they are in numerical order.
 
