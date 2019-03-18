@@ -5,4 +5,4 @@ read_time: 2
 main_image: wedding_bunting.jpg
 ---
 
-Blah blah blah
+Blah blah blah blah
