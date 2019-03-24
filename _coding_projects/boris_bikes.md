@@ -1,7 +1,7 @@
 ---
 layout: coding_project
 name: Boris Bikes
-sub_headline: A little JavaScript app I built in one evening.
+sub_headline: A little JavaScript app I built in one evening using the TfL and Google Maps APIs.
 github: boris-bikes
 live_app:
 main_image: boris_bikes.jpg
