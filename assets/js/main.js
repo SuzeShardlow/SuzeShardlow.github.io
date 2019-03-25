@@ -1,306 +1,262 @@
 /*
-	Landed by HTML5 UP
+	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
 (function($) {
 
-	skel.breakpoints({
-		xlarge: '(max-width: 1680px)',
-		large: '(max-width: 1280px)',
-		medium: '(max-width: 980px)',
-		small: '(max-width: 736px)',
-		xsmall: '(max-width: 480px)'
-	});
+	var	$window = $(window),
+		$head = $('head'),
+		$body = $('body');
 
-	$(function() {
+	// Breakpoints.
+		breakpoints({
+			xlarge:   [ '1281px',  '1680px' ],
+			large:    [ '981px',   '1280px' ],
+			medium:   [ '737px',   '980px'  ],
+			small:    [ '481px',   '736px'  ],
+			xsmall:   [ '361px',   '480px'  ],
+			xxsmall:  [ null,      '360px'  ],
+			'xlarge-to-max':    '(min-width: 1681px)',
+			'small-to-xlarge':  '(min-width: 481px) and (max-width: 1680px)'
+		});
 
-		var	$window = $(window),
-			$body = $('body');
+	// Stops animations/transitions until the page has ...
 
-		// Disable animations/transitions until the page has loaded.
-			$body.addClass('is-loading');
-
+		// ... loaded.
 			$window.on('load', function() {
 				window.setTimeout(function() {
-					$body.removeClass('is-loading');
-				}, 0);
+					$body.removeClass('is-preload');
+				}, 100);
 			});
 
-		// Touch mode.
-			if (skel.vars.mobile)
-				$body.addClass('is-touch');
+		// ... stopped resizing.
+			var resizeTimeout;
 
-		// Fix: Placeholder polyfill.
-			$('form').placeholder();
+			$window.on('resize', function() {
 
-		// Prioritize "important" elements on medium.
-			skel.on('+medium -medium', function() {
-				$.prioritize(
-					'.important\\28 medium\\29',
-					skel.breakpoint('medium').active
-				);
+				// Mark as resizing.
+					$body.addClass('is-resizing');
+
+				// Unmark after delay.
+					clearTimeout(resizeTimeout);
+
+					resizeTimeout = setTimeout(function() {
+						$body.removeClass('is-resizing');
+					}, 100);
+
 			});
 
-		// Scrolly links.
-			$('.scrolly').scrolly({
-				speed: 2000
+	// Fixes.
+
+		// Object fit images.
+			if (!browser.canUse('object-fit')
+			||	browser.name == 'safari')
+				$('.image.object').each(function() {
+
+					var $this = $(this),
+						$img = $this.children('img');
+
+					// Hide original image.
+						$img.css('opacity', '0');
+
+					// Set background.
+						$this
+							.css('background-image', 'url("' + $img.attr('src') + '")')
+							.css('background-size', $img.css('object-fit') ? $img.css('object-fit') : 'cover')
+							.css('background-position', $img.css('object-position') ? $img.css('object-position') : 'center');
+
+				});
+
+	// Sidebar.
+		var $sidebar = $('#sidebar'),
+			$sidebar_inner = $sidebar.children('.inner');
+
+		// Inactive by default on <= large.
+			breakpoints.on('<=large', function() {
+				$sidebar.addClass('inactive');
 			});
 
-		// Dropdowns.
-			$('#nav > ul').dropotron({
-				alignment: 'right',
-				hideDelay: 350
+			breakpoints.on('>large', function() {
+				$sidebar.removeClass('inactive');
 			});
 
-		// Off-Canvas Navigation.
+		// Hack: Workaround for Chrome/Android scrollbar position bug.
+			if (browser.os == 'android'
+			&&	browser.name == 'chrome')
+				$('<style>#sidebar .inner::-webkit-scrollbar { display: none; }</style>')
+					.appendTo($head);
 
-			// Title Bar.
-				$(
-					'<div id="titleBar">' +
-						'<a href="#navPanel" class="toggle"></a>' +
-						'<span class="title">' + $('#logo').html() + '</span>' +
-					'</div>'
-				)
-					.appendTo($body);
+		// Toggle.
+			$('<a href="#sidebar" class="toggle">Toggle</a>')
+				.appendTo($sidebar)
+				.on('click', function(event) {
 
-			// Navigation Panel.
-				$(
-					'<div id="navPanel">' +
-						'<nav>' +
-							$('#nav').navList() +
-						'</nav>' +
-					'</div>'
-				)
-					.appendTo($body)
-					.panel({
-						delay: 500,
-						hideOnClick: true,
-						hideOnSwipe: true,
-						resetScroll: true,
-						resetForms: true,
-						side: 'left',
-						target: $body,
-						visibleClass: 'navPanel-visible'
-					});
+					// Prevent default.
+						event.preventDefault();
+						event.stopPropagation();
 
-			// Fix: Remove navPanel transitions on WP<10 (poor/buggy performance).
-				if (skel.vars.os == 'wp' && skel.vars.osVersion < 10)
-					$('#titleBar, #navPanel, #page-wrapper')
-						.css('transition', 'none');
+					// Toggle.
+						$sidebar.toggleClass('inactive');
 
-		// Parallax.
-		// Disabled on IE (choppy scrolling) and mobile platforms (poor performance).
-			if (skel.vars.browser == 'ie'
-			||	skel.vars.mobile) {
+				});
 
-				$.fn._parallax = function() {
+		// Events.
 
-					return $(this);
+			// Link clicks.
+				$sidebar.on('click', 'a', function(event) {
 
-				};
+					// >large? Bail.
+						if (breakpoints.active('>large'))
+							return;
 
-			}
-			else {
+					// Vars.
+						var $a = $(this),
+							href = $a.attr('href'),
+							target = $a.attr('target');
 
-				$.fn._parallax = function() {
+					// Prevent default.
+						event.preventDefault();
+						event.stopPropagation();
 
-					$(this).each(function() {
+					// Check URL.
+						if (!href || href == '#' || href == '')
+							return;
 
-						var $this = $(this),
-							on, off;
+					// Hide sidebar.
+						$sidebar.addClass('inactive');
 
-						on = function() {
+					// Redirect to href.
+						setTimeout(function() {
 
-							$this
-								.css('background-position', 'center 0px');
-
-							$window
-								.on('scroll._parallax', function() {
-
-									var pos = parseInt($window.scrollTop()) - parseInt($this.position().top);
-
-									$this.css('background-position', 'center ' + (pos * -0.15) + 'px');
-
-								});
-
-						};
-
-						off = function() {
-
-							$this
-								.css('background-position', '');
-
-							$window
-								.off('scroll._parallax');
-
-						};
-
-						skel.on('change', function() {
-
-							if (skel.breakpoint('medium').active)
-								(off)();
+							if (target == '_blank')
+								window.open(href);
 							else
-								(on)();
+								window.location.href = href;
 
-						});
+						}, 500);
 
-					});
+				});
 
-					return $(this);
+			// Prevent certain events inside the panel from bubbling.
+				$sidebar.on('click touchend touchstart touchmove', function(event) {
 
-				};
+					// >large? Bail.
+						if (breakpoints.active('>large'))
+							return;
+
+					// Prevent propagation.
+						event.stopPropagation();
+
+				});
+
+			// Hide panel on body click/tap.
+				$body.on('click touchend', function(event) {
+
+					// >large? Bail.
+						if (breakpoints.active('>large'))
+							return;
+
+					// Deactivate.
+						$sidebar.addClass('inactive');
+
+				});
+
+		// Scroll lock.
+		// Note: If you do anything to change the height of the sidebar's content, be sure to
+		// trigger 'resize.sidebar-lock' on $window so stuff doesn't get out of sync.
+
+			$window.on('load.sidebar-lock', function() {
+
+				var sh, wh, st;
+
+				// Reset scroll position to 0 if it's 1.
+					if ($window.scrollTop() == 1)
+						$window.scrollTop(0);
 
 				$window
-					.on('load resize', function() {
-						$window.trigger('scroll');
-					});
+					.on('scroll.sidebar-lock', function() {
 
-			}
+						var x, y;
 
-		// Spotlights.
-			var $spotlights = $('.spotlight');
+						// <=large? Bail.
+							if (breakpoints.active('<=large')) {
 
-			$spotlights
-				._parallax()
-				.each(function() {
+								$sidebar_inner
+									.data('locked', 0)
+									.css('position', '')
+									.css('top', '');
 
-					var $this = $(this),
-						on, off;
-
-					on = function() {
-
-						// Use main <img>'s src as this spotlight's background.
-							$this.css('background-image', 'url("' + $this.find('.image.main > img').attr('src') + '")');
-
-						// Enable transitions (if supported).
-							if (skel.canUse('transition')) {
-
-								var top, bottom, mode;
-
-								// Side-specific scrollex tweaks.
-									if ($this.hasClass('top')) {
-
-										mode = 'top';
-										top = '-20%';
-										bottom = 0;
-
-									}
-									else if ($this.hasClass('bottom')) {
-
-										mode = 'bottom-only';
-										top = 0;
-										bottom = '20%';
-
-									}
-									else {
-
-										mode = 'middle';
-										top = 0;
-										bottom = 0;
-
-									}
-
-								// Add scrollex.
-									$this.scrollex({
-										mode:		mode,
-										top:		top,
-										bottom:		bottom,
-										initialize:	function(t) { $this.addClass('inactive'); },
-										terminate:	function(t) { $this.removeClass('inactive'); },
-										enter:		function(t) { $this.removeClass('inactive'); },
-
-										// Uncomment the line below to "rewind" when this spotlight scrolls out of view.
-
-										//leave:	function(t) { $this.addClass('inactive'); },
-
-									});
+								return;
 
 							}
 
-					};
+						// Calculate positions.
+							x = Math.max(sh - wh, 0);
+							y = Math.max(0, $window.scrollTop() - x);
 
-					off = function() {
+						// Lock/unlock.
+							if ($sidebar_inner.data('locked') == 1) {
 
-						// Clear spotlight's background.
-							$this.css('background-image', '');
+								if (y <= 0)
+									$sidebar_inner
+										.data('locked', 0)
+										.css('position', '')
+										.css('top', '');
+								else
+									$sidebar_inner
+										.css('top', -1 * x);
 
-						// Disable transitions (if supported).
-							if (skel.canUse('transition')) {
+							}
+							else {
 
-								// Remove scrollex.
-									$this.unscrollex();
+								if (y > 0)
+									$sidebar_inner
+										.data('locked', 1)
+										.css('position', 'fixed')
+										.css('top', -1 * x);
 
 							}
 
-					};
+					})
+					.on('resize.sidebar-lock', function() {
 
-					skel.on('change', function() {
+						// Calculate heights.
+							wh = $window.height();
+							sh = $sidebar_inner.outerHeight() + 30;
 
-						if (skel.breakpoint('medium').active)
-							(off)();
-						else
-							(on)();
+						// Trigger scroll.
+							$window.trigger('scroll.sidebar-lock');
 
-					});
-
-				});
-
-		// Wrappers.
-			var $wrappers = $('.wrapper');
-
-			$wrappers
-				.each(function() {
-
-					var $this = $(this),
-						on, off;
-
-					on = function() {
-
-						if (skel.canUse('transition')) {
-
-							$this.scrollex({
-								top:		250,
-								bottom:		0,
-								initialize:	function(t) { $this.addClass('inactive'); },
-								terminate:	function(t) { $this.removeClass('inactive'); },
-								enter:		function(t) { $this.removeClass('inactive'); },
-
-								// Uncomment the line below to "rewind" when this wrapper scrolls out of view.
-
-								//leave:	function(t) { $this.addClass('inactive'); },
-
-							});
-
-						}
-
-					};
-
-					off = function() {
-
-						if (skel.canUse('transition'))
-							$this.unscrollex();
-
-					};
-
-					skel.on('change', function() {
-
-						if (skel.breakpoint('medium').active)
-							(off)();
-						else
-							(on)();
-
-					});
+					})
+					.trigger('resize.sidebar-lock');
 
 				});
 
-		// Banner.
-			var $banner = $('#banner');
+	// Menu.
+		var $menu = $('#menu'),
+			$menu_openers = $menu.children('ul').find('.opener');
 
-			$banner
-				._parallax();
+		// Openers.
+			$menu_openers.each(function() {
 
-	});
+				var $this = $(this);
+
+				$this.on('click', function(event) {
+
+					// Prevent default.
+						event.preventDefault();
+
+					// Toggle.
+						$menu_openers.not($this).removeClass('active');
+						$this.toggleClass('active');
+
+					// Trigger resize (sidebar lock).
+						$window.triggerHandler('resize.sidebar-lock');
+
+				});
+
+			});
 
 })(jQuery);

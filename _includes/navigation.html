@@ -1,0 +1,28 @@
+<div id="sidebar">
+  <div class="inner">
+    <nav id="menu">
+      <header class="major">
+        <h2>Menu</h2>
+      </header>
+      <ul>
+        {% for menu_item in site.data.navigation %}
+
+        <li><a href="{{ menu_item.link }}">{{ menu_item.name }}</a></li>
+        {% endfor %}
+        <!-- <li>
+          <span class="opener">Submenu</span>
+          <ul>
+            <li><a href="#">Lorem Dolor</a></li>
+            <li><a href="#">Ipsum Adipiscing</a></li>
+            <li><a href="#">Tempus Magna</a></li>
+            <li><a href="#">Feugiat Veroeros</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Etiam Dolore</a></li>
+        <li><a href="#">Adipiscing</a></li> -->
+
+      </ul>
+    </nav>
+    {% include footer.html %}
+  </div>
+</div>

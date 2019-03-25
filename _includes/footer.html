@@ -1,0 +1,14 @@
+<footer id="footer">
+  <header class="major">
+    <h2>Get in touch</h2>
+  </header>
+
+  <ul class="icons">
+    {% for item in site.data.footer %}
+    <li>
+      <a href="{{ item.link }}" class="{{ item.class }}"><span class="label"></a>
+    </li>
+    {% endfor %}
+    <p class="copyright">
+      &copy; Suze Shardlow. Layout: <a href="http://html5up.net" target="_blank">HTML5 UP</a>
+    </footer>
