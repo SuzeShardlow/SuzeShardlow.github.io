@@ -12,7 +12,7 @@
     <span class="label share-label">Share</span>
     {% for item in site.data.social_sharer %}
     <li>
-      <a href="{{ item.link | replace: 'SITE_URL', site.url | replace: 'SHARE_URL', page.url | replace: 'SHARE_TEXT', page.headline }}" class="{{ item.class }}"></a>
+      <a target="{{ item.target }}" href="{{ item.link | replace: 'SITE_URL', site.url | replace: 'SHARE_URL', page.url | replace: 'SHARE_TEXT', page.headline }}" class="{{ item.class }}"></a>
     </li>
     {% endfor %}
   </ul>
