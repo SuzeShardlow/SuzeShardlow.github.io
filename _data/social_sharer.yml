@@ -1,5 +1,5 @@
 - name: Twitter
-  link: https://twitter.com/intent/tweet?text="Check out "SHARE_TEXT"!"&url=SHARE_URL
+  link: https://twitter.com/intent/tweet?text=Check out SHARE_TEXT by @SuzeShardlow &url=SITE_URL SHARE_URL
   class: icon fa-twitter
 - name: LinkedIn
   link: https://www.linkedin.com/shareArticle?mini=true&url=SHARE_URL&title=SHARE_TEXT&summary=SHARE_EXCERPT&source=suze.dev by Suze Shardlow
