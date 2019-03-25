@@ -7,8 +7,6 @@ live_app:
 main_image: borro_on_macbook.jpg
 ---
 
-## Borro is a MEAN (MongoDB, Express, AngularJS, Node.js) stack app which allows users to lend and borrow household items.
-
 I worked with two colleagues and we divided up tasks to create this app within seven days.
 
 <!-- [Launch app](http://suzeshardlow.com/borro) -->

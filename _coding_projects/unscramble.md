@@ -7,9 +7,7 @@ live_app:
 main_image: unscramble_on_macbook.jpg
 ---
 
-## Unscramble! is a JavaScript game I built after two weeks of learning JavaScript.
-
-I wrote it in seven days using HTML, CSS and JavaScript.
+I wrote Unscramble! in seven days using HTML, CSS and JavaScript.
 
 [Play game](http://suzeshardlow.com/unscramble)
 

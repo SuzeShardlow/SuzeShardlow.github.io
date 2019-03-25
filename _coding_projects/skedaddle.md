@@ -7,13 +7,11 @@ live_app:
 main_image: skedaddle_on_macbook.jpg
 ---
 
-## Skedaddle is a MEN (MongoDB, Express, Node.js) stack app I built in seven days which draws data from the [Transport for London (TfL) API](https://api.tfl.gov.uk) to help Tube travellers.
-
 <!-- <a href="http://suzeshardlow.com/skedaddle">Launch app</a> -->
 
-[View code](https://github.com/SuzeShardlow/skedaddle)
+The [Transport for London (TfL) API](https://api.tfl.gov.uk) has thousands of endpoints and I wanted to see if I could build an app which allows users to log in securely, plan journeys and save them to the database, as well as view station information.
 
-The TfL API has thousands of endpoints and I wanted to see if I could build an app which allows users to log in securely, plan journeys and save them to the database, as well as view station information.
+[View code](https://github.com/SuzeShardlow/skedaddle)
 
 I am now creating an [Alexa skill](https://github.com/SuzeShardlow/alexa_skill_skedaddle) which also uses the TfL API.
 
