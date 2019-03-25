@@ -26,36 +26,28 @@
               <h1>{{ page.headline }}</h1>
               <h2>{{ page.sub_headline }}</h2>
 
-              <p>{{ page.date | date: "%A %-d %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %} • {{ page.read_time }}-minute read{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-              <ul class="icons">
-                <span class="label">{{ item.name }}</span>
-                {% for item in site.data.social_sharer %}
-                <li>
-                  <a href="{{ item.link }}{{ site.url }}{{ page.url }}%0A%0ACheck out %22{{ page.headline }}%22 by Suze Shardlow!" class="{{ item.class }}"></a>
-                </li>
-                {% endfor %}
-              </ul>
-            </p>
+              <p>{{ page.date | date: "%A %-d %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %} • {{ page.read_time }}-minute read{% if page.meta %} • {{ page.meta }}{% endif %}
+              </p>
 
-          </header>
+            </header>
 
-        </section>
-        <span class="image main"><img src="/images/{{ page.main_image }}"></span>
-        <div class="blogpost">
-          {{ content }}
+          </section>
+          <span class="image main"><img src="/images/{{ page.main_image }}"></span>
+          <div class="blogpost">
+            {{ content }}
+          </div>
+          <hr/>
+          {% include social_sharer.html %}
         </div>
-        <hr/>
-        {% include social_sharer.html %}
       </div>
+      {% include navigation.html %}
     </div>
-    {% include navigation.html %}
-  </div>
-  <script src="/assets/js/jquery.min.js"></script>
-  <script src="/assets/js/browser.min.js"></script>
-  <script src="/assets/js/breakpoints.min.js"></script>
-  <script src="/assets/js/util.js"></script>
-  <script src="/assets/js/main.js"></script>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/browser.min.js"></script>
+    <script src="/assets/js/breakpoints.min.js"></script>
+    <script src="/assets/js/util.js"></script>
+    <script src="/assets/js/main.js"></script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</body>
-</html>
+  </body>
+  </html>
