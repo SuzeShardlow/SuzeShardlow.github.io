@@ -1,20 +1,16 @@
 - name: Twitter
-  link: https://twitter.com/intent/tweet?text=Check out SHARE_TEXT by @SuzeShardlow &url=SITE_URL SHARE_URL
+  link: https://twitter.com/intent/tweet?text=Check out SHARE_TEXT by @SuzeShardlow&url=SITE_URLSHARE_URL
   class: icon fa-twitter
-  target: _blank
 - name: LinkedIn
-  link: https://www.linkedin.com/shareArticle?mini=true&url=SITE_URL SHARE_URL&title=SHARE_TEXT&summary=SHARE_EXCERPT&source=suze.dev by Suze Shardlow
+  link: https://www.linkedin.com/shareArticle?mini=true&url=SITE_URLSHARE_URL&title=SHARE_TEXT&source=suze.dev by Suze Shardlow
   class: icon fa-linkedin
-  target: _blank
 - name: WhatsApp
-  link: https://wa.me/?text="Check out "SHARE_TEXT" by Suze Shardlow "SITE_URL SHARE_URL
+  link: https://wa.me/?text=Check out SHARE_TEXT by Suze Shardlow SITE_URLSHARE_URL
   class: icon fa-whatsapp
-  target: _self
 - name: Facebook
   link: https://www.facebook.com/sharer.php?u=SITE_URL SHARE_URL
   class: icon fa-facebook
-  target: _blank
 - name: Mail
-  link: mailto:web@suzeshardlow.com?subject="Check out this blog post by Suze Shardlow"&body=SHARE_TEXT SITE_URL SHARE_URL
+  link: mailto:web@suzeshardlow.com?subject=Check out this blog post by Suze Shardlow&body=SHARE_TEXT SITE_URLSHARE_URL
   class: icon fa-envelope
-  target: _self
+  
