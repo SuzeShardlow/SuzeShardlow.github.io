@@ -47,11 +47,11 @@ Look for the event conference code of conduct on conference websites.  If there 
 
 There are different types of tech conference.  For example:
 
-Company- or product-specific (eg I went to the [MongoDB conference](https://mongodblocallondon.splashthat.com) last week).  These tend to focus on product/feature launches, demos and customer case studies.  Sometimes they include a career development/people track.  They usually have company experts available to discuss problems or needs you have regarding their products.
+* **Company- or product-specific** (eg I went to the [MongoDB conference](https://mongodblocallondon.splashthat.com) last week).  These tend to focus on product/feature launches, demos and customer case studies.  Sometimes they include a career development/people track.  They usually have company experts available to discuss problems or needs you have regarding their products.
 
-Technology-specific (for example [JAMstack](https://jamstackconf.com/london), which I attended in July).  These often cover a range of related tools, technologies and techniques.  Sometimes there's a people track.
+* **Technology-specific** (for example [JAMstack](https://jamstackconf.com/london), which I attended in July).  These often cover a range of related tools, technologies and techniques.  Sometimes there's a people track.
 
-Community-specific (like [Hopperx1](https://community.anitab.org/event/hopperx1-london), which I was lucky enough to go to in June).  These generally focus on project- or people-based talks across a range of technical disciplines and industries.
+* **Community-specific** (like [Hopperx1](https://community.anitab.org/event/hopperx1-london), which I was lucky enough to go to in June).  These generally focus on project- or people-based talks across a range of technical disciplines and industries.
 
 Study the conference schedule to get a feel for the breadth and depth of topics that will be covered.  Lots of conferences, even if they have very technical content, also have talks on career development and diversity so you get a good mix.
 
