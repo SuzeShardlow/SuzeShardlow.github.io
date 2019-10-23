@@ -11,5 +11,5 @@
   link: https://www.facebook.com/sharer.php?u=SITE_URLSHARE_URL
   class: icon fa-facebook
 - name: Mail
-  link: mailto:web@suzeshardlow.com?subject=Check out this blog post by Suze Shardlow&body=SHARE_TEXT SITE_URLSHARE_URL
+  link: mailto:?subject=Check out SHARE_TEXT by Suze Shardlow&body=SHARE_TEXT SITE_URLSHARE_URL
   class: icon fa-envelope
