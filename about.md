@@ -6,7 +6,7 @@ sub_headline: I love making things that people use and enjoy.
 main_image: wedding_bunting.jpg
 ---
 
-I'm a coder, crafter and choir singer.  At the moment I'm also trying to get my 5km time under 25 minutes...
+I'm a coder, crafter and choir singer.  At the moment I'm also trying to get my 5km time under 24 minutes...
 
 I have a lifelong interest in coding and spent many happy hours in my childhood programming my BBC Micro, using BASIC. I designed and wrote a computer game which earned me the school prize for IT.
 
