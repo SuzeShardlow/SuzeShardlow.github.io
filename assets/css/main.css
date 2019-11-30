@@ -181,13 +181,13 @@ section, summary, time, mark, audio, video {
       -ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
       transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
       border-bottom: dotted 1px;
-      color: #f56a6a;
+      color: #ff0000;
       text-decoration: none;
     }
 
     a:hover {
-      border-bottom-color: #f56a6a;
-      color: #f56a6a !important;
+      border-bottom-color: #ff0000;
+      color: #ff0000 !important;
     }
 
     a:hover strong {
@@ -1825,7 +1825,7 @@ section, summary, time, mark, audio, video {
     }
 
     header.major > :last-child {
-      border-bottom: solid 3px #f56a6a;
+      border-bottom: solid 3px #ff0000;
       display: inline-block;
       margin: 0 0 2em 0;
       padding: 0 0.75em 0.5em 0;
@@ -1892,8 +1892,8 @@ section, summary, time, mark, audio, video {
     input[type="url"]:focus,
     select:focus,
     textarea:focus {
-      border-color: #f56a6a;
-      box-shadow: 0 0 0 1px #f56a6a;
+      border-color: #ff0000;
+      box-shadow: 0 0 0 1px #ff0000;
     }
 
     select {
@@ -1996,8 +1996,8 @@ section, summary, time, mark, audio, video {
 
     input[type="checkbox"]:focus + label:before,
     input[type="radio"]:focus + label:before {
-      border-color: #f56a6a;
-      box-shadow: 0 0 0 1px #f56a6a;
+      border-color: #ff0000;
+      box-shadow: 0 0 0 1px #ff0000;
     }
 
     input[type="checkbox"] + label:before {
@@ -2314,7 +2314,7 @@ section, summary, time, mark, audio, video {
     }
 
     ul.contact li:before {
-      color: #f56a6a;
+      color: #ff0000;
       display: inline-block;
       font-size: 1.5em;
       height: 1.125em;
@@ -2373,7 +2373,7 @@ section, summary, time, mark, audio, video {
     }
 
     ul.pagination li > .page.active {
-      background-color: #f56a6a;
+      background-color: #ff0000;
       color: #ffffff !important;
     }
 
@@ -2491,8 +2491,8 @@ section, summary, time, mark, audio, video {
       background-color: transparent;
       border-radius: 0.375em;
       border: 0;
-      box-shadow: inset 0 0 0 2px #f56a6a;
-      color: #f56a6a !important;
+      box-shadow: inset 0 0 0 2px #ff0000;
+      color: #ff0000 !important;
       cursor: pointer;
       display: inline-block;
       font-family: "Roboto Slab", serif;
@@ -2563,7 +2563,7 @@ section, summary, time, mark, audio, video {
     input[type="button"].primary,
     button.primary,
     .button.primary {
-      background-color: #f56a6a;
+      background-color: #ff0000;
       box-shadow: none;
       color: #ffffff !important;
     }
@@ -2680,7 +2680,7 @@ section, summary, time, mark, audio, video {
     }
 
     .features article .icon:before {
-      color: #f56a6a;
+      color: #ff0000;
       font-size: 2.75rem;
       position: relative;
       top: 0.05em;
@@ -3325,7 +3325,7 @@ section, summary, time, mark, audio, video {
       display: -webkit-flex;
       display: -ms-flex;
       display: flex;
-      border-bottom: solid 5px #f56a6a;
+      border-bottom: solid 5px #ff0000;
       padding: 6em 0 1em 0;
       position: relative;
     }
@@ -3520,7 +3520,7 @@ section, summary, time, mark, audio, video {
     }
 
     #menu ul a:hover, #menu ul span:hover {
-      color: #f56a6a;
+      color: #ff0000;
     }
 
     #menu ul a.opener, #menu ul span.opener {
@@ -3554,7 +3554,7 @@ section, summary, time, mark, audio, video {
     }
 
     #menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-      color: #f56a6a;
+      color: #ff0000;
     }
 
     #menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
