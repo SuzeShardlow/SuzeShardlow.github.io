@@ -33,11 +33,13 @@
             <div class="col-6 col-12-medium">
               <a href="{{ app.url }}">
                 <span class="image fit"><img src="/images/{{ app.main_image }}"></span>
-                <h3>{{ app.name }}</a></h3>
-                <p>{{ app.sub_headline }}</p>
+                <div>
+                <h3 class="learn-header">{{ app.name }}</a></h3>
                 <div class="align-right learn-more">
                   <a href="{{ app.url }}" class="button small align-right">Learn More</a>
                 </div>
+                </div>
+                <p>{{ app.sub_headline }}</p>
               </div>
               {% endfor %}
             </div>
