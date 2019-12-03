@@ -58,11 +58,15 @@ section, summary, time, mark, audio, video {
 
     .zoombox {
       overflow: hidden;
+      border-radius: 0.375em;
+      border: 0;
     }
+    
     .zoomimg {
       transform: scale(1.0);
       transition: all 0.5s ease;
     }
+
     .zoomimg:hover {
       transform: scale(1.2);
     }
