@@ -56,6 +56,17 @@ section, summary, time, mark, audio, video {
       font-size: 1.1em;
     }
 
+    .zoombox {
+      overflow: hidden;
+    }
+    .zoomimg {
+      transform: scale(1.0);
+      transition: all 0.5s ease;
+    }
+    .zoomimg:hover {
+      transform: scale(1.2);
+    }
+
     .learn-more {
       margin-top: -30px;
       margin-bottom: 10px;

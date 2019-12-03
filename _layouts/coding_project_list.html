@@ -34,7 +34,11 @@
           {% for app in site.coding_projects %}
           <div class="col-6 col-12-medium">
             <a href="{{ app.url }}">
-              <span class="image fit"><img src="/images/{{ app.main_image }}"></span>
+              <span class="image fit">
+                <div class="zoombox">
+                  <img src="/images/{{ app.main_image }}" class="zoomimg">
+                </div>
+              </span>
               <div>
                 <h3 class="learn-header">{{ app.name }}
             </a></h3>
