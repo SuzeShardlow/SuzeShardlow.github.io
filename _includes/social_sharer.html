@@ -1,3 +1,9 @@
+{% if include.bottom == true %}
+
+{% include subscribe.html %}
+
+{% endif %}
+
 <ul class="icons">
   <span class="label share-label">Share this content</span>
   {% for item in site.data.social_sharer %}

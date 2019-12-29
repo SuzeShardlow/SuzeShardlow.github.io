@@ -1,0 +1,10 @@
+<form action="https://tinyletter.com/theshardlowdown" method="post" target="popupwindow"
+    onsubmit="window.open('https://tinyletter.com/theshardlowdown', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <label class="subscribe-cta{% if include.nav==true %}-nav{% endif %}" for="tlemail">Subscribe to get new content in
+        your inbox:</label>
+    <input class="subscribe-input{% if include.nav==true %}-nav{% endif %}" type="text" name="email" placeholder="mickey@mouse.com" id="tlemail" />
+    <input type="hidden" value="1" name="embed" />
+    {% if include.nav==true %}<div class="align-right">{% endif %}
+        <input class="subscribe-button{% if include.nav==true %}-nav{% endif %}" type="submit" value="Subscribe" />
+    {% if include.nav==true %}</div>{% endif %}
+</form>
