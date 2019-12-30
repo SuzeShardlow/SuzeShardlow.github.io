@@ -1835,11 +1835,6 @@ section, summary, time, mark, audio, video {
       text-align: center;
     }
 
-    .header-item {
-      border-style: solid;
-      border-width: 4px;
-    }
-
     header p {
       font-family: "Roboto Slab", serif;
       font-size: 1em;
@@ -3436,6 +3431,7 @@ section, summary, time, mark, audio, video {
       border-bottom: solid 5px #ff0000;
       padding: 6em 0 1em 0;
       position: relative;
+      align-items: flex-end;
     }
 
     #header > * {
@@ -3454,7 +3450,7 @@ section, summary, time, mark, audio, video {
     }
 
     #header .icons {
-      text-align: right;
+      text-align: center;
     }
 
     @media screen and (max-width: 1680px) {

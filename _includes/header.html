@@ -1,19 +1,13 @@
 <header id="header">
-  <div class="header-item">
-    {% if page.url contains "blog" %}
-    <a href="/blog" class="logo"><strong>Blog posts</strong> by Suze Shardlow</a>
-    {% elsif page.url contains "coding_projects" %}
-    <a href="/coding_projects" class="logo"><strong>Coding projects</strong> by Suze Shardlow</a>
-    {% else %}
-    <a href="/" class="logo"><strong>Suze.dev</strong> by Suze Shardlow</a>
-    {% endif %}
-  </div>
-
-  <div class="header-item">
-    {% include social_sharer.html %}
-  </div>
-
-  <div class="bmc-header align-right header-item">
+  {% if page.url contains "blog" %}
+  <a href="/blog" class="logo"><strong>Blog posts</strong> by Suze Shardlow</a>
+  {% elsif page.url contains "coding_projects" %}
+  <a href="/coding_projects" class="logo"><strong>Coding projects</strong> by Suze Shardlow</a>
+  {% else %}
+  <a href="/" class="logo"><strong>Suze.dev</strong> by Suze Shardlow</a>
+  {% endif %}
+  {% include social_sharer.html %}
+  <div class="align-right">
     {% include coffee.html %}
   </div>
 </header>
