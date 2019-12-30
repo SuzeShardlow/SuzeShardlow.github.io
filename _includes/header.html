@@ -1,5 +1,4 @@
 <header id="header">
-
   {% if page.url contains "blog" %}
   <a href="/blog" class="logo"><strong>Blog posts</strong> by Suze Shardlow</a>
   {% elsif page.url contains "coding_projects" %}
@@ -7,7 +6,8 @@
   {% else %}
   <a href="/" class="logo"><strong>Suze.dev</strong> by Suze Shardlow</a>
   {% endif %}
-
   {% include social_sharer.html %}
-
+  <div class="align-right">
+    {% include coffee.html %}
+  </div>
 </header>
