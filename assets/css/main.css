@@ -1835,6 +1835,11 @@ section, summary, time, mark, audio, video {
       text-align: center;
     }
 
+    .header-item {
+      border-style: solid;
+      border-width: 4px;
+    }
+
     header p {
       font-family: "Roboto Slab", serif;
       font-size: 1em;
