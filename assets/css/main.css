@@ -38,6 +38,10 @@ section, summary, time, mark, audio, video {
       margin-right: 8px;
     }
     
+    .blogpost > ul {
+      margin-left: 2em;
+    }
+
     .blogpost > p {
       margin: 0 0 1.1em 0;
       font-size: 1.1em;
