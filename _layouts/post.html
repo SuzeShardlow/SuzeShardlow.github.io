@@ -29,7 +29,7 @@
               <h1>{{ page.headline }}</h1>
               <h2>{{ page.sub_headline }}</h2>
 
-              <p>{{ page.date | date: "%A %-d %B, %Y" }}{% if page.author %} • {{ page.author }}{% endif %} •
+              <p>{{ page.date | date: "%A %-d %B, %Y" }}{% if page.author.name %} • {{ page.author.name }}{% endif %} •
                 {{ page.read_time }}-minute read{% if page.meta %} • {{ page.meta }}{% endif %}
               </p>
 
