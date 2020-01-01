@@ -41,8 +41,18 @@
               </span>
               <h3>{{ post.headline }}
             </a></h3>
-            <h4>{{ post.date | date: "%A %-d %B, %Y" }} • {{ post.read_time }}-minute read</h4>
+            <h4>
+              {% assign day = post.date | date: "%-d"  %}
+              {% case day %}
+              {% when '1' or '21' or '31' %}{{ day }}st
+              {% when '2' or '22' %}{{ day }}nd
+              {% when '3' or '23' %}{{ day }}rd
+              {% else %}{{ day }}th
+              {% endcase %}
 
+              {{ post.date | date: " %B %Y" }} •
+              {{ post.read_time }}-minute read
+            </h4>
             <p>{{ post.excerpt }}</p>
           </div>
           {% endfor %}
