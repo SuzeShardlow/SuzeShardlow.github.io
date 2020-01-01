@@ -2,7 +2,7 @@
 headline: Tech Conferences For The Uninitiated
 sub_headline: What to expect from events with 500 strangers and a bunch of new tech
 read_time: 12
-image: conf_welcome.jpg
+image: /images/conf_welcome.jpg
 ---
 
 Summer’s over.  Everyone’s back in learning and mingling mode before we shift gears again, into party territory.  This fortnight I’m doubling my 2019 conference tally.  In fact, my all-time conference tally.  I attended my first tech conference in May this year.

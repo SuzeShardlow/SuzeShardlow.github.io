@@ -4,7 +4,7 @@ name: Borro
 sub_headline: A MEAN (MongoDB, Express, AngularJS, Node.js) stack app which allows users to lend and borrow household items.
 github: borro
 live_app:
-image: borro_on_macbook.jpg
+image: /images/borro_on_macbook.jpg
 ---
 
 I worked with two colleagues and we divided up tasks to create this app within seven days.

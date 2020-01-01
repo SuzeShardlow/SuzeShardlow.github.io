@@ -2,7 +2,7 @@
 headline: WTF Is An Operating System?
 sub_headline: What they’re for, why we need them and why there are different kinds...
 read_time: 4
-image: wtf_operating_system.jpg
+image: /images/wtf_operating_system.jpg
 ---
 
 Without an operating system (OS), a computer would be useless: a bit like a business without a manager.  But what are they for and how do we use them?
