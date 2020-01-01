@@ -5,7 +5,9 @@ read_time: 12
 image: /images/conf_welcome.jpg
 ---
 
-Summer’s over.  Everyone’s back in learning and mingling mode before we shift gears again, into party territory.  This fortnight I’m doubling my 2019 conference tally.  In fact, my all-time conference tally.  I attended my first tech conference in May this year.
+Summer’s over.  Everyone’s back in learning and mingling mode before we shift gears again, into party territory.  This fortnight I’m doubling my 2019 conference tally.
+
+In fact, my all-time conference tally.  I attended my first tech conference in May this year.
 
 Going to a tech conference (or, I guess, any conference) is a bit like your first day at high school or university.  You might have had some choice in where to go, or were just sent there.  You might know a few people, or you might be new to the local community and know a couple of folks, or no-one at all.  Either way, you feel like everyone else is there with their mates.
 
