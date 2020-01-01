@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
 <html>
+
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
@@ -8,13 +9,15 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108081564-1"></script>
   <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'UA-108081564-1');
+    gtag('config', 'UA-108081564-1');
   </script>
+  {% seo %}
 </head>
+
 <body class="is-preload">
   <div id="wrapper">
     <div id="main">
@@ -28,23 +31,24 @@
 
               <p>{% if page.meta %} • {{ page.meta }}{% endif %}</p>
             </header>
-          </section>
-          <span class="image main"><img src="/images/{{ page.main_image }}"></span>
-          <div class="blogpost">
-            {{ content }}
-          </div>
-          <hr/>
-          {% include social_sharer.html bottom=true %}
+        </section>
+        <span class="image main"><img src="/images/{{ page.image }}"></span>
+        <div class="blogpost">
+          {{ content }}
         </div>
+        <hr />
+        {% include social_sharer.html bottom=true %}
       </div>
-      {% include navigation.html %}
     </div>
-    <script src="/assets/js/jquery.min.js"></script>
-    <script src="/assets/js/browser.min.js"></script>
-    <script src="/assets/js/breakpoints.min.js"></script>
-    <script src="/assets/js/util.js"></script>
-    <script src="/assets/js/main.js"></script>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    {% include navigation.html %}
+  </div>
+  <script src="/assets/js/jquery.min.js"></script>
+  <script src="/assets/js/browser.min.js"></script>
+  <script src="/assets/js/breakpoints.min.js"></script>
+  <script src="/assets/js/util.js"></script>
+  <script src="/assets/js/main.js"></script>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-  </body>
-  </html>
+</body>
+
+</html>

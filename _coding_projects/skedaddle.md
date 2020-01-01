@@ -4,7 +4,7 @@ name: Skedaddle
 sub_headline: A full stack app which draws data from the Transport for London (TfL) API to help Tube travellers.
 github: skedaddle
 live_app:
-main_image: skedaddle_on_macbook.jpg
+image: skedaddle_on_macbook.jpg
 ---
 
 <!-- <a href="http://suzeshardlow.com/skedaddle">Launch app</a> -->
