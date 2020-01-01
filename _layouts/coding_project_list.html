@@ -15,6 +15,7 @@
 
     gtag('config', 'UA-108081564-1');
   </script>
+  {% seo %}
 </head>
 
 <body>
@@ -29,14 +30,14 @@
               <p>{{ page.sub_headline }}</p>
             </header>
         </section>
-        <!-- <span class="image main"><img src="/images/{{ page.main_image }}"></span> -->
+        <!-- <span class="image main"><img src="{{ page.image }}"></span> -->
         <div class="row">
           {% for app in site.coding_projects %}
           <div class="col-6 col-12-medium">
             <a href="{{ app.url }}">
               <span class="image fit">
                 <div class="zoombox">
-                  <img src="/images/{{ app.main_image }}" class="zoomimg">
+                  <img src="{{ app.image }}" class="zoomimg">
                 </div>
               </span>
               <div>

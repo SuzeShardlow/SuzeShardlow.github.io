@@ -10,7 +10,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Suze Shardlow"
+      author:
+        name: "Suze Shardlow"
+        twitter: "@SuzeShardlow"
   - scope:
       path: ""
       type: "coding_projects"
@@ -20,3 +22,16 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+# Plugins
+plugins: 
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO Plugin
+twitter:
+  username: SuzeShardlow
+  card: summary
+author: "@SuzeShardlow"
+tagline: Suze Shardlow's personal website.
+lang: en_UK

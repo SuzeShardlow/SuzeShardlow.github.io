@@ -2,7 +2,7 @@
 headline: So You Want To Speak At A Tech Conference?
 sub_headline: Breaking down the barriers we put between us and the stage
 read_time: 7
-main_image: conference_speaker.jpg
+image: /images/conference_speaker.jpg
 ---
 
 Nothing says you’re an expert like being booked to speak at a conference.  But how do you get invited if you have no idea what the selection committee is looking for - or, worse still, you can’t even decide on a topic?

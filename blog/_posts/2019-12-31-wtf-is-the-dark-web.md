@@ -2,7 +2,7 @@
 headline: WTF Is The Dark Web?
 sub_headline: A sinister place, full of criminal activity?  Or a place where good people do good things?
 read_time: 6
-main_image: wtf_dark_web.jpg
+image: /images/wtf_dark_web.jpg
 ---
 
 “The dark web” is a phrase we’ve heard a lot in the past few years.  Also known as “the darknet”, it has a reputation for being a massive place full of illicit websites.

@@ -2,7 +2,7 @@
 headline: My First Podcast
 sub_headline: Discussing how I combine coding and creativity
 read_time: 1
-main_image: podcast_mic.jpg
+image: /images/podcast_mic.jpg
 ---
 
 I did my first tech talk as a software engineer back in April, about how I switched careers.  The Chief Creative Officer at a TV company saw the video and contacted me to ask if I would guest on her podcast!
