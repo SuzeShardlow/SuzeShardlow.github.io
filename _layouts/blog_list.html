@@ -40,9 +40,9 @@
                   <img src="{{ post.image }}" class="zoomimg">
                 </div>
               </span>
-              <h3>{{ post.headline }}
+              <h3 class="bloglist-title">{{ post.headline }}
             </a></h3>
-            <h4>
+            <h4 class="bloglist-subtitle">
               {% assign day = post.date | date: "%-d"  %}
               {% case day %}
               {% when '1' or '21' or '31' %}{{ day }}st
@@ -50,11 +50,10 @@
               {% when '3' or '23' %}{{ day }}rd
               {% else %}{{ day }}th
               {% endcase %}
-
               {{ post.date | date: " %B %Y" }} •
               {{ post.read_time }}-minute read
             </h4>
-            <p>{{ post.excerpt }}</p>
+            {{ post.excerpt }}
           </div>
           {% endfor %}
         </div>
