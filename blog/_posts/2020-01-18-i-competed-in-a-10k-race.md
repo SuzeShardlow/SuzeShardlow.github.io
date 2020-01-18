@@ -98,3 +98,6 @@ When I was at my fastest over 5k, I was running 4:45 per kilometre so I reckon t
 
 **Am I tempted to go further?**  Well, at the running group Christmas drinks some helpful person pointed out to me that to compete in a half marathon, you only need to train to about 15k, and I reckon I can do that, so...
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/WwsApyDAZJ8" allowfullscreen></iframe>
+</div><br/>
