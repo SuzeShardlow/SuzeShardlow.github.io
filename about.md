@@ -18,7 +18,9 @@ I enjoy using new tech but I've always been more interested in how things are ma
 
 I also love to bake and sing.  Here's one of my favourite karaoke songs:
 
-<iframe align="center" src="https://www.youtube.com/embed/6ul-cZyuYq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6ul-cZyuYq4" allowfullscreen></iframe>
+</div><br/>
 
 I'm an active volunteer and currently hold leadership roles at [Women Who Code: London](https://www.womenwhocode.com/london), [Ladies Of Code: London](https://www.ladiesofcode.com) and [The Scout Association](https://www.scouts.org.uk).
 
