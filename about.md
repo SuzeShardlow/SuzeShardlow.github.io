@@ -24,4 +24,4 @@ I also love to bake and sing.  Here's one of my favourite karaoke songs:
 
 I'm an active volunteer and currently hold leadership roles at [Women Who Code: London](https://www.womenwhocode.com/london), [Ladies Of Code: London](https://www.ladiesofcode.com) and [The Scout Association](https://www.scouts.org.uk).
 
-The photo is of me standing underneath 100 feet of bunting I sewed for my best friend's wedding.
+The photo is of me standing underneath 100ft of bunting I sewed for my best friend's wedding.
