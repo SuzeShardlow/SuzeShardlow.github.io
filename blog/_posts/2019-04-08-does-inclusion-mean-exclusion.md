@@ -3,6 +3,7 @@ headline: Does Inclusion Mean Exclusion?
 sub_headline: The unique issues surrounding building inclusive tech communities
 read_time: 8
 image: /images/mkot.jpg
+comments: true
 ---
 
 When you enter the tech industry, you soon realise that meetups are a Thing.  Groups gather every night of the week in every major city in the world and share IT ideas and knowledge over pizza and beers.
