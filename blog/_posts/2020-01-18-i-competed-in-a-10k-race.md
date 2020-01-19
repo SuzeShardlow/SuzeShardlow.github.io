@@ -3,6 +3,7 @@ headline: I Competed In A 10k Race
 sub_headline: It’s only been a couple of hundred kilometres since I started being able to run 5k without stopping
 read_time: 8
 image: /images/i_competed_in_a_10k_race.jpg
+comments: true
 ---
 
 *(CW/TW: body weight)* In June 2016, after a couple of months of breathless perseverance, I managed to jog a whole 5k for the first time.  It was all I’d set out to do.  I swore I had no desire to run a race, let alone longer distances.
