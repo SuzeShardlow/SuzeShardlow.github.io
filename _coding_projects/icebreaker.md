@@ -5,6 +5,7 @@ sub_headline: A full stack app for techies who know they have to attend networki
 github: icebreaker_backend
 live_app:
 image: /images/icebreaker_on_macbook.jpg
+comments: true
 ---
 
 <!-- <a href="http://suzeshardlow.com/icebreaker">Launch app</a> -->

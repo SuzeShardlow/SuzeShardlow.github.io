@@ -5,6 +5,7 @@ sub_headline: A full stack app which draws data from the Transport for London (T
 github: skedaddle
 live_app:
 image: /images/skedaddle_on_macbook.jpg
+comments: true
 ---
 
 <!-- <a href="http://suzeshardlow.com/skedaddle">Launch app</a> -->

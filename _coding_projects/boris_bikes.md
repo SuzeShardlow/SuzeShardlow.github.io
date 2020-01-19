@@ -5,6 +5,7 @@ sub_headline: A little JavaScript app I built in one evening using the TfL and G
 github: boris-bikes
 live_app:
 image: /images/boris_bikes.jpg
+comments: true
 ---
 
 A map showing the locations of the Boris Bike (officially called Santander Cycle) stations. Data is pulled from the Transport for London (TfL) API and shown on a map using the Google Maps API.
