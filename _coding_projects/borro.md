@@ -5,6 +5,7 @@ sub_headline: A MEAN (MongoDB, Express, AngularJS, Node.js) stack app which allo
 github: borro
 live_app:
 image: /images/borro_on_macbook.jpg
+comments: true
 ---
 
 I worked with two colleagues and we divided up tasks to create this app within seven days.

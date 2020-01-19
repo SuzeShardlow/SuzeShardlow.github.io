@@ -1,14 +1,23 @@
 {% if include.bottom == true %}
+<div class="subscribe-area">
+  {% endif %}
+  <ul class="icons{% if include.bottom == true %} icons-bottom{% endif %}">
+    <span class="label share-label">Share this content</span>
+    {% for item in site.data.social_sharer %}
+    <li>
+      <a target="{{ item.target }}"
+        href="{{ item.link | replace: 'SITE_URL', site.url | replace: 'SHARE_URL', page.url | replace: 'SHARE_TEXT', page.headline }}"
+        class="{{ item.class }}"></a>
+    </li>
+    {% endfor %}
+  </ul>
 
-{% include subscribe.html %}
+  {% if include.bottom == true %}
 
+  {% include subscribe.html %}
+
+  {% endif %}
+
+  {% if include.bottom == true %}
+</div>
 {% endif %}
-
-<ul class="icons">
-  <span class="label share-label">Share this content</span>
-  {% for item in site.data.social_sharer %}
-  <li>
-    <a target="{{ item.target }}" href="{{ item.link | replace: 'SITE_URL', site.url | replace: 'SHARE_URL', page.url | replace: 'SHARE_TEXT', page.headline }}" class="{{ item.class }}"></a>
-  </li>
-  {% endfor %}
-</ul>

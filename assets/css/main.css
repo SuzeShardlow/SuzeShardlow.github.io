@@ -1869,6 +1869,12 @@ section, summary, time, mark, audio, video {
 
     /* Form */
 
+    .subscribe-area {
+      background-color: rgba(210, 215, 217, 0.1);
+      border-radius: 0.375em;
+      padding: 0 0 0.5em 0.5em;
+    }
+
     .subscribe-cta {
       color: #3d4449;
       font-size: 1em;
@@ -1901,6 +1907,11 @@ section, summary, time, mark, audio, video {
       margin: 1.0em 0 0 0;
       text-align: right;
     }
+
+    .subscribe-bottom-form {
+      margin: 0;
+    }
+
 
     form {
       margin: 0 0 2em 0;
@@ -2338,6 +2349,11 @@ section, summary, time, mark, audio, video {
       cursor: default;
       list-style: none;
       padding-left: 0;
+    }
+
+    ul.icons-bottom {
+      margin-top: 2em;
+      margin-bottom: 1em;
     }
 
     ul.icons li {
