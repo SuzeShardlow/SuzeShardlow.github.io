@@ -14,6 +14,7 @@ Looking back, my interest in trials grew with my increase in speed over 5k.  But
 
 I was taking a long, hard look at things and making some big life changes.  I had secured voluntary redundancy at work and decided that being based at home for a bit was the perfect recipe for sorting out my eating to shed some of the weight I’d gained in my 30s.
 
+![image](/images/i_competed_in_a_10k_race_then_and_now.jpg){: .image .right .small}
 As predicted, the pounds started falling off me as soon as I commenced my career break.  The long-lost motivation to don my running gear reappeared and I wanted to see if I could still do two laps at Wimbledon Common without slowing to a walk.
 
 To my surprise, when I returned to parkrun in June 2018 after that 22-month hiatus, I ran all the way round at approximately the same speed as the first time I achieved it.
