@@ -1,6 +1,10 @@
 url: https://suzeshardlow.com
 
+permalink: pretty
+
 collections:
+  posts:
+    permalink: /blog/:categories/:year/:month/:day/:title/
   coding_projects:
     output: true
 
