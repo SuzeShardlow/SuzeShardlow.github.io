@@ -1,7 +1,7 @@
 - name: Home
   link: /
 - name: Who I Am
-  link: /about.html
+  link: /about
 - name: What I've Coded
   link: /coding_projects
   sub: yes
