@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108081564-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108081564-1');
+  </script>
+  {% seo %}
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="main">
+      <div class="inner">
+        {% include header.html %}
+        <section id="banner">
+          <div class="content">
+            <header class="main">
+              <h1>{{ page.headline }}</h1>
+              <p>{{ page.sub_headline }}</p>
+            </header>
+        </section>
+        <span class="image main"><img src="{{ page.image }}"></span>
+        <div class="row">
+          {% for talk in site.talks %}
+          <div class="col-6 col-12-medium">
+            <a href="{{ app.url }}">
+              <span class="image fit">
+                <div class="zoombox">
+                  <img src="{{ app.image }}" class="zoomimg">
+                </div>
+              </span>
+              <div>
+                <h3 class="learn-header">{{ app.name }}
+            </a></h3>
+            <div class="align-right learn-more">
+              <a href="{{ app.url }}" class="button small align-right">Learn More</a>
+            </div>
+          </div>
+          <p>{{ app.sub_headline }}</p>
+        </div>
+        {% endfor %}
+      </div>
+      {{ content }}
+    </div>
+  </div>
+  {% include navigation.html %}
+  </div>
+
+  <script src="/assets/js/jquery.min.js"></script>
+  <script src="/assets/js/browser.min.js"></script>
+  <script src="/assets/js/breakpoints.min.js"></script>
+  <script src="/assets/js/util.js"></script>
+  <script src="/assets/js/main.js"></script>
+
+</body>
+
+</html>
