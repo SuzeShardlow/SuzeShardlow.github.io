@@ -15,7 +15,6 @@
 
     gtag('config', 'UA-108081564-1');
   </script>
-  {% seo %}
 </head>
 
 <body>
@@ -31,30 +30,36 @@
             </header>
         </section>
         <span class="image main"><img src="{{ page.image }}"></span>
+        {{content}}
+        <hr/>
+        {% for talk in site.talks reversed %}
         <div class="row">
-          {% for talk in site.talks %}
-          <div class="col-6 col-12-medium">
-            <a href="{{ app.url }}">
-              <span class="image fit">
-                <div class="zoombox">
-                  <img src="{{ app.image }}" class="zoomimg">
-                </div>
-              </span>
-              <div>
-                <h3 class="learn-header">{{ app.name }}
-            </a></h3>
-            <div class="align-right learn-more">
-              <a href="{{ app.url }}" class="button small align-right">Learn More</a>
-            </div>
+          <div class="col-3 col-12-medium">
+            <span class="image fit"><img src="{{ talk.image }}"></span>
+            <p>{{ talk.date | date: "%B %Y" }} • {{ talk.event_name }}</p>
+            <p>{{ talk.venue }}</p>
+          </div> <!-- col -->
+          <div class="col-7 col-10-medium">
+            <h3>{{ talk.title }}</h3>
+            <p>{{ talk.summary }}</p>
+            {{talk.content}}
+          </div> <!-- col -->
+          <div class="col-2 col-2-medium">
+            {% if talk.video %}
+            <p><a href="{{ talk.video }}" class="icon fa-youtube fa-2x"></a></p>
+            {% endif %}
+            {% if talk.link %}
+            <p><a href="{{ talk.link }}" class="icon fa-link fa-2x"></a></p>
+            {% endif %}
           </div>
-          <p>{{ app.sub_headline }}</p>
-        </div>
+        </div> <!-- row -->
+        <hr/>
         {% endfor %}
+
+        <!-- {{ content }} -->
       </div>
-      {{ content }}
     </div>
-  </div>
-  {% include navigation.html %}
+    {% include navigation.html %}
   </div>
 
   <script src="/assets/js/jquery.min.js"></script>
