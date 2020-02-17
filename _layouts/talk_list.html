@@ -36,7 +36,7 @@
         <div class="row">
           <div class="col-3 col-12-medium">
             <span class="image fit"><img src="{{ talk.image }}"></span>
-            <p>{{ talk.date | date: "%B %Y" }} • {{ talk.event_name }}</p>
+            <p>{{ talk.date | date: "%B %Y" }} • <a href="{{ talk.video }}"></a>{{ talk.event_name }}</a></a></p>
             <p>{{ talk.venue }}</p>
           </div> <!-- col -->
           <div class="col-7 col-10-medium">
