@@ -7,7 +7,7 @@ event_name: FACT///.Coding Workshop Series With Suze Shardlow
 event_link: https://www.eventbrite.com/e/factcoding-reanimnating-data-python-javascript-tickets-88479852621#
 venue: University of Sussex, Brighton, UK
 type: Half-day workshop
-image: /images/speaking/sussex1.jpg
+image: [ /images/speaking/sussex1.jpg, /images/speaking/sussex_workshops.jpg ]
 link: 
 ---
 

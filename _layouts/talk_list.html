@@ -35,9 +35,11 @@
         {% for talk in site.talks reversed %}
         <div class="row">
           <div class="col-3 col-12-medium">
-            <span class="image fit"><img src="{{ talk.image }}"></span>
+            {% for image in talk.image %}
+            <span class="image fit"><img src="{{ image }}"></span>
+            {% endfor %}
 
-            <p>{% if talk.event_link %}<a href="{{ talk.event_link }}">{% endif %}{{ talk.event_name }}</a>, {{ talk.date | date: "%B %Y" }}
+            <p>{% if talk.event_link %}<a href="{{ talk.event_link }}">{% endif %}{{ talk.event_name }}{% if talk.event_link %}</a>{% endif %}, {{ talk.date | date: "%B %Y" }}
             <br>{{ talk.venue }}</p>
 
           </div> <!-- col -->
@@ -62,8 +64,6 @@
         </div> <!-- row -->
         <hr/>
         {% endfor %}
-
-        <!-- {{ content }} -->
       </div>
     </div>
     {% include navigation.html %}
