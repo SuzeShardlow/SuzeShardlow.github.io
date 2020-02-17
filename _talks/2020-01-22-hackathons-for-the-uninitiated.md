@@ -4,10 +4,11 @@ summary: First time speaking at this Meetup group.
 date: January 2020
 format: 
 event_name: Fundamental JS
+event_link: https://www.meetup.com/sandiegojs/events/hsltlrybccbdc/
 venue: American Addiction Centers, San Diego, CA, USA
 type: Meetup
 image: /images/conference_speaker.jpg
-link: https://www.meetup.com/sandiegojs/events/hsltlrybccbdc/
+link: 
 video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ---
 Domino's pizza, Raspberry Pi...

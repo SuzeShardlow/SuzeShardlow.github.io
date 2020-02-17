@@ -4,6 +4,7 @@ summary: Teaching a Python & JavaScript class.
 date: March 2020
 format: 
 event_name: FACT///. Coding & Reanimating Data Workshop Series
+event_link: 
 venue: University of Sussex, Brighton, UK
 type: Class
 image: /images/conference_speaker.jpg
