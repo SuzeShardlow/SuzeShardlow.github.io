@@ -1,8 +1,8 @@
 ---
-title: Greater Than 11% Episode 41 - Suze Shardlow - Coder
-summary: My first podcasting experience!
+title: Greater Than 11% Podcast Episode 41 - Suze Shardlow - Coder
+summary: 
 date: June 2019
-event_name: Greater Than 11%
+event_name: Greater Than 11% by Hub TV
 venue: London, United Kingdom
 type: Interview
 image: /images/speaking/greater_than_11.jpg
