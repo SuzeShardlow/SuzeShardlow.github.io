@@ -9,7 +9,7 @@ venue: American Addiction Centers, San Diego, California, USA
 type: Meetup
 image: /images/speaking/hackathons_sd.jpg
 link: 
-video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+video: 
 ---
 
 Fundamental JS is part of the San Diego JS family of meetups.  It is a monthly event which focuses on "vanilla" JavaScript: no frameworks or libraries allowed!  Each month they have one code talk and one people skills talk.
