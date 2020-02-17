@@ -8,7 +8,6 @@ event_link: https://frontend.womenwhocode.dev/
 venue: BCG Digital Ventures, Berlin, Germany
 type: Long talk
 image: /images/speaking/berlin_speaker_card.jpg
-audio: 
 ---
 
 This is a long version of my first tech talk, the original lightning version of which has had over 6400 views on YouTube.  You can watch the lightning version below.

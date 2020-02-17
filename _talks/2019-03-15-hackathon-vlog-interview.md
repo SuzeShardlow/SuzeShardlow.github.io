@@ -7,8 +7,7 @@ event_name: Women Driven Development Hackathon
 event_link: https://www.eventbrite.co.uk/e/techitforward-hackathon-expedia-group-tickets-55716697141
 venue: Expedia UK, London, United Kingdom
 type: Interview, Vlog
-image: /images/speaking/wdd_hackathon.jpg
-audio: 
+image: /images/speaking/wdd_hackathon.jpg 
 ---
 
 I've attended a few hackathons in the past five years; [I won the first one](https://blog.makersacademy.com/international-womens-day-hackathon-makeithappen-923aba741e58).
