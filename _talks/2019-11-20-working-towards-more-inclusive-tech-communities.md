@@ -9,7 +9,6 @@ venue: University of Sussex, Brighton, United Kingdom
 type: Long talk
 image: /images/speaking/fact_symposium.jpg
 audio: 
-video: 
 ---
 
 I was invited by the University of Sussex to speak on the subject of inclusion in tech communities at their coding conference.

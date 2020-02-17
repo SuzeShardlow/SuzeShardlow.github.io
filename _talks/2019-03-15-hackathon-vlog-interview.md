@@ -9,7 +9,6 @@ venue: Expedia UK, London, United Kingdom
 type: Interview, Vlog
 image: /images/speaking/wdd_hackathon.jpg
 audio: 
-video: https://www.youtube.com/watch?v=UPZCIKkEoJk
 ---
 
 I've attended a few hackathons in the past five years; [I won the first one](https://blog.makersacademy.com/international-womens-day-hackathon-makeithappen-923aba741e58).
@@ -18,4 +17,8 @@ In this interview I talk about my journey from coding as a child to becoming a s
 
 This vlog interview turned out to be a precursor to my talk "Hackathons For The Uninitiated", which I have given in London, UK and California, USA.
 
-You can watch the interview at the link on the right.
+You can watch the interview below.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UPZCIKkEoJk" allowfullscreen></iframe>
+</div><br/>

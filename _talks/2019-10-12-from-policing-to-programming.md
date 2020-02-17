@@ -9,10 +9,9 @@ venue: BCG Digital Ventures, Berlin, Germany
 type: Long talk
 image: /images/speaking/berlin_speaker_card.jpg
 audio: 
-video: https://www.youtube.com/watch?v=Bghs_OyTbrE
 ---
 
-This is a long version of my first tech talk, the original lightning version of which has had over 6400 views on YouTube.  You can watch the lightning version via the link on the right hand side.
+This is a long version of my first tech talk, the original lightning version of which has had over 6400 views on YouTube.  You can watch the lightning version below.
 
 People had come to this conference from all over the world, so I adapted the content and terminology for an international audience.  I also went into more detail in the section on the bootcamp experience.
 
@@ -23,3 +22,8 @@ Here I talk about:
 * How I decided I wanted to be a coder
 * How I made the leap
 * What I learned along the way
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Bghs_OyTbrE" allowfullscreen></iframe>
+</div><br/>
+
