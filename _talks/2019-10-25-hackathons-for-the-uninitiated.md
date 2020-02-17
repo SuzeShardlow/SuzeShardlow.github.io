@@ -3,6 +3,7 @@ title: Hackathons For The Uninitiated
 summary: Hackathons are for everyone!  Tech is for everyone!
 date: October 2019
 event_name: codebar monthlies
+event_link: https://codebar.io/meetings/monthly-oct-2019
 venue: Ticketmaster, London, UK
 type: Meetup
 image: /images/conference_speaker.jpg
