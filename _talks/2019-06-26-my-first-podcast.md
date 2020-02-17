@@ -4,6 +4,7 @@ summary:
 date: June 2019
 format: Long interview
 event_name: Greater Than 11%
+event_link: https://www.hub.tv/blog/greater-than-11/
 venue: Hub TV, London, United Kingdom
 type: Interview
 image: /images/speaking/greater_than_11.jpg
