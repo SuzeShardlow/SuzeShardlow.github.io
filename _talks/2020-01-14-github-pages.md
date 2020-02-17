@@ -19,6 +19,8 @@ This hands-on workshop is aimed at experienced coders (of any language) who are 
 
 I equip participants with prepared website templates and the skills to add layouts and content to their site using DRY principles.  They can add as many blog posts and projects as they like, which will be neatly rendered in a grid on a flexible template.
 
+I also created a student handbook which they are free to use and refer to in their own time.  Some students have shared this with friends and colleagues.
+
 As you can see from the photo, I had a full house of 40 students for this workshop.  Three of the participants reached out to me within 48 hours of the session to let me know they had published blog posts on their new sites.
 
 Testimonials:

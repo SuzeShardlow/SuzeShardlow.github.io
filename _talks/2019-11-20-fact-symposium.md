@@ -8,7 +8,7 @@ event_link: https://www.eventbrite.com/e/factmapping-feminists-coding-practices-
 venue: University of Sussex, Brighton, United Kingdom
 type: Long talk
 image: /images/speaking/fact_symposium.jpg
-audio: 
+audio: /audio/suze-shardlow-working-towards-more-inclusive-tech-communities.mp3
 video: 
 ---
 
