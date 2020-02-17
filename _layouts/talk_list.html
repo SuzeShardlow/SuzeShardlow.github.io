@@ -36,12 +36,14 @@
         <div class="row">
           <div class="col-3 col-12-medium">
             <span class="image fit"><img src="{{ talk.image }}"></span>
-            <p><a href="{{ talk.event_link }}">{{ talk.event_name }}</a>, {{ talk.date | date: "%B %Y" }}
+
+            <p>{% if talk.event_link %}<a href="{{ talk.event_link }}">{% endif %}{{ talk.event_name }}</a>, {{ talk.date | date: "%B %Y" }}
             <br>{{ talk.venue }}</p>
-            <p>{{ talk.format }}</p>
+
           </div> <!-- col -->
           <div class="col-7 col-10-medium">
             <h3>{{ talk.title }}</h3>
+            <p>{{ talk.format }}</p>
             <p>{{ talk.summary }}</p>
             {{talk.content}}
           </div> <!-- col -->

@@ -12,7 +12,7 @@ audio:
 video: https://www.youtube.com/watch?v=UPZCIKkEoJk
 ---
 
-I've attended a few hackathons in the past five years; I won the first one.
+I've attended a few hackathons in the past five years; [I won the first one](https://blog.makersacademy.com/international-womens-day-hackathon-makeithappen-923aba741e58).
 
 In this interview I talk about my journey from coding as a child to becoming a software engineer as an adult.  I also talk about why anyone can succeed at a hackathon.
 
