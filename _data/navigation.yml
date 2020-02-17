@@ -7,3 +7,5 @@
   sub: yes
 - name: What I Think
   link: /blog
+- name: What I've Said
+  link: /talks

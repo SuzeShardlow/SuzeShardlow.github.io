@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108081564-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108081564-1');
+  </script>
+</head>
+
+<body>
+  <div id="wrapper">
+    <div id="main">
+      <div class="inner">
+        {% include header.html %}
+        <section id="banner">
+          <div class="content">
+            <header class="main">
+              <h1>{{ page.headline }}</h1>
+              <p>{{ page.sub_headline }}</p>
+            </header>
+        </section>
+        <span class="image main"><img src="{{ page.image }}"></span>
+        {{content}}
+        <hr/>
+        {% for talk in site.talks reversed %}
+        <div class="row">
+          <div class="col-3 col-12-medium">
+            {% for image in talk.image %}
+            <span class="image fit"><img src="{{ image }}"></span>
+            {% endfor %}
+
+            <p>{% if talk.event_link %}<a href="{{ talk.event_link }}">{% endif %}{{ talk.event_name }}{% if talk.event_link %}</a>{% endif %}, {{ talk.date | date: "%B %Y" }}
+            <br>{{ talk.venue }}</p>
+
+          </div> <!-- col -->
+          <div class="col-7 col-10-medium">
+            <h3>{{ talk.title }}</h3>
+            <p>{{ talk.format }}</p>
+            <p>{{ talk.summary }}</p>
+            {{talk.content}}
+          </div> <!-- col -->
+          <div class="col-2 col-2-medium">
+            {% if talk.link %}
+            <p><a href="{{ talk.link }}" class="icon fa-link fa-2x"></a></p>
+            {% endif %}
+          </div>
+        </div> <!-- row -->
+        <hr/>
+        {% endfor %}
+      </div>
+    </div>
+    {% include navigation.html %}
+  </div>
+
+  <script src="/assets/js/jquery.min.js"></script>
+  <script src="/assets/js/browser.min.js"></script>
+  <script src="/assets/js/breakpoints.min.js"></script>
+  <script src="/assets/js/util.js"></script>
+  <script src="/assets/js/main.js"></script>
+
+</body>
+
+</html>
