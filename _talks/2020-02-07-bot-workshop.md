@@ -7,7 +7,7 @@ event_name: FACT///. Coding & Reanimating Data Workshop Series
 event_link: 
 venue: University of Sussex, Brighton, UK
 type: Class
-image: /images/conference_speaker.jpg
+image: /images/speaking/.jpg
 link: https://twitter.com/FACT_ntwrk/status/1225788122526633986?s=20
 ---
 Building an interactive chat bot using Python and JavaScript.

@@ -2,15 +2,30 @@
 title: Hackathons For The Uninitiated
 summary: First time speaking at this Meetup group.
 date: January 2020
-format: 
+format: Long talk
 event_name: Fundamental JS
 event_link: https://www.meetup.com/sandiegojs/events/hsltlrybccbdc/
-venue: American Addiction Centers, San Diego, CA, USA
+venue: American Addiction Centers, San Diego, California, USA
 type: Meetup
-image: /images/conference_speaker.jpg
+image: /images/speaking/hackathons_sd.jpg
 link: 
 video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ---
-Domino's pizza, Raspberry Pi...
 
-Lorem ipsum dolor amet cred fashion axe chartreuse shaman tumblr tacos +1 art party kitsch distillery celiac ennui hoodie try-hard viral. Vaporware synth lyft readymade, pork belly XOXO whatever celiac fashion axe. Migas hexagon farm-to-table taxidermy. Selvage actually meh portland, beard cornhole edison bulb. Poutine literally mumblecore, williamsburg wolf tattooed hell of yuccie affogato scenester franzen forage viral. Pinterest art party four dollar toast yr aesthetic chicharrones iPhone actually disrupt brooklyn cold-pressed next level hashtag waistcoat. Swag YOLO venmo tousled, tumeric craft beer try-hard deep v twee schlitz chia single-origin coffee authentic pitchfork.
+Fundamental JS is part of the San Diego JS series of meetups.  It is a monthly event which focuses on "vanilla" JavaScript.  Each month they have one code talk and one people skills talk.
+
+This is a repeat of the talk I gave at codebar monthlies in October 2019, with updated slides and the content modified for an American audience.
+
+Hackathons are for everyone in tech.  They a great way to meet others in the industry and hone your collaboration skills.
+
+In this talk, I describe:
+
+* What a hackathon is
+* Different hackathon formats
+* What it's like to take part
+* How to find others to work with
+* What non-coding skills you can bring
+* How I entered and won my first hackathon
+* How you can find hackathons to enter
+
+Interestingly, the straw poll I took at this talk gave similar results to the one in London.  It showed that a fifth of the audience knew what a hackathon was and didn't think it was for them, however, by the end of my talk they were all keen to try one.
