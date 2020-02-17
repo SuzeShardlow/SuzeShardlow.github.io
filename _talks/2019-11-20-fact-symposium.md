@@ -16,11 +16,11 @@ I was invited by the University of Sussex to speak on the subject of inclusion i
 
 The audience was Professors, PhDs and PhD candidates from the University of Sussex and other institutions in the [CHASE Network](https://www.chase.ac.uk/aboutchase).
 
-In this long talk, I covered:
+In this long talk, I cover:
 
 * Communities in tech and why we need them
 * Privilege: does inclusion mean exclusion?
 * "Safe" and "brave" spaces
 * Language: why things like "hi guys!" aren't unisex
 
-You can listen to the audio recording of this talk at the link on the right.
+You can listen to the audio recording of this talk at the link on the right.  The recording starts with an introduction by Professor Kate O'Riordan, Head of School for Media, Film and Music at the University of Sussex and my talk begins at four minutes in.

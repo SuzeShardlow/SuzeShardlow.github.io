@@ -1,9 +1,9 @@
 ---
-title: Greater Than 11% Podcast Episode 41 - Suze Shardlow - Coder
+title: Podcast - Suze Shardlow - Coder
 summary: 
 date: June 2019
 format: Long interview
-event_name: Greater Than 11%
+event_name: Greater Than 11% Podcast, Episode 41
 event_link: https://www.hub.tv/blog/greater-than-11/
 venue: Hub TV, London, United Kingdom
 type: Interview
@@ -15,6 +15,6 @@ I did my first tech talk as a software engineer back in April 2019, about how I 
 
 She was interviewing women in creative roles and counted coding as one of them. I accepted the invitation straightaway and, a few weeks later, went to record the podcast with her.
 
-We talked coding, crafting and creativity: what I love about them and how they’re all linked.
+We talk coding, crafting and creativity: what I love about them and how they’re all linked.
 
 Have a listen at the link on the right.

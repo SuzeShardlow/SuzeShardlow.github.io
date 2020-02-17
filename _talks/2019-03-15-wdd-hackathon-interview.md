@@ -1,5 +1,5 @@
 ---
-title: Women Driven Development Hackathon Vlog Interview
+title: Hackathon Vlog Interview
 summary: 
 date: March 2019
 format: Interview, Vlog

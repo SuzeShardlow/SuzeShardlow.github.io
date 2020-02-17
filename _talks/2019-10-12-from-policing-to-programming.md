@@ -14,7 +14,7 @@ video: https://www.youtube.com/watch?v=Bghs_OyTbrE
 
 This is a long version of my first tech talk, the original lightning version of which has had over 6400 views on YouTube.  You can watch the lightning version via the link on the right hand side.
 
-People had come to this conference from all over the world, so I adapted the content for an international audience.  I also went into more detail in the section on the bootcamp experience.
+People had come to this conference from all over the world, so I adapted the content and terminology for an international audience.  I also went into more detail in the section on the bootcamp experience.
 
 I first started coding when I was seven years old.  I became a software engineer as an adult following long careers in marketing and policing and surviving three redundancies.
 

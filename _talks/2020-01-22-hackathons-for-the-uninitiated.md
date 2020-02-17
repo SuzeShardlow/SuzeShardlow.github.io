@@ -1,6 +1,6 @@
 ---
 title: Hackathons For The Uninitiated
-summary: First time speaking at this Meetup group.
+summary: 
 date: January 2020
 format: Long talk
 event_name: Fundamental JS
@@ -12,9 +12,9 @@ link:
 video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ---
 
-Fundamental JS is part of the San Diego JS series of meetups.  It is a monthly event which focuses on "vanilla" JavaScript.  Each month they have one code talk and one people skills talk.
+Fundamental JS is part of the San Diego JS family of meetups.  It is a monthly event which focuses on "vanilla" JavaScript: no frameworks or libraries allowed!  Each month they have one code talk and one people skills talk.
 
-This is a repeat of the talk I gave at codebar monthlies in October 2019, with updated slides and the content modified for an American audience.
+This is a repeat of the talk I gave at codebar monthlies in October 2019, with updated slides and the content customised for an American audience.
 
 Hackathons are for everyone in tech.  They a great way to meet others in the industry and hone your collaboration skills.
 
