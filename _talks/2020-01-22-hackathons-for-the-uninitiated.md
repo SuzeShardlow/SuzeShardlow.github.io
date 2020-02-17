@@ -2,6 +2,7 @@
 title: Hackathons For The Uninitiated
 summary: First time speaking at this Meetup group.
 date: January 2020
+format: 
 event_name: Fundamental JS
 venue: American Addiction Centers, San Diego, CA, USA
 type: Meetup

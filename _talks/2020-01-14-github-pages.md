@@ -2,6 +2,7 @@
 title: Build Your Personal Website And Blog with GitHub Pages and Jekyll
 summary: A workshop for Women Who Code.
 date: January 2020
+format: 
 event_name: Women Who Code
 venue: Hera Hub, San Diego, CA, USA
 type: Meetup

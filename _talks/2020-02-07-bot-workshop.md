@@ -2,6 +2,7 @@
 title: FACT///. Coding & Reanimating Data
 summary: Teaching a Python & JavaScript class.
 date: February 2020
+format: 
 event_name: FACT///. Coding & Reanimating Data Workshop Series
 venue: University of Sussex, Brighton, UK
 type: Class
