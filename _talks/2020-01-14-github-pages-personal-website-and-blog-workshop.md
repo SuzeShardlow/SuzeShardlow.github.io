@@ -7,7 +7,7 @@ event_name: Women Who Code San Diego
 event_link: https://www.meetup.com/Women-Who-Code-San-Diego/events/267484617/
 venue: Hera Hub, San Diego, California, USA
 type: Meetup
-image: /images/speaking/github_workshop.jpg
+image: [ /images/speaking/github_workshop.jpg, /images/speaking/github_sd_insta.jpg, /images/speaking/github_sd_meetup_com.jpg ]
 link: 
 ---
 
