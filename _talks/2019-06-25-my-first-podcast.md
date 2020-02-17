@@ -1,13 +1,18 @@
 ---
-title: Episode 41 - Suze Shardlow - Coder
+title: Greater Than 11% Episode 41 - Suze Shardlow - Coder
 summary: My first podcasting experience!
 date: June 2019
 event_name: Greater Than 11%
-venue: London, UK
+venue: London, United Kingdom
 type: Interview
-image: /images/conference_speaker.jpg
-link: https://audioboom.com/posts/7298614-ep-41-suze-shardlow-coder
+image: /images/speaking/greater_than_11.jpg
+audio: /blog/2019/06/26/my-first-podcast/
 ---
-I was on the radio and here's how it happened...
 
-Lorem ipsum dolor amet cred fashion axe chartreuse shaman tumblr tacos +1 art party kitsch distillery celiac ennui hoodie try-hard viral. Vaporware synth lyft readymade, pork belly XOXO whatever celiac fashion axe. Migas hexagon farm-to-table taxidermy. Selvage actually meh portland, beard cornhole edison bulb. Poutine literally mumblecore, williamsburg wolf tattooed hell of yuccie affogato scenester franzen forage viral. Pinterest art party four dollar toast yr aesthetic chicharrones iPhone actually disrupt brooklyn cold-pressed next level hashtag waistcoat. Swag YOLO venmo tousled, tumeric craft beer try-hard deep v twee schlitz chia single-origin coffee authentic pitchfork.
+I did my first tech talk as a software engineer back in April 2019, about how I switched careers.  Renée Vaughan Sutherland, Chief Creative Officer at a TV company, saw the video and contacted me to ask if I would guest on her podcast!
+
+She was interviewing women in creative roles and counted coding as one of them. I accepted the invitation straightaway and, a few weeks later, went to record the podcast with her.
+
+We talked coding, crafting and creativity: what I love about them and how they’re all linked.
+
+Have a listen at the link on the right.
