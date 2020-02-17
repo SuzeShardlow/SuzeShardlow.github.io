@@ -1,16 +1,33 @@
 ---
-title: FACT///. Coding & Reanimating Data
-summary: Teaching a Python & JavaScript class.
+title: FACT///.Coding Workshop Series With Suze Shardlow
+summary: 
 date: February 2020
-format: 
-event_name: FACT///. Coding & Reanimating Data Workshop Series
-event_link: 
+format: Half-day workshop
+event_name: FACT///.Coding Workshop Series With Suze Shardlow
+event_link: https://www.eventbrite.com/e/factcoding-reanimnating-data-python-javascript-tickets-88479852621#
 venue: University of Sussex, Brighton, UK
-type: Class
+type: Half-day workshop
 image: /images/speaking/sussex_workshops.jpg
-link: https://twitter.com/FACT_ntwrk/status/1225788122526633986?s=20
-video: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+link: 
 ---
-The second workshop in a series where I buildian interactive chat bot using Python and JavaScript.
 
-Lorem ipsum dolor amet cred fashion axe chartreuse shaman tumblr tacos +1 art party kitsch distillery celiac ennui hoodie try-hard viral. Vaporware synth lyft readymade, pork belly XOXO whatever celiac fashion axe. Migas hexagon farm-to-table taxidermy. Selvage actually meh portland, beard cornhole edison bulb. Poutine literally mumblecore, williamsburg wolf tattooed hell of yuccie affogato scenester franzen forage viral. Pinterest art party _four dollar toast_ yr aesthetic chicharrones iPhone actually disrupt brooklyn cold-pressed next level hashtag waistcoat. Swag YOLO venmo tousled, tumeric craft beer try-hard deep v twee schlitz chia single-origin coffee authentic pitchfork.
+Following the talk I gave at their Symposium in November 2019, the lecturers at the University of Sussex invited me to create and deliver a series of three half-day coding workshops for them.
+
+The workshop participants are Professors, PhDs and PhD candidates who have no coding experience, or are very rusty.
+
+The brief was to:
+
+* Teach the basics of JavaScript and Python
+* Guide participants through using those languages in a practical way to create something interactive and relevant to the participants' work
+
+After bouncing some ideas off the client, I suggested we build a chatbot as the end product of the workshop series.  The client has some data gathered during a project 30+ years ago which we are making accessible via the chatbot.
+
+**All the workshops are hands-on.**
+
+**Workshop One** (in early February 2020) focuses on the basics of JavaScript and Python.
+
+**Workshop Two** (this one) focuses on building the bot in stages, gradually introducing intelligence
+
+**Workshop Three** (in March 2020) concludes the build of the chatbot, increases the AI and brings in the original data from 1988 so we can chat with the subjects of the study.
+
+Professor Rachel Thomson of the University of Sussex, who conducted the original research, has written a [blog post](http://reanimatingdata.co.uk/uncategorized/a-feminist-chat-bot/) about Workshop One.

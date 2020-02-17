@@ -1,6 +1,6 @@
 ---
 title: FACT///.Coding Workshop Series With Suze Shardlow
-summary: Teaching a Python & JavaScript class.
+summary: 
 date: February 2020
 format: Half-day workshop
 event_name: FACT///.Coding Workshop Series With Suze Shardlow
@@ -10,33 +10,24 @@ type: Half-day workshop
 image: /images/speaking/sussex1.jpg
 link: 
 ---
-Building an interactive chat bot using Python and JavaScript.
 
-Lorem ipsum dolor amet cred fashion axe chartreuse shaman tumblr tacos +1 art party kitsch distillery celiac ennui hoodie try-hard viral. Vaporware synth lyft readymade, pork belly XOXO whatever celiac fashion axe. Migas hexagon farm-to-table taxidermy. Selvage actually meh portland, beard cornhole edison bulb. Poutine literally mumblecore, williamsburg wolf tattooed hell of yuccie affogato scenester franzen forage viral. Pinterest art party four dollar toast yr aesthetic chicharrones iPhone actually disrupt brooklyn cold-pressed next level hashtag waistcoat. Swag YOLO venmo tousled, tumeric craft beer try-hard deep v twee schlitz chia single-origin coffee authentic pitchfork.
+Following the talk I gave at their Symposium in November 2019, the lecturers at the University of Sussex invited me to create and deliver a series of three half-day coding workshops for them.
 
----
-title: Working Towards More Inclusive Tech Communities
-summary: 
-date: November 2019
-format: Long talk
-event_name: FACT///.Mapping Feminists Coding Practices Symposium
-event_link: https://www.eventbrite.com/e/factmapping-feminists-coding-practices-symposium-tickets-73970980193#
-venue: University of Sussex, Brighton, United Kingdom
-type: Long talk
-image: /images/speaking/fact_symposium.jpg
-audio: 
-video: 
----
+The workshop participants are Professors, PhDs and PhD candidates who have no coding experience, or are very rusty.
 
-I was invited by the University of Sussex to speak on the subject of inclusion in tech communities at their coding conference.
+The brief was to:
 
-The audience was Professors, PhDs and PhD candidates from the University of Sussex and other institutions in the [CHASE Network](https://www.chase.ac.uk/aboutchase).
+* Teach the basics of JavaScript and Python
+* Guide participants through using those languages in a practical way to create something interactive and relevant to the participants' work
 
-In this long talk, I cover:
+After bouncing some ideas off the client, I suggested we build a chatbot as the end product of the workshop series.  The client has some data gathered during a project 30+ years ago which we are making accessible via the chatbot.
 
-* Communities in tech and why we need them
-* Privilege: does inclusion mean exclusion?
-* "Safe" and "brave" spaces
-* Language: why things like "hi guys!" aren't unisex
+**All the workshops are hands-on.**
 
-You can listen to the audio recording of this talk at the link on the right.  The recording starts with an introduction by Professor Kate O'Riordan, Head of School for Media, Film and Music at the University of Sussex and my talk begins at four minutes in.
+**Workshop One** (this one) focuses on the basics of JavaScript and Python.
+
+**Workshop Two** (in late February 2020) focuses on building the bot in stages, gradually introducing intelligence.
+
+**Workshop Three** (in March 2020) concludes the build of the chatbot, increases the AI and brings in the original data from 1988 so we can chat with the subjects of the study.
+
+Professor Rachel Thomson of the University of Sussex, who conducted the original research, has written a [blog post](http://reanimatingdata.co.uk/uncategorized/a-feminist-chat-bot/) about Workshop One.
