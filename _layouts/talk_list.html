@@ -36,7 +36,9 @@
         <div class="row">
           <div class="col-4 col-12-medium">
             {% for image in talk.image %}
-            <span class="image fit"><img src="{{ image }}"></span>
+            <div class="zoombox">
+              <span class="image fit"><img class="zoomimg" src="{{ image }}"></span>
+            </div>
             {% endfor %}
 
             <p>{% if talk.event_link %}<a href="{{ talk.event_link }}">{% endif %}{{ talk.event_name }}{% if talk.event_link %}</a>{% endif %}, {{ talk.date | date: "%B %Y" }}
