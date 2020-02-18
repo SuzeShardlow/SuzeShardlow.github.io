@@ -1,6 +1,5 @@
 ---
 title: Build Your Personal Website And Blog with GitHub Pages and Jekyll
-summary: 
 date: January 2020
 format: Evening workshop
 event_name: Women Who Code San Diego

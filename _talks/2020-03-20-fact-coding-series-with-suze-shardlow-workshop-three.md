@@ -1,6 +1,5 @@
 ---
-title: FACT///.Coding Workshop Series With Suze Shardlow
-summary: 
+title: FACT///.Coding Workshop Series With Suze Shardlow 
 date: March 2020
 format: Half-day workshop
 event_name: FACT///.Coding Workshop Series With Suze Shardlow

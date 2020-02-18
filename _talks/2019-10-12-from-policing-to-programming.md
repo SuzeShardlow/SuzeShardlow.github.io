@@ -1,6 +1,5 @@
 ---
-title: "From Policing To Programming: How I Changed Career When I Turned 40"
-summary: 
+title: "From Policing To Programming: How I Changed Career When I Turned 40" 
 date: October 2019
 format: Long talk
 event_name: Women Who Code Front End Summit

@@ -1,6 +1,5 @@
 ---
 title: Podcast - Suze Shardlow - Coder
-summary: 
 date: June 2019
 format: Long interview
 event_name: Greater Than 11% Podcast, Episode 41

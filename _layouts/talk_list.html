@@ -34,26 +34,19 @@
         <hr/>
         {% for talk in site.talks reversed %}
         <div class="row">
-          <div class="col-3 col-12-medium">
+          <div class="col-4 col-12-medium">
             {% for image in talk.image %}
-            <span class="image fit"><img src="{{ image }}"></span>
+              <span class="image fit"><div class="zoombox"><img class="zoomimg" src="{{ image }}"></div></span>
             {% endfor %}
-
-            <p>{% if talk.event_link %}<a href="{{ talk.event_link }}">{% endif %}{{ talk.event_name }}{% if talk.event_link %}</a>{% endif %}, {{ talk.date | date: "%B %Y" }}
-            <br>{{ talk.venue }}</p>
-
+            {% if talk.event_link %}<div class="align-center event-website"><a href="{{ talk.event_link }}" class="button icon solid large fa-globe" target="_blank">Event Website</a>{% endif %}</div>
           </div> <!-- col -->
-          <div class="col-7 col-10-medium">
+          <div class="col-8 col-12-medium">
+            <h4 class="learn-header">{{ talk.event_name }}</h4>
+            <h5>{{ talk.date | date: "%B %Y" }} | {{ talk.venue }}</h5>
             <h3>{{ talk.title }}</h3>
-            <p>{{ talk.format }}</p>
-            <p>{{ talk.summary }}</p>
+            <h5 class="talk-format">{{ talk.format }}</h5>
             {{talk.content}}
           </div> <!-- col -->
-          <div class="col-2 col-2-medium">
-            {% if talk.link %}
-            <p><a href="{{ talk.link }}" class="icon fa-link fa-2x"></a></p>
-            {% endif %}
-          </div>
         </div> <!-- row -->
         <hr/>
         {% endfor %}
