@@ -38,7 +38,7 @@
             {% for image in talk.image %}
               <span class="image fit"><div class="zoombox"><img class="zoomimg" src="{{ image }}"></div></span>
             {% endfor %}
-            {% if talk.event_link %}<div class="align-center"><a href="{{ talk.event_link }}" class="button icon solid large fa-globe" target="_blank">Event Website</a>{% endif %}</div>
+            {% if talk.event_link %}<div class="align-center event-website"><a href="{{ talk.event_link }}" class="button icon solid large fa-globe" target="_blank">Event Website</a>{% endif %}</div>
           </div> <!-- col -->
           <div class="col-8 col-12-medium">
             <h4 class="learn-header">{{ talk.event_name }}</h4>
