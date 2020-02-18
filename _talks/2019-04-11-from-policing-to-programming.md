@@ -6,7 +6,7 @@ event_name: "COED:CODE Lightning Talks Event: New Speaker Talent Showcase"
 event_link: https://www.meetup.com/Coed-Code/events/259389043/
 venue: Pivotal Europe, London, United Kingdom
 type: Lightning talk
-image: /images/speaking/policing_to_prog_pivotal.jpg 
+image: [ /images/speaking/policing_to_prog_pivotal.jpg, /images/speaking/policing_to_prog_comment.jpg ]
 ---
 
 This was my first tech talk, which has had over 6400 views on YouTube.  You can watch it below.
