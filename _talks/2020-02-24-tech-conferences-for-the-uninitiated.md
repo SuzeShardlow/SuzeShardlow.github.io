@@ -1,6 +1,5 @@
 ---
-title: Tech Conferences For The Uninitiated
-summary: 
+title: Tech Conferences For The Uninitiated 
 date: February 2020
 format: Long talk
 event_name: codebar monthlies

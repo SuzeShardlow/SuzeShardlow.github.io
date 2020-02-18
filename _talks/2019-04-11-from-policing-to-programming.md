@@ -1,6 +1,5 @@
 ---
 title: "From Policing To Programming: How I Changed Career When I Turned 40"
-summary: 
 date: April 2019
 format: Lightning talk
 event_name: "COED:CODE Lightning Talks Event: New Speaker Talent Showcase"

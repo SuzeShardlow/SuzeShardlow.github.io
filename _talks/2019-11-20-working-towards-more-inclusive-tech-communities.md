@@ -1,6 +1,5 @@
 ---
 title: Working Towards More Inclusive Tech Communities
-summary: 
 date: November 2019
 format: Long talk
 event_name: FACT///.Mapping Feminists Coding Practices Symposium

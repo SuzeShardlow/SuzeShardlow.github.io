@@ -37,6 +37,10 @@ section, summary, time, mark, audio, video {
       color: #ff0000;
       margin-right: 8px;
     }
+
+    .talk-format {
+      margin-top: -1.2em;
+    }
     
     .bloglist-title {
       margin-bottom: 0.25em;

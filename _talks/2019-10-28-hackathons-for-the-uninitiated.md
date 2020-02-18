@@ -1,6 +1,5 @@
 ---
 title: Hackathons For The Uninitiated
-summary: 
 date: October 2019
 format: Long talk
 event_name: codebar monthlies

@@ -1,6 +1,5 @@
 ---
 title: Hackathons For The Uninitiated
-summary: 
 date: January 2020
 format: Long talk
 event_name: Fundamental JS
