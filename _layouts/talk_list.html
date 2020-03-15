@@ -1,21 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 
-<head>
-  <meta charset="utf-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108081564-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-108081564-1');
-  </script>
-</head>
+{% include head_tag.html %}
 
 <body>
   <div id="wrapper">
@@ -31,14 +17,17 @@
         </section>
         <span class="image main"><img src="{{ page.image }}"></span>
         {{content}}
-        <hr/>
+        <hr />
         {% for talk in site.talks reversed %}
         <div class="row">
           <div class="col-4 col-12-medium">
             {% for image in talk.image %}
-              <span class="image fit"><div class="zoombox"><img class="zoomimg" src="{{ image }}"></div></span>
+            <span class="image fit">
+              <div class="zoombox"><img class="zoomimg" src="{{ image }}"></div>
+            </span>
             {% endfor %}
-            {% if talk.event_link %}<div class="align-center event-website"><a href="{{ talk.event_link }}" class="button icon solid large fa-globe" target="_blank">Event Website</a>{% endif %}</div>
+            {% if talk.event_link %}<div class="align-center event-website"><a href="{{ talk.event_link }}"
+                class="button icon solid large fa-globe" target="_blank">Event Website</a>{% endif %}</div>
           </div> <!-- col -->
           <div class="col-8 col-12-medium">
             <h4 class="learn-header">{{ talk.event_name }}</h4>
@@ -48,7 +37,7 @@
             {{talk.content}}
           </div> <!-- col -->
         </div> <!-- row -->
-        <hr/>
+        <hr />
         {% endfor %}
       </div>
     </div>
