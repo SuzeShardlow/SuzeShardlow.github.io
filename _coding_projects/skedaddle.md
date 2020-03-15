@@ -8,7 +8,7 @@ image: /images/skedaddle_on_macbook.jpg
 comments: true
 ---
 
-<!-- <a href="http://suzeshardlow.com/skedaddle">Launch app</a> -->
+<!-- <a href="http://suze.dev/skedaddle">Launch app</a> -->
 
 The [Transport for London (TfL) API](https://api.tfl.gov.uk) has thousands of endpoints and I wanted to see if I could build an app which allows users to log in securely, plan journeys and save them to the database, as well as view station information.
 

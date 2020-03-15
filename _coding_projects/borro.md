@@ -10,7 +10,7 @@ comments: true
 
 I worked with two colleagues and we divided up tasks to create this app within seven days.
 
-<!-- [Launch app](http://suzeshardlow.com/borro) -->
+<!-- [Launch app](http://suze.dev/borro) -->
 
 [View code](https://github.com/SuzeShardlow/borro)
 

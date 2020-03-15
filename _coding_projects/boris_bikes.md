@@ -10,7 +10,7 @@ comments: true
 
 A map showing the locations of the Boris Bike (officially called Santander Cycle) stations. Data is pulled from the Transport for London (TfL) API and shown on a map using the Google Maps API.
 
-[Try it out!](http://suzeshardlow.com/boris_bikes)
+[Try it out!](http://suze.dev/boris_bikes)
 
 [View code](https://github.com/SuzeShardlow/unscramble)
 

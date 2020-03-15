@@ -10,7 +10,7 @@ comments: true
 
 I wrote Unscramble! in seven days using HTML, CSS and JavaScript.
 
-[Play game](http://suzeshardlow.com/unscramble)
+[Play game](http://suze.dev/unscramble)
 
 [View code](https://github.com/SuzeShardlow/unscramble)
 
