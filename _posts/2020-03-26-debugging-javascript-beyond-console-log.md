@@ -10,15 +10,15 @@ comments: true
 
 Let’s take a look, using some example data.
 
-![image](/images/console_products.png){: .image .code}
-
 Imagine you are running an e-commerce website.  You sell a number of different kitchen items.
+
+![image](/images/console_products.png){: .image .code}
 
 You store details about these items in objects, within an array named `products`.
 
-So you can see the product ID, product name, the price and whether or not each one is in stock.
+You can see the product ID, product name, the price and whether or not each one is in stock.
 
-We can see that the coffee maker is the only one out of stock.
+You can see that the coffee maker is the only one out of stock.
 
 What happens if we simply `console.log(products)`?
 
@@ -44,7 +44,7 @@ The column headings are the index of the array, then the object keys.
 
 It is much quicker and easier to see the object information at a glance.
 
-We can sort by any column by clicking the column name (in this case price).
+We can sort by any column by clicking the column name.
 
 We can even click and drag to resize the column widths.
 
@@ -72,7 +72,7 @@ Therefore, we want to output an error message if there are not four products.
 
 There are different ways we can do this.
 
-We can use an `if` statement or a ternary expression, but these require logic and the lengthy code that goes with it:
+We can use an `if` statement or a ternary operator, but these require logic and the lengthy code that goes with it:
 
 ![image](/images/console_assert_if.png){: .image .code}
 
@@ -82,7 +82,7 @@ We can use an `if` statement or a ternary expression, but these require logic an
 
 ![image](/images/console_assert_assert.png){: .image .code}
 
-`console.assert();` is neater and gives us a more readable error message than an `if` statement or ternary expression.
+`console.assert();` is neater and gives us a more readable error message than an `if` statement or ternary operator.
 
 ![image](/images/console_assert.jpg){: .image .code}
 
@@ -117,4 +117,4 @@ The output of the loops are grouped together and time stamped.  They are collaps
 
 ## Further reading
 
-These are just three of the console functions you can use to debug your JavaScript in the browser.  There are lots more!  [Find out about them](https://www.w3schools.com/jsref/obj_console.asp).
+These are just three of the console functions you can use to debug your JavaScript in the browser.  There are lots more!  [Find out about them](https://developer.mozilla.org/en-US/docs/Web/API/Console_API).
