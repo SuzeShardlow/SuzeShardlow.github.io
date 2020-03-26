@@ -78,7 +78,7 @@ We can use an `if` statement or a ternary expression, but these require logic an
 
 ![image](/images/console_assert_ternary.png){: .image .code}
 
-console.assert() requires less code:
+`console.assert()` requires less code:
 
 ![image](/images/console_assert_assert.png){: .image .code}
 
