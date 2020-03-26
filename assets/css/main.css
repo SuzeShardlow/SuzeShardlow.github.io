@@ -2201,7 +2201,7 @@ section, summary, time, mark, audio, video {
     .image.code {
       margin: 0;
       top: 0.25em;
-      max-width: 100%;
+      max-width: 90%;
     }
 
     .image.fit {
