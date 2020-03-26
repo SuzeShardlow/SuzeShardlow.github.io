@@ -2168,7 +2168,7 @@ section, summary, time, mark, audio, video {
       display: block;
     }
 
-    .image.left, .image.right {
+    .image.left, .image.right, .image.code {
       max-width: 60%;
       border: rgba(127, 136, 143, 1);
       border-width: 3px;
@@ -2196,6 +2196,12 @@ section, summary, time, mark, audio, video {
       float: right;
       margin: 0 0 1em 1.5em;
       top: 0.25em;
+    }
+
+    .image.code {
+      margin: 0;
+      top: 0.25em;
+      max-width: 100%;
     }
 
     .image.fit {
