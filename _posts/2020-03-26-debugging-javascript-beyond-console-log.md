@@ -60,7 +60,7 @@ We can select whichever keys we want to view by including them in the `console.t
 
 Here we've chosen to view only the name and price of each product using `console.table(products, [ 'name', 'price' ])`.
 
-![image](/images/console_table_1.jpg){: .image .code}
+![image](/images/console_table_2.jpg){: .image .code}
 
 ## console.assert()
 
