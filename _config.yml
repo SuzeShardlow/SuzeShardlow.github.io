@@ -39,7 +39,7 @@ plugins:
 # SEO Plugin
 twitter:
   username: SuzeShardlow
-  card: summary
+  card: summary_large_image
 author: "@SuzeShardlow"
 tagline: Suze Shardlow's personal website.
 lang: en_UK
