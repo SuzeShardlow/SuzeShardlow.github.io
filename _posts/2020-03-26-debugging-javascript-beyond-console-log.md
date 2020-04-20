@@ -12,7 +12,7 @@ Let’s take a look, using some example data.
 
 Imagine you are running an e-commerce website.  You sell a number of different kitchen items.
 
-![image](/images/console_products.png){: .image .code}
+<script src="https://gist.github.com/SuzeShardlow/dca11680038f24f666acb47130f72d3d.js"></script>
 
 You store details about these items in objects, within an array named `products`.
 
@@ -74,13 +74,13 @@ There are different ways we can do this.
 
 We can use an `if` statement or a ternary operator, but these require logic and the lengthy code that goes with it:
 
-![image](/images/console_assert_if.png){: .image .code}
+<script src="https://gist.github.com/SuzeShardlow/6705264a8d5474bc0febf777776e41d3.js"></script>
 
-![image](/images/console_assert_ternary.png){: .image .code}
+<script src="https://gist.github.com/SuzeShardlow/f6169e463dd9f9f010572223d550a496.js"></script>
 
 `console.assert()` requires less code:
 
-![image](/images/console_assert_assert.png){: .image .code}
+<script src="https://gist.github.com/SuzeShardlow/f9133a2d72834a55a6e59b159f3ca4a8.js"></script>
 
 `console.assert();` is neater and gives us a more readable error message than an `if` statement or ternary operator.
 
@@ -96,7 +96,7 @@ We also want to be able to easily see from the console output the time and date 
 
 The code here loops over the array every 10 seconds to check if each item is in stock.
 
-![image](/images/console_group_setinterval.png){: .image .code}
+<script src="https://gist.github.com/SuzeShardlow/9a8cdd1d43f36c97debdde1ab32c766f.js"></script>
 
 So what does this look like in the console?
 
@@ -108,7 +108,7 @@ They are expanded by default.  We can collapse them manually.
 
 We can also output them collapsed by modifying the code:
 
-![image](/images/console_group_group_collapsed.png){: .image .code}
+<script src="https://gist.github.com/SuzeShardlow/be3f24f8df855673784bcf8947affa1f.js"></script>
 
 ![image](/images/console_group_2.jpg){: .image .code}
 
