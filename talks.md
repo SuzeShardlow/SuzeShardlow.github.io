@@ -1,8 +1,8 @@
 ---
 layout: talk_list
-headline: Talks And Coding Workshops
+headline: What I've Said
 sub_headline: Talks And Workshops I Have Delivered
-title: "Suze Shardlow :: Talks And Coding Workshops"
+title: "Suze Shardlow :: What I've Said"
 image: /images/speaking/ticketmaster.jpg
 ---
 
