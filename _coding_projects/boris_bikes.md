@@ -12,7 +12,7 @@ A map showing the locations of the Boris Bike (officially called Santander Cycle
 
 [Try it out!](http://suze.dev/boris_bikes)
 
-[View code](https://github.com/SuzeShardlow/unscramble)
+[View code](https://github.com/SuzeShardlow//boris_bikes)
 
 I created a web page showing a Google Map and then replaced the custom Google Maps markers to show Boris Johnson's head on the map at the location of each Boris Bike docking station.
 
