@@ -2,7 +2,7 @@
 layout: default
 title: "Suze Shardlow :: Who I Am"
 headline: Who I Am
-sub_headline: I love making things that people use and enjoy.
+sub_headline: I love creating things that people use and enjoy.
 image: /images/wedding_bunting.jpg
 ---
 
