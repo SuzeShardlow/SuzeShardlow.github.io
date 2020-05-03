@@ -1,7 +1,7 @@
 ---
 layout: blog_list
-headline: Latest Posts
+headline: What I Think
 sub_headline: The latest posts from my blog
-title: "Suze Shardlow :: Blog"
+title: "Suze Shardlow :: What I Think"
 image: /images/typewriter.jpg
 ---
