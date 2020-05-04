@@ -3,6 +3,7 @@ headline: I Competed In A 10k Race
 sub_headline: It’s only been a couple of hundred kilometres since I started being able to run 5k without stopping
 read_time: 8
 image: /images/i_competed_in_a_10k_race.jpg
+category: Hobbies
 comments: true
 ---
 
