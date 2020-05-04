@@ -3,6 +3,7 @@ headline: "Debugging JavaScript: Beyond console.log()"
 sub_headline: If you're a JavaScript developer, you'll know about console.log(), but have you heard of console.table(), console.group() or console.assert()?
 read_time: 3
 image: /images/console_original_bug.jpg
+category: Tech
 comments: true
 ---
 
