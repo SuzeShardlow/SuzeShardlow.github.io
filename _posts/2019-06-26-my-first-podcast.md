@@ -3,6 +3,7 @@ headline: My First Podcast
 sub_headline: Discussing how I combine coding and creativity
 read_time: 1
 image: /images/podcast_mic.jpg
+category: Leadership
 comments: true
 ---
 
