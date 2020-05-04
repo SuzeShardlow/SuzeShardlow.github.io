@@ -3,6 +3,7 @@ headline: I’ve Rediscovered The Fountain Pen
 sub_headline: I got one for Christmas and have used nothing else since
 read_time: 3
 image: /images/ive_rediscovered_the_fountain_pen_text.jpg
+category: Hobbies
 comments: true
 ---
 

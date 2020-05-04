@@ -3,6 +3,7 @@ headline: Does Inclusion Mean Exclusion?
 sub_headline: The unique issues surrounding building inclusive tech communities
 read_time: 8
 image: /images/mkot.jpg
+category: Leadership
 comments: true
 ---
 
