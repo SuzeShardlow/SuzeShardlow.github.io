@@ -45,11 +45,33 @@ However, some members were pleased to have what they called "accountability" and
 
 **4. Breaks.**
 
-Working continuously for too long can be counterproductive so we made sure to build breaks in.
+Working continuously for too long can be counterproductive so we made sure to build breaks into the schedule.
 
 **5. Opportunities to check in and celebrate.**
 
 This goes hand-in-hand with stating your intentions.  The aim of the session is to get things done, so we needed to be able to come together and cheerlead and and pat each other on the back.
+
+**6. Ways to communicate during the session: synchronously and asychronously.**
+
+LoC London has a Slack channel.  It's pretty quiet with small bursts of activity and I want to increase engagement on it.  Also, the point of coming to Get On With It is knowing that others are out there working on their projects too.  So to kill two birds with one stone, I decided that we needed a dedicated Slack channel to support these events.  Slack is where people can discuss things inbetween the scheduled check-ins.  This builds motivation and excitement.
+
+Sarah and I wanted to collaborate during the first session, and I had a feeling others may want to give or receive help too.  So as not to compromise the safety of our Zoom room, I created 10 Google Hangouts and posted the links to them in the Slack channel, along with instructions on how to "book" them.  I named each Hangout after a London Tube station so people could say "I'll meet you at Pimlico" etc.  A bit of normality in these strange times.
+
+**7. Publicising success and sharing resources.**
+
+** Anything else? **
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
