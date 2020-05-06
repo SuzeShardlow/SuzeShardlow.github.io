@@ -17,6 +17,8 @@ And so, **Get On With It!  Bring Your Own Project** was born.  My inspiration fo
 
 We figured that if nobody else turned up, we'd lost nothing except £15 on a Zoom subscription as we were going to work on our own projects anyway.
 
+## Methodology
+
 In my mind, for the sessions to be successful, there were a few essential ingredients:
 
 **1. Careful choice of language.**
@@ -31,11 +33,15 @@ Not everyone has more time on their hands now.  Many folks with caring responsib
 
 We were also careful about the language we used during the events, which I will elaborate on later.
 
-**2. Optional (but highly encouraged) switching-on of cameras and mics.**
+**2. Progress, not perfection.**
+
+Success looks different for everyone.  Therefore, it's important that everyone knows that their personal goals and achievements are valid.  I knew we were going to hear a lot of "it's not much" so I came to the first session armed with the mantra "progress, not perfection".  I just want everyone to leave Get On With It a little further forward than they were when they came.
+
+**3. Optional (but highly encouraged) switching-on of cameras and mics.**
 
 To get the most out of coming together, we need to discuss things.  I believed that most people who were shy or introverted may well feel brave enough to speak up after others had shared.
 
-**3. An opportunity to state your objective(s) for the session.**
+**4. An opportunity to state your objective(s) for the session.**
 
 Once you've voiced your intentions to the universe, they're out there and you can't take them back!  That's not to say you're committed and need to beat yourself up if you don't achieve them.  But there's something about hearing them in your own voice which cements them.
 
@@ -43,11 +49,11 @@ I was careful not to use the word "accountability" because that implies an eleme
 
 However, some members were pleased to have what they called "accountability" and that was fine with us.  If it worked for them, we were happy but we weren't going to dictate that.
 
-**4. Breaks.**
+**5. Breaks.**
 
 Working continuously for too long can be counterproductive so we made sure to build breaks into the schedule.
 
-**5. Opportunities to check in and celebrate.**
+**6. Opportunities to check in and celebrate.**
 
 This goes hand-in-hand with stating your intentions.  The aim of the session is to get things done, so we needed to be able to come together and cheerlead and and pat each other on the back.
 
@@ -55,33 +61,62 @@ Our weekend sessions are four hours long.  Minus the half-hour break, 70% of the
 
 Our weekday sessions are three hours long, starting at 6pm after work.  Not counting the 15-minute break, almost 60% of the time is allocated to work and the rest for checking in.
 
-**6. Ways to communicate during the session: synchronously and asychronously.**
+**7. Ways to communicate during the session: synchronously and asychronously.**
 
 LoC London has a Slack workspace.  It's pretty quiet with small bursts of activity and I want to increase engagement on it.  Also, the whole point of coming to Get On With It is knowing that others are out there working on their projects too.  So, to kill two birds with one stone, I decided that we needed a dedicated Slack channel to support these events.  Slack is where people can discuss things inbetween the scheduled check-ins and inbetween events.  This builds motivation and excitement.
 
 Sarah and I wanted to collaborate on web development during the first session, and I had a feeling others may want to give or receive help too.  So as not to compromise the security of our Zoom room, I created 10 Google Hangouts and posted the links to them in the Slack channel, along with instructions on how to "book" them.  I named each Hangout after a London Tube station so people could say "I'll be in Pimlico" etc.  A bit of normality in these strange times.
 
-**7. Publicising success and sharing resources.**
+**8. Publicising success and sharing resources.**
 
 We are also trying to increase engagement with our Twitter account, so I decided to make a thread for each event where we tweet information about what each person is working on.  We don't attach names without their permission.  The threads describe the type of activity and link to relevant resources, for example an online course that someone is taking.
 
 I have also created a new Slack channel, #learning_resources, where I cross-post any links shared in #get_on_with_it so they don't get lost and so other members can benefit from them.  Some learning providers have been offering free or discounted courses recently.
 
+## Planning and logistics
+
+We have always used [Meetup.com](https://www.meetup.com/Ladies-of-Code-UK/events) for event listings and signups.  The interface allows us to ask a question when people book their place.  We use this to ask them to say what they'll work on, to get them thinking about it.
+
+Each session contains four checkpoints via Zoom video conferencing:
+
+* At the very beginning: hello from the organisers, explanation of how it all works, how the concept came about and optional statement of what we will all be working on.
+
+* Just before the break, to remind people to relax for a bit and also to find out who wants to show and tell after the break.
+
+* Midway progress update: a quick, optional show and tell/watch and listen.
+
+* Final check-in: a longer show and tell.  More people usually take part in this one because some folks don't like showing unfinished work at the midpoint.
+
+As I mentioned earlier, between the checkpoints we use Slack for asynchronous comms during and between events and Hangouts to collaborate in real time.
+
+## Outcomes
+
+We have seen a number of expected and unexpected results from these sessions:
+
+**1. The first event was so successful that we've run them twice a week ever since.**
+
+[I will elaborate on each bullet.]
+
+**2. People from other countries found our event and attend regularly.**
 
 
 
-** Anything else? **
+**3. We've seen hardware as well as software projects.**
 
 
 
-.
-.
-.
-.
-.
-.
-.
-Reading the blog post... 
+**4. People from other countries found our event and attend regularly.**
+
+
+
+**5. Folks have completed tasks they had literally been putting off for years.**
+
+
+
+
+
+
+
 
 
 
@@ -91,8 +126,6 @@ Reading the blog post...
 Suggest embedding some of the past session Twitter threads?
 
 Suggest adding crochet as example of something someone worked on at previous event as it's about all projects not just tech?
-
-You might want to make it clear that there's a show and tell opportunity at the end?
 
 Another example of what was worked on: training a machine learning system (the one with the google learning machines)
 
@@ -125,82 +158,19 @@ Examples of things people worked on in previous sessions:
 * Research on how to deploy a web app and create a game!
 
 
-While visiting a taqueria in San Diego, I discovered the breakfast burrito: sausage, ham, cheese, egg and potato all steaming hot inside a tortilla.  As all the components of a full English breakfast are readily available here in the UK, I decided to make my own version of this dish at home.
 
-Here is my recipe.  I didn't skimp on prep time but there are definitely some convenience **shortcuts**, which I have included within the method.
 
-### Preparation and cooking time: 30 minutes
 
 ![image](/images/burrito_ingredients.jpg){: .image .right}
 
-### Ingredients
-
-**Per burrito** (one burrito per person kept us full for hours):
-
-* One **sausage** (or corresponding amount of sausage meat)
-* Two rashers of **streaky bacon** (or ham - thick cut is probably best)
-* Three **eggs**
-* Handful of grated **mild cheddar cheese**
-* Medium-sized **potato**, about the size of two eggs
-* One soft **tortilla wrap**
-* Dash of cooking **oil**
-
-### Method
-
-Preheat your oven to **gas mark 7** / 425f / 220c / 200c (fan).
-
-Peel and wash your **potato**.
-
 ![image](/images/burrito_chips.jpg){: .image .right}
 
-Cut it in half across the width, then slice it into short, skinny **chips** (eg 3cm * 0.7cm * 0.7cm).  You don't want them too fat or too long, otherwise they will take a long time to cook and you'll have a lumpy burrito.
-
-Put them in a baking tray / ovenproof dish and add a dash of cooking **oil**.  Make sure all the chips have a thin layer of oil on them.  Season according to your own taste (I like **garlicy chips**).
-
-Cook them for **20 minutes** in the oven.
-
-<!-- ![image](/images/burrito_uncooked_sausage.jpg){: .image .left} -->
-
 ![image](/images/burrito_cooking_sausage.jpg){: .image .left}
-
-While they are cooking, skin your **sausages**.  Divide the sausage meat into **small pieces**, about the size of **peanut M&Ms**.  At this point, I removed any obvious big pieces of fat from the sausage meat.  Yes, I know this fat is present when I cook the sausages whole, but when you can see it, it's different...
-
-<!-- ![image](/images/burrito_cooking_sausage.jpg){: .image .right} -->
-
-Cook the sausage pieces over a **medium heat** in a pan.  Don't be tempted to turn the heat up high, as you want the sausage to be cooked all the way through.
 
 ***Convenience shortcut:*** Leave the sausages in their skins and cook them under the **grill**, then cut them into small pieces.
 
 ![image](/images/burrito_bacon.jpg){: .image .right}
 
-Whisk your **eggs**.  No need to add salt, as there is loads in the processed meats and cheese.  **Scramble** the eggs over a **low to medium heat** until they are almost cooked.
-
-Fry the **bacon** rashers in the sausage pan or ***convenience shortcut:*** put them on the grill with the sausages.
-
-Cut the **bacon** rashers into bite-sized pieces.
-
-Wrap the **tortilla** in foil (I laid them out flat) and heat them in the oven per the instructions on the packet (mine said eight minutes).  ***Convenience shortcut:*** you can heat them for eight seconds in the microwave instead (don't use foil with this method).
-
 ![image](/images/burrito_assembly.jpg){: .image .left}
 
-Grate the **cheese**.
-
-A minute or two before the **chips** are cooked and the **tortilla** are warmed, add the **sausages**, **bacon** and **cheese** to the **eggs** in the pan and turn the heat back on.  Finish scrambling the **eggs**.  The **cheese** should melt by the time the eggs are cooked.
-
-Remove the **chips** and **tortilla** from the oven.  Blot excess **oil** from the **chips** if necessary.
-
 ![image](/images/burrito_unwrapped.jpg){: .image .right}
-
-Transfer the **egg mixture** from the pan to the **tortilla**.
-
-Add the **chips** to the mixture, distributing evenly.
-
-Tuck both ends of the **tortilla** in and roll your **burrito**.
-
-**Enjoy!**
-
-### What I'll do differently next time
-
-* I didn't get much of a stretch on the **cheese**, and I love **stretchy cheese**, so next time instead of adding it to the pan, I will spread a layer of it over the **tortilla** so it encases the mixture and is not cooked into it.
-
-* I will probably heat the **tortilla** in the microwave because it's much quicker and will therefore help me manage my time better.
