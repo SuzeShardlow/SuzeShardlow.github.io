@@ -23,13 +23,13 @@ In my mind, for the sessions to be successful, there were a few essential ingred
 
 I have heard a lot of talk over the past few weeks about how:
 
-* "When you go for a job in the future, employers are going to ask you how you spent lockdown and you need to have a good answer that involves learning and personal development."
+* "When you go for a job in the future, employers are going to ask how you spent lockdown and you need to have a good answer that involves learning and personal development."
 
-* "You have more free time than you've ever had.  You have no excuse not to learn that new skill/finish those projects/get fit..."
+* "You have more free time than ever before.  You have no excuse not to learn that new skill/finish those projects/get fit..."
 
-Not everyone has more time on their hands now.  Many folks with caring responsibilities are getting zero respite.  Some are having to manage this alongside full-time jobs.  To endeavour not to alienate anyone, I worded the event description carefully.
+Not everyone has more time on their hands now.  Many folks with caring responsibilities are getting zero respite.  Some are having to manage this alongside full-time jobs.  To endeavour not to alienate people, I worded the event description carefully.
 
-We were also careful about the language we used during the events, which I elaborate on later.
+We were also careful about the language we used during the events, which I will elaborate on later.
 
 **2. Optional (but highly encouraged) switching-on of cameras and mics.**
 
@@ -39,7 +39,7 @@ To get the most out of coming together, we need to discuss things.  I believed t
 
 Once you've voiced your intentions to the universe, they're out there and you can't take them back!  That's not to say you're committed and need to beat yourself up if you don't achieve them.  But there's something about hearing them in your own voice which cements them.
 
-I was careful not to use the word "accountability" because that implies an element of compulsion.  We didn't want people to feel like they were going to be held to what they said they were going to do.  Especially with coding, where you could easily spend half a day trying to fix one bug.
+I was careful not to use the word "accountability" because that implies an element of compulsion.  We didn't want people to feel like they were going to be held to what they said they wanted to do.  Especially with coding, where you could easily spend half a day trying to fix one bug.
 
 However, some members were pleased to have what they called "accountability" and that was fine with us.  If it worked for them, we were happy but we weren't going to dictate that.
 
@@ -51,26 +51,54 @@ Working continuously for too long can be counterproductive so we made sure to bu
 
 This goes hand-in-hand with stating your intentions.  The aim of the session is to get things done, so we needed to be able to come together and cheerlead and and pat each other on the back.
 
+Our weekend sessions are four hours long.  Minus the half-hour break, 70% of the time is allocated to work and 30% is for checking in: what I term "showing and telling or watching and listening".
+
+Our weekday sessions are three hours long, starting at 6pm after work.  Not counting the 15-minute break, almost 60% of the time is allocated to work and the rest for checking in.
+
 **6. Ways to communicate during the session: synchronously and asychronously.**
 
-LoC London has a Slack channel.  It's pretty quiet with small bursts of activity and I want to increase engagement on it.  Also, the point of coming to Get On With It is knowing that others are out there working on their projects too.  So to kill two birds with one stone, I decided that we needed a dedicated Slack channel to support these events.  Slack is where people can discuss things inbetween the scheduled check-ins.  This builds motivation and excitement.
+LoC London has a Slack workspace.  It's pretty quiet with small bursts of activity and I want to increase engagement on it.  Also, the whole point of coming to Get On With It is knowing that others are out there working on their projects too.  So, to kill two birds with one stone, I decided that we needed a dedicated Slack channel to support these events.  Slack is where people can discuss things inbetween the scheduled check-ins and inbetween events.  This builds motivation and excitement.
 
-Sarah and I wanted to collaborate during the first session, and I had a feeling others may want to give or receive help too.  So as not to compromise the safety of our Zoom room, I created 10 Google Hangouts and posted the links to them in the Slack channel, along with instructions on how to "book" them.  I named each Hangout after a London Tube station so people could say "I'll meet you at Pimlico" etc.  A bit of normality in these strange times.
+Sarah and I wanted to collaborate on web development during the first session, and I had a feeling others may want to give or receive help too.  So as not to compromise the security of our Zoom room, I created 10 Google Hangouts and posted the links to them in the Slack channel, along with instructions on how to "book" them.  I named each Hangout after a London Tube station so people could say "I'll be in Pimlico" etc.  A bit of normality in these strange times.
 
 **7. Publicising success and sharing resources.**
+
+We are also trying to increase engagement with our Twitter account, so I decided to make a thread for each event where we tweet information about what each person is working on.  We don't attach names without their permission.  The threads describe the type of activity and link to relevant resources, for example an online course that someone is taking.
+
+I have also created a new Slack channel, #learning_resources, where I cross-post any links shared in #get_on_with_it so they don't get lost and so other members can benefit from them.  Some learning providers have been offering free or discounted courses recently.
+
+
+
 
 ** Anything else? **
 
 
 
+.
+.
+.
+.
+.
+.
+.
+Reading the blog post... 
 
 
 
 
+"** Anything else? **" -> maybe mention that it's attracted the attention of a wider audience than an in person meetup could, with folks joining from other parts of the UK, France and USA - despite this being an early morning weekend start for the USA?
 
+Suggest embedding some of the past session Twitter threads?
 
+Suggest adding crochet as example of something someone worked on at previous event as it's about all projects not just tech?
 
+You might want to make it clear that there's a show and tell opportunity at the end?
 
+Another example of what was worked on: training a machine learning system (the one with the google learning machines)
+
+Explain that this has now become a twice weekly thing?
+
+I like the writing style on this and don't think at all that it's too me me me, it reads well, nicely done love x.
 
 
 
