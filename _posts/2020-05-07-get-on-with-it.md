@@ -87,6 +87,8 @@ I have created a new Slack channel, #learning_resources, where I cross-post any 
 
 We have always used [Meetup.com](https://www.meetup.com/Ladies-of-Code-UK/events) for event listings and signups.  The interface allows us to ask a question when people book their place.  We use this to ask them to say what they'll work on, to get them thinking about it.
 
+![image](/images/gowi_rsvp.jpg){: .image .center}
+
 Each session contains four checkpoints via Zoom video conferencing:
 
 * At the very beginning: hello from the organisers, explanation of how it all works, how the concept came about and optional personal statement from each participant of what we will be working on.
