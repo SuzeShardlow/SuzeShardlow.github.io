@@ -6,7 +6,7 @@ permalink: pretty
 
 collections:
   posts:
-    permalink: /blog/:categories/:year/:month/:day/:title/
+    permalink: /blog/:year/:month/:day/:title/
   coding_projects:
     output: true
   talks:
