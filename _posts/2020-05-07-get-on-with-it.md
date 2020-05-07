@@ -9,13 +9,13 @@ comments: true
 
 Lockdown.  Many of us are spending 23 hours a day at home.  We're all looking for ways to break the monotony.  But somehow the pile of unfinished or unstarted projects seems no more appealing than it did six weeks ago...
 
-Back in April, I agreed to help my friend and Ladies Of Code (LoC) co-organiser, Sarah, set up her personal blog site.  By that stage, only a couple of tech communities had taken their events online.  We at LoC were trying to figure out if and how to move to virtual meetups, both in terms of content and tooling.  And then it hit me...
+Back in April, I agreed to help my friend and [Ladies Of Code (LoC) London](https://twitter.com/ladiesofcodeLDN) co-organiser, Sarah, set up her personal blog site.  By that stage, only a couple of tech communities had taken their meetups online.  We at LoC London were trying to figure out if and how to move to virtual events, both in terms of content and tooling.  And then it hit me...
 
 Why not spend a Saturday afternoon doing our coding projects and invite LoC members to join us remotely?  I was convinced that procrastination and lack of motivation were rife, whether or not people admitted it.  I was also of the firm belief that vocalising your goals meant you were more likely to try and achieve them.
 
-And so, **Get On With It!  Bring Your Own Project** was born.  My inspiration for the name came from our other series: **Get Heard** for public speaking upskilling and **Get Into...** for tech roles under the spotlight.
+And so, [**Get On With It!  Bring Your Own Project**](https://www.meetup.com/Ladies-of-Code-UK/events/269952192/) was born.  My inspiration for the name came from our other series: [**Get Heard**](https://www.meetup.com/Ladies-of-Code-UK/events/268898891/) for public speaking upskilling and [**Get Into...**](https://www.youtube.com/watch?v=80YTIqciZW8) for tech roles under the spotlight.
 
-We figured that if nobody else turned up, we'd lost nothing except £15 on a Zoom subscription as we were going to work on our own projects anyway.
+We figured that if nobody else turned up, we'd lost nothing except £15 on a [Zoom](https://zoom.us/) subscription as we were going to work on our own projects anyway.
 
 ## Methodology
 
@@ -30,6 +30,8 @@ I have heard a lot of talk over the past few weeks about how:
 * "You have more free time than ever before.  You have no excuse not to learn that new skill/finish those projects/get fit..."
 
 Not everyone has more time on their hands now.  Many folks with caring responsibilities are getting zero respite.  Some are having to manage this alongside full-time jobs.  To endeavour not to alienate people, I worded the event description carefully.
+
+![image](/images/gowi_wording.jpg){: .image .center}
 
 We were also careful about the language we used during the events, which I will elaborate on later.
 
@@ -57,9 +59,9 @@ Working continuously for too long can be counterproductive so we made sure to bu
 
 This goes hand-in-hand with stating your intentions.  The aim of the session is to get things done, so we needed to be able to come together and cheerlead and and pat each other on the back.
 
-Our weekend sessions are four hours long.  Minus the half-hour break, 70% of the time is allocated to work and 30% is for checking in: what I term "showing and telling or watching and listening".
+Our [weekend sessions](https://www.meetup.com/Ladies-of-Code-UK/events/270075167/) are four hours long.  Minus the half-hour break, 70% of the time is allocated to work and 30% is for checking in: what I term "showing and telling or watching and listening".
 
-Our weekday sessions are three hours long, starting at 6pm after work.  Not counting the 15-minute break, almost 60% of the time is allocated to work and the rest for checking in.
+Our [weekday sessions](https://www.meetup.com/Ladies-of-Code-UK/events/270029777/) are three hours long, starting at 6pm after work.  Not counting the 15-minute break, almost 60% of the time is allocated to work and the rest for checking in.
 
 **7. Ways to communicate during the session: synchronously and asychronously.**
 
@@ -67,11 +69,19 @@ LoC London has a Slack workspace.  It's pretty quiet with small bursts of activi
 
 Sarah and I wanted to collaborate on web development during the first session, and I had a feeling others may want to give or receive help too.  So as not to compromise the security of our Zoom room, I created 10 Google Hangouts and posted the links to them in the Slack channel, along with instructions on how to "book" them.  I named each Hangout after a London Tube station so people could say "I'll be in Pimlico" etc.  A bit of normality in these strange times.
 
+![image](/images/gowi_breakouts.jpg){: .image .center}
+
 **8. Publicising success and sharing resources.**
 
 We are also trying to increase engagement with our Twitter account, so I decided to make a thread for each event where we tweet information about what each person is working on.  We don't attach names without their permission.  The threads describe the type of activity and link to relevant resources, for example an online course that someone is taking.
 
-I have also created a new Slack channel, #learning_resources, where I cross-post any links shared in #get_on_with_it so they don't get lost and so other members can benefit from them.  Some learning providers have been offering free or discounted courses recently.
+We take a group photo at the beginning of each session, which we start each new thread with.
+
+
+
+I have created a new Slack channel, #learning_resources, where I cross-post any links shared in #get_on_with_it so they don't get lost and so other members can benefit from them.  Some learning providers have been offering free or discounted courses recently.
+
+![image](/images/gowi_learning_resources.jpg){: .image .center}
 
 ## Planning and logistics
 
