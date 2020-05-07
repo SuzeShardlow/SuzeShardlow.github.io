@@ -1,7 +1,7 @@
 ---
 headline: Get On With It...
 sub_headline: It's easier to combat procrastination when you've got cheerleaders behind you
-read_time: 
+read_time: 8
 image: /images/gowi_20200411.png
 category: Leadership
 comments: true
@@ -107,13 +107,13 @@ We have seen a number of results, both expected and unexpected, from these sessi
 
 **1. The first event was so successful that we've run them twice a week ever since.**
 
-We run the four-hour format every weekend and the three-hour version during the week after work.  We have now completed eight sessions in total.
+We run the four-hour format every weekend and the three-hour version during the week after work.  [We have now completed eight sessions in total.](https://www.meetup.com/Ladies-of-Code-UK/events/past/)
 
 **2. People from other countries found our event and attend regularly.**
 
 This event has attracted the attention of a wider audience than we anticipated, with people joining from around the world despite this being an early morning weekend start for some of them!
 
-One of the women I taught at my San Diego workshop found out about GOWI from a [LinkedIn post](https://www.linkedin.com/posts/activity-6657429921717071872-p71y) and has joined several of our sessions.  She is now going to run an online GOWI-type event in San Diego, on a weekend morning so we in London can take part.
+One of the women I taught at my [San Diego workshop](/talks) found out about GOWI from a [LinkedIn post](https://www.linkedin.com/posts/activity-6657429921717071872-p71y) and has joined several of our sessions.  She is now going to run an online GOWI-type event in San Diego, on a weekend morning so we in London can take part.
 
 We also have participants from other parts of San Diego, France and around the UK!  We would never have met some of these folks had we not taken our events online.
 
@@ -169,18 +169,3 @@ Some people just needed help taking the first step to achieving their goals.  Th
 
 Suggest embedding some of the past session Twitter threads?
 
-
-
-![image](/images/burrito_ingredients.jpg){: .image .right}
-
-![image](/images/burrito_chips.jpg){: .image .right}
-
-![image](/images/burrito_cooking_sausage.jpg){: .image .left}
-
-***Convenience shortcut:*** Leave the sausages in their skins and cook them under the **grill**, then cut them into small pieces.
-
-![image](/images/burrito_bacon.jpg){: .image .right}
-
-![image](/images/burrito_assembly.jpg){: .image .left}
-
-![image](/images/burrito_unwrapped.jpg){: .image .right}
