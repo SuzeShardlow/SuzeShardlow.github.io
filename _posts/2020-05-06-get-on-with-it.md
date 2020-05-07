@@ -2,7 +2,7 @@
 headline: Get On With It...
 sub_headline: It's easier to combat procrastination when you've got cheerleaders behind you
 read_time: 
-image: /images/burrito_bites.jpg
+image: /images/gowi_20200411.png
 category: Leadership
 comments: true
 ---
@@ -19,7 +19,7 @@ We figured that if nobody else turned up, we'd lost nothing except £15 on a Zoo
 
 ## Methodology
 
-In my mind, for the sessions to be successful, there were a few essential ingredients:
+In my mind, for Get On With It (GOWI) to be successful, there were a few essential ingredients:
 
 **1. Careful choice of language.**
 
@@ -79,9 +79,9 @@ We have always used [Meetup.com](https://www.meetup.com/Ladies-of-Code-UK/events
 
 Each session contains four checkpoints via Zoom video conferencing:
 
-* At the very beginning: hello from the organisers, explanation of how it all works, how the concept came about and optional statement of what we will all be working on.
+* At the very beginning: hello from the organisers, explanation of how it all works, how the concept came about and optional personal statement from each participant of what we will be working on.
 
-* Just before the break, to remind people to relax for a bit and also to find out who wants to show and tell after the break.
+* Just before the break: to remind people to relax for a bit and also to find out who wants to show and tell after the break.
 
 * Midway progress update: a quick, optional show and tell/watch and listen.
 
@@ -91,73 +91,71 @@ As I mentioned earlier, between the checkpoints we use Slack for asynchronous co
 
 ## Outcomes
 
-We have seen a number of expected and unexpected results from these sessions:
+We have seen a number of results, both expected and unexpected, from these sessions:
 
 **1. The first event was so successful that we've run them twice a week ever since.**
 
-[I will elaborate on each bullet.]
+We run the four-hour format every weekend and the three-hour version during the week after work.  We have now completed eight sessions in total.
 
 **2. People from other countries found our event and attend regularly.**
 
+This event has attracted the attention of a wider audience than we anticipated, with people joining from around the world despite this being an early morning weekend start for some of them!
 
+One of the women I taught at my San Diego workshop found out about GOWI from a [LinkedIn post](https://www.linkedin.com/posts/activity-6657429921717071872-p71y) and has joined several of our sessions.  She is now going to run an online GOWI-type event in San Diego, on a weekend morning so we in London can take part.
 
-**3. We've seen hardware as well as software projects.**
+We also have participants from other parts of San Diego, France and around the UK!  We would never have met some of these folks had we not taken our events online.
 
+**3. We're cheering each other on outside the sessions too.**
 
+One member mentioned that she was preparing for a webinar talk she was giving, and a number of LoC members tuned in to see her speak.
 
-**4. People from other countries found our event and attend regularly.**
+**4. We've seen hardware as well as software projects.**
 
+Projects that people have worked on include:
 
+* Hooking up a Raspberry Pi to traffic lights/arcade buttons/buzzers
+* Writing blog posts
+* Improving a Python/GitHub profiles/Redis prize draw side project
+* Training a machine learning system
+* Learning about accessibility
+* Taking beginners' JavaScript courses
+* Honing JavaScript and CSS skills through practice/personal projects, eg a battleships game, zombie game
+* Updating a portfolio site to include tech projects
+* Crocheting for the first time
+* Learning about web scraping with Python
+* Writing up READMEs
+* Creating an app for a hackathon entry
+* Preparing a meetup talk
+* Setting up a new Raspberry Pi with Node-RED
+* Rebricking Lego
+* Refactoring a React Hooks book cataloguing project
+* Masters degree studies
+* Organising some meetup notes to share with colleagues
+* Learning about serverless computing
+* Creating a tutorial
+* Contributing to open source projects by filing and fixing issues
+* Learning Python
+* Completing a nanodegree
+* Taking a machine learning course
+* Migrating websites to the JAMstack
+* Building a random password generator
+* Studying for Scrum exams
+* Sketching out wireframes for an app
+* Creating a new CV after a career pivot to web developer
+* Building a new website using Wix
+* Using Django to make a new personal portfolio site
 
 **5. Folks have completed tasks they had literally been putting off for years.**
 
+Some people just needed help taking the first step to achieving their goals.  There were some who had been wanting to create a personal website for ages.  Others wrote blog posts they had been planning for over a year.
+
+[Find out more about previous events.](https://www.meetup.com/Ladies-of-Code-UK/events/)
 
 
 
 
-
-
-
-
-
-
-"** Anything else? **" -> maybe mention that it's attracted the attention of a wider audience than an in person meetup could, with folks joining from other parts of the UK, France and USA - despite this being an early morning weekend start for the USA?
 
 Suggest embedding some of the past session Twitter threads?
-
-Suggest adding crochet as example of something someone worked on at previous event as it's about all projects not just tech?
-
-Another example of what was worked on: training a machine learning system (the one with the google learning machines)
-
-Explain that this has now become a twice weekly thing?
-
-I like the writing style on this and don't think at all that it's too me me me, it reads well, nicely done love x.
-
-
-
-
-
-If there's stuff you want to get started, finished or make progress on, but are struggling for motivation, join us this Sunday 26 of April.
-We'll get together to share what we're doing, cheer each other on and generally support each other to kick-start some momentum.
-
-Examples of things people worked on in previous sessions:
-
-* A new CV
-* Blog posts
-* A personal website
-* An app to help children to be healthy
-* Writing up READMEs
-* Preparing a talk
-* Taking a course about accessibility
-* Completing a nano-degree
-* Taking a machine learning course
-* Raspberry Pi project
-* Fix bugs on open source projects
-* Learning Python
-* Building a complete app for a hackathon
-* Research on how to deploy a web app and create a game!
-
-
 
 
 
