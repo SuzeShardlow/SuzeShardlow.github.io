@@ -13,7 +13,7 @@ Back in April, I agreed to help my friend and [Ladies Of Code (LoC) London](http
 
 Why not spend a Saturday afternoon doing our coding projects and invite LoC members to **join us remotely**?  I was convinced that **procrastination** and **lack of motivation** were rife, whether or not people admitted it.  I was also of the firm belief that **vocalising** your goals meant you were more likely to try and **achieve** them.
 
-And so, [**Get On With It!  Bring Your Own Project**](https://www.meetup.com/Ladies-of-Code-UK/events/269952192/) was born.  My inspiration for the name came from our other series: [**Get Heard**](https://www.meetup.com/Ladies-of-Code-UK/events/268898891/) for public speaking upskilling and [**Get Into...**](https://www.youtube.com/watch?v=80YTIqciZW8) for tech roles under the spotlight.
+And so, [Get On With It!  Bring Your Own Project](https://www.meetup.com/Ladies-of-Code-UK/events/269952192/) was born.  My inspiration for the name came from our other series: [Get Heard](https://www.meetup.com/Ladies-of-Code-UK/events/268898891/) for public speaking upskilling and [Get Into...](https://www.youtube.com/watch?v=80YTIqciZW8) for tech roles under the spotlight.
 
 We figured that if nobody else turned up, we'd lost nothing except £15 on a [Zoom](https://zoom.us/) subscription as we were going to work on our own projects anyway.
 
