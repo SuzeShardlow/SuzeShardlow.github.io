@@ -107,7 +107,7 @@ We have seen a number of results, both expected and unexpected, from these sessi
 
 **1. The first event was so successful that we've run them twice a week ever since.**
 
-We run the four-hour format every weekend and the three-hour version during the week after work.  [We have now completed eight sessions in total.](https://www.meetup.com/Ladies-of-Code-UK/events/past/)
+We run the four-hour format every weekend and the three-hour version during the week after work.  [We have now completed nine sessions in total.](https://www.meetup.com/Ladies-of-Code-UK/events/past/)
 
 **2. People from other countries found our event and attend regularly.**
 
@@ -163,9 +163,6 @@ Some people just needed help taking the first step to achieving their goals.  Th
 
 [Find out more about previous events.](https://www.meetup.com/Ladies-of-Code-UK/events/)
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Such an absolutely lovely way to spend a Sunday afternoon - getting things *done* and with such a nice group!<br><br>Thank you for being so warm and welcoming, and see you next time <a href="https://twitter.com/ladiesofcodeLDN?ref_src=twsrc%5Etfw">@ladiesofcodeLDN</a> <a href="https://twitter.com/SuzeShardlow?ref_src=twsrc%5Etfw">@SuzeShardlow</a> <a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a> <a href="https://t.co/UnkrpVQZVt">https://t.co/UnkrpVQZVt</a></p>&mdash; Alex Morton (@alexlsaltt) <a href="https://twitter.com/alexlsaltt/status/1254474944798437379?ref_src=twsrc%5Etfw">April 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
-
-Suggest embedding some of the past session Twitter threads?
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Video walkthrough of <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> project I made with <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> and arcade button from <a href="https://twitter.com/adafruit?ref_src=twsrc%5Etfw">@adafruit</a> as part of <a href="https://twitter.com/ladiesofcodeLDN?ref_src=twsrc%5Etfw">@ladiesofcodeLDN</a> <a href="https://twitter.com/hashtag/getitdone?src=hash&amp;ref_src=twsrc%5Etfw">#getitdone</a> session today. Thanks <a href="https://twitter.com/SarahNUsher?ref_src=twsrc%5Etfw">@SarahNUsher</a> <a href="https://twitter.com/Shilaghae?ref_src=twsrc%5Etfw">@Shilaghae</a> <a href="https://twitter.com/SuzeShardlow?ref_src=twsrc%5Etfw">@SuzeShardlow</a> for organizing <a href="https://twitter.com/hashtag/iot?src=hash&amp;ref_src=twsrc%5Etfw">#iot</a> <a href="https://t.co/m04bnqCPfG">https://t.co/m04bnqCPfG</a></p>&mdash; Simon Prickett 🇪🇺 (@simon_prickett) <a href="https://twitter.com/simon_prickett/status/1254615660698587138?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
