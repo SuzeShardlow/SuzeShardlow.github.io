@@ -37,6 +37,8 @@ We were also careful about the **language** we used **during** the events, which
 
 **2. Progress, not perfection.**
 
+![image](/images/gowi_praise_4.png){: .image .right}
+
 **Success looks different for everyone.**  Therefore, it's important that everyone knows that their personal goals and achievements are **valid**.  I knew we were going to hear a lot of "it's not much" so I came to the first session armed with the mantra **"progress, not perfection"**.  I just want everyone to leave Get On With It a little **further forward** than they were when they came.
 
 **3. Optional (but highly encouraged) switching-on of cameras and mics.**
@@ -56,6 +58,8 @@ However, some members were pleased to have what they called "accountability" and
 Working continuously for too long can be **counterproductive** so we made sure to build **breaks** into the schedule.
 
 **6. Opportunities to check in and celebrate.**
+
+![image](/images/gowi_praise_1.png){: .image .right}
 
 This goes hand-in-hand with stating your intentions.  The aim of the session is to get things done, so we needed to be able to **come together** and **cheerlead** and and pat each other on the back.
 
@@ -77,7 +81,7 @@ We are also trying to increase engagement with our **Twitter** account, so I dec
 
 We take a **group photo** at the beginning of each session, which we start each new thread with.
 
-
+![image](/images/gowi_group_pic.gif){: .image .center}
 
 I have created a **new Slack channel, #learning_resources**, where I **cross-post** any links shared in #get_on_with_it so they don't get lost and so other members can benefit from them.  Some learning providers have been offering free or discounted courses recently.
 
@@ -111,6 +115,8 @@ We have seen a number of results, both expected and unexpected, from these sessi
 
 We run the **four-hour** format every **weekend** and the **three-hour** version during the **week** after work.  [We have now completed nine sessions in total.](https://www.meetup.com/Ladies-of-Code-UK/events/past/)
 
+![image](/images/gowi_praise_2.png){: .image .right}
+
 **2. People from other countries found our event and attend regularly.**
 
 This event has attracted the attention of a wider audience than we anticipated, with people joining from **around the world** despite this being an early morning weekend start for some of them!
@@ -134,6 +140,7 @@ One member mentioned that she was preparing for a **webinar** talk she was givin
 * Learning about accessibility
 * Taking beginners' JavaScript courses
 * Honing JavaScript and CSS skills through practice/personal projects, eg a battleships game, zombie game
+![image](/images/gowi_hardware.jpg){: .image .right}
 * Updating a portfolio site to include tech projects
 * Crocheting for the first time
 * Learning about web scraping with Python
