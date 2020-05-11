@@ -61,6 +61,7 @@ section, summary, time, mark, audio, video {
     .blogpost > p {
       margin: 0 0 1.1em 0;
       font-size: 1.1em;
+      /* max-width: 1000px; */
     }
 
     .blogpost > p:first-of-type {
