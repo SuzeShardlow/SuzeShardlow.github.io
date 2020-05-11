@@ -12,4 +12,4 @@
   class: icon fa-instagram
 - name: Mail
   link: mailto:hello@suze.dev
-  class: icon fa-envelope
+  class: icon fa-envelope email
