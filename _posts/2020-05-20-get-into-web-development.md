@@ -19,7 +19,32 @@ I'm not sure whether this is because:
 
 Either way, we've been keen to keep up the momentum and support our community with opportunities to get together and learn stuff.
 
-LoC events cater for those who are already in tech and want to level up and/or switch tracks as well as those who are new to the industry.
+LoC events cater for those who are already in tech and want to level up and/or switch tracks as well as those who are new to the industry.  People are always keen to hear from those who have gone before them.  So we had a think about some of the roles people are most curious about.  I am a web developer, so I took an action to find a web developer who could talk about how they got into web development.
+
+Before the event
+
+I knew exactly who I wanted to speak to.  I had met Niamh McCooey at a meetup last year: she'd attended GDCFP Day with me and we had spoken at the same meetup later in the year.  Niamh's story is a bit different because she taught herself and I wanted to highlight this as a viable route which may be available to those who can't access bootcamps or similar courses.
+
+As I mentioned before, we have been churning out the events.  Therefore, I figured it made sense to do as much as possible in my power to reduce the lead time.  I knew Niamh already had some talks, as I had heard them.  They were very good but were not exclusively about how she became a web developer, how she got her first job and all that other stuff people want to know about.
+
+I know talks take weeks to write.  I wanted to reduce the labour on Niamh as well as minimise the lead time.  I hit upon the idea of using a chat show-style interview format instead of asking Niamh to write a new talk.
+
+Advantages:
+
+* All the labour is on me, not Niamh.  She commented afterwards that it was great that she had to do zero prep and could just turn up.
+* I can make sure the content is aligned to the event outcomes we want (that people leave the event more informed about how to get into web development).
+* We can have a longer session - a long talk is usually about 30 minutes plus Q&A whereas this would be nearly an hour of Q&A and discussion.
+* It's a bit different from the other webinars you see, so potentially more engaging.
+
+Disadvantages:
+
+* I had never done this before, so I was fretting about whether I had enough questions.  In the end, I had more than enough.
+* I already knew Niamh, so this wasn't an issue, but if you are going to approach someone you don't know too well/have never heard speak, you don't know how forthcoming they will be/how easy it will be to get the information you need via questioning.
+* It's hard (LOL).  You have a set of pre-written questions but need to be listening to the answers and deciding what you want to ask next, what threads you'll pick up and develop, how you'll weave the live Q&A in.
+
+
+
+
 
 
 
