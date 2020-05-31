@@ -7,7 +7,7 @@ category: Leadership
 comments: true
 ---
 
-Due to the online tooling required, remote kanbanning is tricky if you don't have money to spend on it.  But we needed it for the [Lean Coffee](https://www.meetup.com/Ladies-of-Code-UK/events/270677983/) events we wanted to run.
+Due to the online tooling required, remote real-time kanbanning is tricky if you don't have money to spend on it.  But we needed it for the [Lean Coffee](https://www.meetup.com/Ladies-of-Code-UK/events/270677983/) events we wanted to run.
 
 Figuring this out was fun, especially as we organise [Ladies Of Code London](https://www.meetup.com/Ladies-of-Code-UK) on a **voluntary** basis and thus have no budget.  (We pay for our Zoom fees out of our own pockets, for example.)  Understandably, all the online sticky-note **collaboration tools** require a £subscription, with some offering a free trial.
 
@@ -23,8 +23,9 @@ We thought Lean Coffee would be a great way to spark a **variety of conversation
 
 To run the lean coffee, you need to be able to:
 
-* Have **all participants type** topics somewhere they can be **seen and voted on by everyone** - in person, this would be handwritten Post-It notes on a wall.
-* Place the topics in **order of popularity** - again, where they can be **seen by all**.  This is easy in person - just use Post-Its.
+* Have **all participants type** topics somewhere they can be **seen and voted on by everyone in real time** - in person, this would be handwritten Post-It notes on a wall.
+* Place the topics in **order of popularity** - again, where they can be **seen by all in real time**.  This is easy in person - just use Post-Its.
+* **Move the topics around the board** when they change status and have the participants be able to see this in **real time**.
 * Have a **video conferencing** system so people can discuss the topics.
 * **Time** the rounds.
 
