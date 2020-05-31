@@ -1,8 +1,8 @@
 ---
-headline: Get Into Web Development
+headline: Get Into... Web Development
 sub_headline: Interviewing people for the Ladies Of Code London Get Into... Series
 read_time: 2
-image: /images/gowi_20200411.png
+image: /images/giwd_cover.png
 category: Leadership
 comments: true
 ---
