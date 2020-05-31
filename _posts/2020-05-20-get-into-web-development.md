@@ -7,7 +7,7 @@ category: Leadership
 comments: true
 ---
 
-I've been looking at ways to innovate our Ladies Of Code (LoC) offerings now we're 100% online, which led me to introducing an interview format for our Get Into... series.
+I've been looking at ways to innovate our Ladies Of Code (LoC) offerings now we're 100% online, which led to me creating an interview format for our Get Into... series.
 
 Get Into... is our series which aims to demystify roles in the tech industry.  Our first event was [Get Into Gaming and AI](https://www.meetup.com/Ladies-of-Code-UK/events/269878055/), which was a traditional talk.  We're currently in lockdown and, while we used to deliver one in-person meetup per month, we've been producing at least two every week since the beginning of April.
 
