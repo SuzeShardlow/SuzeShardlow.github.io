@@ -114,4 +114,4 @@ Here is the full interview:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/80YTIqciZW8" allowfullscreen></iframe>
 </div><br/>
 
-If you have a **suggestion** for a role we could feature on *Get Into...* or would like to **speak** at one of our events, please contact me!
+If you have a **suggestion** for a role we could feature on *Get Into...* or would like to **speak** at one of our events, please <a href="#" class="email">contact me</a>!
