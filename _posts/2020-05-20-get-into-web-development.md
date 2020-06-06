@@ -9,7 +9,7 @@ comments: true
 
 I've been looking at ways to innovate our [Ladies Of Code (LoC) London](https://www.meetup.com/Ladies-of-Code-UK) offerings now that COVID-19 has forced us 100% online, which led to me devising an interview format for our *Get Into...* series.
 
-*Get Into...* is where we **demystify roles** in the tech industry.  Our first event was [Get Into Gaming and AI](https://www.meetup.com/Ladies-of-Code-UK/events/269878055/), which was a **traditional talk with slides** and was very popular.  We're currently in **lockdown** and, while we used to plan **one in-person meetup per month**, we've been producing **at least two every week** since the beginning of April.
+*Get Into...* is where we **demystify roles** in the tech industry.  Our first event was [Get Into... Gaming and AI](https://www.meetup.com/Ladies-of-Code-UK/events/269878055/), which was a **traditional talk with slides** and was very popular.  We're currently in **lockdown** and, while we used to plan **one in-person meetup per month**, we've been producing **at least two every week** since the beginning of April.
 
 I'm not sure whether this is because:
 
@@ -29,27 +29,32 @@ LoC events cater for those who are **already in tech** and want to **level up** 
 
 I **knew exactly whom I wanted** to interview.  I had met [Niamh McCooey](https://twitter.com/niamhmccoo) at an event last year and she was at [GDCFP Day]({{ site.baseurl }}{% link _posts/2019-03-25-so-you-want-to-speak-at-a-tech-conference.md %}) too.  Later in 2019, as experienced speakers, we gave talks at the [same tech meetup](https://codebar.io/meetings/monthly-oct-2019).
 
-Niamh's story is a bit different because she **taught herself**.  I wanted to highlight this as a **viable route to paid work** which may be available to those who can't access bootcamps or similar courses.
+Niamh's story is a bit different because she **taught herself**.  I wanted to highlight this as a **viable route to paid coding work** which may be an option for those who can't access bootcamps or similar courses.
 
-#### Selling the idea to Niamh
+#### Format selection
 
 I know talks take **weeks to write**.  I wanted to **reduce the labour** on Niamh as well as minimise the **lead time**.  I hit upon the **idea** of using a **chat show-style interview** format instead of asking Niamh to write a new talk.
 
-**Advantages:**
+**Advantages to the speaker:**
 
-* **All the labour is on me.**  Niamh fed back that it was **great** that she had to do **zero prep** and could **just turn up**.
-* I have more control over the **aligning the content with the desired event outcomes** (that people leave the event more informed about how to get into web development).
+* **There's very little labour.**  Niamh fed back that it was **great** that she had to do **zero prep** and could **just turn up**.
+* They don't have to think about **timekeeping** - they can rely on me for that.
+* The speaker doesn't have to worry about whether what they're going to say will cover all the desired **topics**, which might be the case if they had to write a talk.
+* It's more **fun** to sit and have a chat than it is to give a presentation.
+* They get **instant verbal feedback**, which doesn't happen whan you give a talk - especially online - unless you ask the audience to jump in with questions while you're speaking.
+* The sessions are **recorded** and uploaded to YouTube, so they can point to these as examples of **public speaking**.
+
+**Advantages to me:**
+
+* I have more control over **aligning the content with the desired event outcomes**.
 * We can have a **longer session**: a long talk is usually about 30 minutes plus Q&A whereas this would be **nearly an hour** of Q&A and discussion.
 * I can manage the **timekeeping** on the night and ensure adherence to the schedule.
-* It's a bit **different from the other tech meetup webinars**, so potentially **more engaging**.
-* **Niamh** commented afterwards that it was **fun**.  I definitely had a lot of fun too.
+* It's a bit **different** from the other tech meetup webinars, so potentially **more engaging**.
 
-**Disadvantages:**
+**Disadvantages to me:**
 
-* **All the labour is on me (LOL).**  When you use this format, you (should) have a set of pre-written **questions**.  You also need to be a good **multitasker**.  This involves listening to the **answers** while deciding what you want to **ask next**, identifying which **threads** you'll pick up and develop, determining how you'll weave the **live Q&A** in and establishing when's a good time to stop.  However, it's worth it for the results.
-* I had never done this before, so I was fretting about whether I had prepared **enough questions**.  In the end, I had more than enough.
+* **All the labour is on me.**  When you use this format, you (should) have a set of pre-written **questions**.  You also need to be a good **multitasker**.  This involves listening to the **answers** while deciding what you want to **ask next**, identifying which **threads** you'll pick up and develop, determining how you'll weave the **live Q&A** in and establishing when's a good time to stop.  However, it's worth it for the results.
 * I already knew Niamh, so this wasn't an issue, but if you are going to approach someone **you don't know** too well/have never heard speak, you don't know how **forthcoming** they will be/how much **probing** you will need to do to get the **information** you need.
-* In a similar vein to the above, if you don't know the person, you need to do enough **research** to satisfy yourself that they have the **right knowledge and experience** to share with you.
 
 ### Creating a YouTube channel
 
@@ -73,7 +78,7 @@ I chose my questions carefully and put a lot of thought into how to **structure*
 * Getting **confident**; getting **paid** to do coding
 * Continuous learning and **what's next** in the career journey
 
-I also came up with the idea of doing two **speed rounds**.  This was partly because I knew Niamh and knew she would be a good sport, but also to **break the interview up**.  It's hard for the audience to stay focused when they've been staring at a screen all day so I wanted to change up the **pace** and **tone**.  Here are the quick-fire clips:
+I also came up with the idea of doing two **speed rounds**.  This was partly because I knew Niamh and knew she would be a good sport, but also to **break the interview up**.  It's hard for the audience to stay focused when they've been staring at a screen all day so I wanted to change up the **pace** and **tone**.  Here are the clips:
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1cDdGf7VDTw" allowfullscreen></iframe>
@@ -109,4 +114,4 @@ Here is the full interview:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/80YTIqciZW8" allowfullscreen></iframe>
 </div><br/>
 
-If you have a suggestion for a role we could feature on *Get Into...* or would like to speak at one of our events, please contact me!
+If you have a **suggestion** for a role we could feature on *Get Into...* or would like to **speak** at one of our events, please contact me!
