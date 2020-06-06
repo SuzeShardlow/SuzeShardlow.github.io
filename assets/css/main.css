@@ -2770,7 +2770,9 @@ section, summary, time, mark, audio, video {
     .embed-responsive {
       position: relative;
       display: block;
-      width: 100%;
+      width: 80%;
+      margin-left: 10%;
+      margin-right: 10%;
       padding: 0;
       overflow: hidden; }
       .embed-responsive::before {
