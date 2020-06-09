@@ -1,8 +1,8 @@
 ---
 headline: How To Prevent Zoombombing
 sub_headline: Some Basic Steps You Can Take To Protect Your Meeting 
-read_time: 
-image: /images/giwd_cover.png
+read_time: 5
+image: /images/zoombombing_hacker.jpg
 category: Leadership
 comments: true
 ---
