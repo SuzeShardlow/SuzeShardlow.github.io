@@ -73,7 +73,7 @@ Trolls have been known to hijack entire meetings by sharing their screen with ev
 
 Bad actors often test the waters by trying to **draw** on the speaker's screen share.  They will depict things which get progressively more **provocative**, then switch to trying to share their own screen.
 
-## f) Lock the call
+## 5) Lock the call
 
 We usually do this **five minutes** after the meetup starts.  This means that we can relax in the knowledge that the number of people we need to watch is not going to increase.  Also, if anyone who legitimately received the link has shared it with the masses, it won't affect us.
 
