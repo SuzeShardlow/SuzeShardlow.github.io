@@ -49,6 +49,8 @@ Enabling the waiting room means you can vet people before you let them into the 
 
 If you are running a meeting for people you have personally invited and/or a vulnerable group (eg a paid class or a Scouts meeting), this is invaluable.  It gives you the ability to admit only the people you sent the invitation to.
 
+![image](/images/zoom_waiting_room.jpg){: .image .center}
+
 **Note: You might not know the names of all your members.**
 
 On meetup.com, a large chunk of the membership uses **pseudonyms, initials, first names only** etc.  Therefore, seeing names in the waiting room may not help you if you are running a meeting where you don't know all the attendees.
@@ -61,6 +63,8 @@ This does what it says on the tin and removes the risk of people joining and dis
 
 I am in another group where the demographic is not accustomed to video meeting etiquette and they therefore **never mute their mics**.  Some of them sit there watching videos while they are on the call, which everyone else can hear.
 
+![image](/images/zoom_mute_on_entry.jpg){: .image .center}
+
 ### c) Don't allow participants to unmute themselves
 
 We use the universal setting and then switch the self-unmute facility on, **per call**, when we reach the section where we have a discussion, depending on the makeup of the group (ie only if all the members present are known to us).
@@ -69,7 +73,9 @@ If you are running a **webinar**, there is no need for anyone to be able to unmu
 
 ### d) Only allow the hosts to screen share
 
-Trolls have been known to hijack entire meetings by sharing their screen with everyone on the call.
+Bad actors have been known to hijack entire meetings by sharing their screen with everyone on the call.
+
+![image](/images/zoom_screen_share.jpg){: .image .center}
 
 ### e) Don't allow participants to annotate screen shares
 
