@@ -65,27 +65,31 @@ I am in another group where the demographic is not accustomed to video meeting e
 
 ![image](/images/zoom_mute_on_entry.jpg){: .image .center}
 
-### c) Don't allow participants to unmute themselves
-
-We use the universal setting and then switch the self-unmute facility on, **per call**, when we reach the section where we have a discussion, depending on the makeup of the group (ie only if all the members present are known to us).
-
-If you are running a **webinar**, there is no need for anyone to be able to unmute themselves unless you want them to be able to vocalise any **questions** they have.  We use the **chat function** for people to submit questions, which we put to the speaker on behalf of the attendees.  Therefore, the attendees are always muted.
-
-### d) Only allow the hosts to screen share
+### c) Only allow the hosts to screen share
 
 Bad actors have been known to hijack entire meetings by sharing their screen with everyone on the call.
 
 ![image](/images/zoom_screen_share.jpg){: .image .center}
 
-### e) Don't allow participants to annotate screen shares
+### d) Don't allow participants to annotate screen shares
 
 Bad actors often test the waters by trying to **draw** on the speaker's screen share.  They will depict things which get progressively more **provocative**, then switch to trying to share their own screen.
 
 ![image](/images/zoom_annotate.jpg){: .image .center}
 
-## 5) Lock the call
+## 5) Don't allow participants to unmute themselves
+
+We use the main in-call setting and then switch the self-unmute facility on, **per call**, when we reach the section where we have a discussion, depending on the makeup of the group (ie only if all the members present are known to us).
+
+
+
+If you are running a **webinar**, there is no need for anyone to be able to unmute themselves unless you want them to be able to vocalise any **questions** they have.  We use the **chat function** for people to submit questions, which we put to the speaker on behalf of the attendees.  Therefore, the attendees are always muted.
+
+## 6) Lock the call
 
 We usually do this **five minutes** after the meetup starts.  This means that we can relax in the knowledge that the number of people we need to watch is not going to increase.  Also, if anyone who legitimately received the link has shared it with the masses, it won't affect us.
+
+![image](/images/zoom_lock_meeting.jpg){: .image .center}
 
 ## What's worked for you?
 
