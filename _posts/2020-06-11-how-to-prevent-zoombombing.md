@@ -81,7 +81,7 @@ Bad actors often test the waters by trying to **draw** on the speaker's screen s
 
 We use the main in-call setting and then switch the self-unmute facility on, **per call**, when we reach the section where we have a discussion, depending on the makeup of the group (ie only if all the members present are known to us).
 
-
+![image](/images/zoom_no_unmute.jpg){: .image .center}
 
 If you are running a **webinar**, there is no need for anyone to be able to unmute themselves unless you want them to be able to vocalise any **questions** they have.  We use the **chat function** for people to submit questions, which we put to the speaker on behalf of the attendees.  Therefore, the attendees are always muted.
 
