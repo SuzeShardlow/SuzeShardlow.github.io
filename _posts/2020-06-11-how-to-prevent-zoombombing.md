@@ -19,7 +19,7 @@ For our meetups, we tried to strike a balance between **security** and **conveni
 
 ## 1) Don't publish the link anywhere
 
-Trolls use **bots** to crawl the Internet for Zoom links so they can join calls.  Don't tweet your Zoom link out or publish it on a web page (eg your event page).
+Bad actors use **bots** to crawl the Internet for Zoom links so they can join calls.  Don't tweet your Zoom link out or publish it on a web page (eg your event page).
 
 We **e-mail** our links to attendees 10 minutes before doors open.  We never put them on Meetup.com, even though there is a facility which means that only people who have RSVPd "yes" can see them.
 
@@ -39,6 +39,8 @@ We decided that 40 was a reasonable number of people for the host to feasibly ke
 
 ## 4) Log into zoom.us on your computer and tweak your default settings
 
+[Link to your Zoom settings page.](https://us02web.zoom.us/profile/setting)
+
 ### a) Enable the waiting room
 
 This is the **default setting** now, but it wasn't when we signed up for Zoom.
@@ -47,7 +49,7 @@ Enabling the waiting room means you can vet people before you let them into the 
 
 If you are running a meeting for people you have personally invited and/or a vulnerable group (eg a paid class or a Scouts meeting), this is invaluable.  It gives you the ability to admit only the people you sent the invitation to.
 
-#### i) You might not know the names of all your members.
+**Note: You might not know the names of all your members.**
 
 On meetup.com, a large chunk of the membership uses **pseudonyms, initials, first names only** etc.  Therefore, seeing names in the waiting room may not help you if you are running a meeting where you don't know all the attendees.
 
