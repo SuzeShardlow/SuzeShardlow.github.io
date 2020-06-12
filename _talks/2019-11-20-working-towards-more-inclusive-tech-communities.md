@@ -1,12 +1,13 @@
 ---
 title: Working Towards More Inclusive Tech Communities
 date: November 2019
-format: Long talk
 event_name: FACT///.Mapping Feminists Coding Practices Symposium
 event_link: https://www.eventbrite.com/e/factmapping-feminists-coding-practices-symposium-tickets-73970980193#
 venue: University of Sussex, Brighton, United Kingdom
-type: Long talk
 image: [ /images/speaking/fact_symposium.jpg, /images/speaking/fact_symposium_tweet.jpg, /images/speaking/fact_symposium_graphic.jpg ]
+category: Speaking
+role: Conference
+format: Talk
 ---
 
 I was invited by the University of Sussex to speak on the subject of inclusion in tech communities at their coding conference.
