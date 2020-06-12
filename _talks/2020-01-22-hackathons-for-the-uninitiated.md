@@ -1,13 +1,14 @@
 ---
 title: Hackathons For The Uninitiated
 date: January 2020
-format: Long talk
 event_name: Fundamental JS
 event_link: https://www.meetup.com/sandiegojs/events/hsltlrybccbdc/
 venue: American Addiction Centers, San Diego, California, USA
 type: Meetup
 image: /images/speaking/hackathons_sd.jpg
-link:  
+category: Speaking
+role: Meetup
+format: Talk
 ---
 
 Fundamental JS is part of the San Diego JS family of meetups.  It is a monthly event which focuses on "vanilla" JavaScript: no frameworks or libraries allowed!  Each month they have one code talk and one people skills talk.

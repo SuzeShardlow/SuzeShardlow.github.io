@@ -1,12 +1,13 @@
 ---
 title: Hackathons For The Uninitiated
 date: October 2019
-format: Long talk
 event_name: codebar monthlies
 event_link: https://codebar.io/meetings/monthly-oct-2019
 venue: Ticketmaster HQ, London, United Kingdom
-type: Meetup
 image: /images/speaking/hackathons.jpg
+category: Speaking
+role: Meetup
+format: Talk
 ---
 
 codebar monthlies are for developers with 0-6 months' coding experience.
