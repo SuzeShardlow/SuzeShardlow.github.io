@@ -1,13 +1,12 @@
 ---
 title: Build Your Personal Website And Blog with GitHub Pages and Jekyll
 date: January 2020
-format: Evening workshop
 event_name: Women Who Code San Diego
 event_link: https://www.meetup.com/Women-Who-Code-San-Diego/events/267484617/
 venue: Hera Hub, San Diego, California, USA
-type: Meetup
 image: [ /images/speaking/github_workshop.jpg, /images/speaking/github_sd_insta.jpg, /images/speaking/github_sd_meetup_com.jpg ]
-link: 
+category: Teaching
+format: [ Workshop, Meetup ]
 ---
 
 I am a Director of Women Who Code (WWCode) London and, as soon as I knew I would be holidaying in San Diego, I reached out to my WWCode counterparts there to offer to run a workshop for them.
