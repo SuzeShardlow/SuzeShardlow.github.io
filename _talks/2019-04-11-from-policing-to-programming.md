@@ -7,7 +7,7 @@ venue: Pivotal Europe, London, United Kingdom
 image: [ /images/speaking/policing_to_prog_pivotal.jpg, /images/speaking/policing_to_prog_comment.jpg ]
 category: Speaking
 role: Meetup
-format: [ Talk ]
+format: Talk
 ---
 
 This was my first tech talk, which has had over 6400 views on YouTube.  You can watch it below.
