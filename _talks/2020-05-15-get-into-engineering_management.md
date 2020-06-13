@@ -20,16 +20,16 @@ I source the interviewees, write all my own questions and include two speed roun
 
 The interviews are conducted on Zoom in front of a live audience who can send their questions in via the chat function.  I select some of these questions to weave into the interview.
 
-For Get Into... Web Development, I approached front end developer Niamh McCooey because she had an unusual story: she taught herself.  I wanted to highlight this as a viable route to paid coding work which may be an option for those who can't access bootcamps or similar courses.
+For Get Into... Engineering Management, I approached Software Engineering Manager at Gousto, Amy Phillips, because she has held a number of tech management roles across various organisations and was well-placed to give us some views about what it takes to be an engineering manager.
 
 Topics we covered included:
 
-* How Niamh taught herself to code alongside a full-time job
-* Moving from learning to code to getting paid to code
-* Workplace mentoring and support
-* Which were better: Boyzone or Westlife...
+* Different flavours of engineering management
+* Who your main working relationships are with as an engineering manager
+* Where you can go from engineering management if you want to progress further
+* Whether or not Marmite should be allowed in the house...
 
-We record the interviews and post them on YouTube after the event.  You can watch Get Into... Web Development below:
+We record the interviews and post them on YouTube after the event.  You can watch Get Into... Engineering Management below:
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/luwyL95pyQY" allowfullscreen></iframe>
