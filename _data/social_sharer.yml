@@ -3,7 +3,7 @@
   class: icon fa-twitter
 - name: LinkedIn
   link: https://www.linkedin.com/shareArticle?mini=true&url=SITE_URLSHARE_URL&title=SHARE_TEXT&source=suze.dev by Suze Shardlow
-  class: icon fa-linkedin
+  class: icon fa-linkedin-in
 - name: WhatsApp
   link: https://wa.me/?text=Check out SHARE_TEXT by Suze Shardlow SITE_URLSHARE_URL
   class: icon fa-whatsapp
