@@ -20,7 +20,7 @@ I source the interviewees, write all my own questions and include two speed roun
 
 The interviews are conducted on Zoom in front of a live audience who can send their questions in via the chat function.  I select some of these questions to weave into the interview.
 
-For Get Into... Web Development, I approached Niamh because she had an unusual story: she taught herself.  I wanted to highlight this as a viable route to paid coding work which may be an option for those who can't access bootcamps or similar courses.
+For Get Into... Web Development, I approached front end developer Niamh McCooey because she had an unusual story: she taught herself.  I wanted to highlight this as a viable route to paid coding work which may be an option for those who can't access bootcamps or similar courses.
 
 Topics we covered included:
 
@@ -32,5 +32,5 @@ Topics we covered included:
 We record the interviews and post them on YouTube after the event.  You can watch Get Into... Web Development below:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/80YTIqciZW8" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/luwyL95pyQY" allowfullscreen></iframe>
 </div><br/>
