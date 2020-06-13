@@ -7,9 +7,6 @@
 - name: WhatsApp
   link: https://wa.me/?text=Check out SHARE_TEXT by Suze Shardlow SITE_URLSHARE_URL
   class: icon fa-whatsapp
-- name: Facebook
-  link: https://www.facebook.com/sharer.php?u=SITE_URLSHARE_URL
-  class: icon fa-facebook
 - name: Mail
   link: mailto:?subject=Check out SHARE_TEXT by Suze Shardlow&body=SHARE_TEXT SITE_URLSHARE_URL
   class: icon fa-envelope
