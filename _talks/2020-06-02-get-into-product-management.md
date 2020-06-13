@@ -32,5 +32,5 @@ Topics we covered included:
 We record the interviews and post them on YouTube after the event.  You can watch Get Into... Engineering Management below:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/luwyL95pyQY" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yNUHIFwhB5A" allowfullscreen></iframe>
 </div><br/>
