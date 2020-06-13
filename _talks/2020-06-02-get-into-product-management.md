@@ -20,16 +20,16 @@ I source the interviewees, write all my own questions and include two speed roun
 
 The interviews are conducted on Zoom in front of a live audience who can send their questions in via the chat function.  I select some of these questions to weave into the interview.
 
-For Get Into... Engineering Management, I approached Software Engineering Manager at Gousto, Amy Phillips, because she has held a number of tech management roles across various organisations and was well-placed to give us some views about what it takes to be an engineering manager.
+For Get Into... Product Management, I approached Head of Consumer Product at Gousto, Melanie McKay, because she has worked in Product Management at a variety of organisations in the public and private sectors over the past 15 years.  She now leads product management at the UK's largest real estate and property website.
 
 Topics we covered included:
 
-* Different flavours of engineering management
-* Who your main working relationships are with as an engineering manager
-* Where you can go from engineering management if you want to progress further
-* Whether or not Marmite should be allowed in the house...
+* How to get into technical product management from outside the tech industry
+* The tools that product managers use
+* Common misconceptions about product management
+* What Melanie's second-favourite website is...
 
-We record the interviews and post them on YouTube after the event.  You can watch Get Into... Engineering Management below:
+We record the interviews and post them on YouTube after the event.  You can watch Get Into... Product Management below:
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yNUHIFwhB5A" allowfullscreen></iframe>
