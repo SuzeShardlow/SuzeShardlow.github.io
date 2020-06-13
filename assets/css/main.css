@@ -1,4 +1,3 @@
-@import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
 /*
@@ -3394,7 +3393,7 @@ section, summary, time, mark, audio, video {
     }
 
     #sidebar .toggle:before {
-      content: '\f0c9';
+      content: '\f805';
       font-size: 2rem;
       height: inherit;
       left: 0;
