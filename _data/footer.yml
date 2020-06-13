@@ -3,7 +3,7 @@
   class: icon fa-twitter
 - name: LinkedIn
   link: https://linkedin.com/in/SuzeShardlow
-  class: icon fa-linkedin
+  class: icon fa-linkedin-in
 - name: GitHub
   link: https://github.com/SuzeShardlow
   class: icon fa-github
