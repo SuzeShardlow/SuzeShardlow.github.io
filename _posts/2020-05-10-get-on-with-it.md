@@ -61,7 +61,7 @@ Working continuously for too long can be **counterproductive** so we made sure t
 
 ![image](/images/gowi_praise_1.png){: .image .right}
 
-This goes hand-in-hand with stating your intentions.  The aim of the session is to get things done, so we needed to be able to **come together** and **cheerlead** and and pat each other on the back.
+This goes hand-in-hand with stating your intentions.  The aim of the session is to get things done, so we needed to be able to **come together** and **cheerlead** and pat each other on the back.
 
 Our [weekend sessions](https://www.meetup.com/Ladies-of-Code-UK/events/270075167/) are four hours long.  Minus the half-hour break, **70%** of the time is allocated to **work** and **30%** is for **checking in**: what I term **"showing and telling or watching and listening"**.
 
