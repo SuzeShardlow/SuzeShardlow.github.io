@@ -1,10 +1,10 @@
 ---
-title: Get into... Web Development 
-date: April 2020
+title: Get into... Engineering Management 
+date: May 2020
 event_name: "Ladies Of Code London: Get Into... Series"
-event_link: https://www.meetup.com/Ladies-of-Code-UK/events/270117837/
+event_link: https://www.meetup.com/Ladies-of-Code-UK/events/270546351/
 venue: Webinar recorded in London, United Kingdom
-image: [ /images/speaking/get_into_webdev.jpg ]
+image: [ /images/speaking/get_into_engmgmt.jpg ]
 category: Speaking
 role: Meetup
 format: [ Interview, Webinar ]
