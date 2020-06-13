@@ -6,7 +6,7 @@
   class: icon fa-linkedin-in
 - name: GitHub
   link: https://github.com/SuzeShardlow
-  class: icon fa-github
+  class: icon fa-github-alt
 - name: Instagram
   link: https://instagram.com/suze_makes
   class: icon fa-instagram
