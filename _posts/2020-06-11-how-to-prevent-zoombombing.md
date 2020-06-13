@@ -53,7 +53,7 @@ If you are running a meeting for people you have personally invited and/or a vul
 
 **Note: You might not know the names of all your members.**
 
-On meetup.com, a large chunk of the membership uses **pseudonyms, initials, first names only** etc.  Therefore, seeing names in the waiting room may not help you if you are running a meeting where you don't know all the attendees.
+On Meetup.com, a large chunk of the membership uses **pseudonyms, initials, first names only** etc.  Therefore, seeing names in the waiting room may not help you if you are running a meeting where you don't know all the attendees.
 
 Also, not everyone uses their real name on Zoom.  You can mitigate this by enabling the **Registration** feature so that people have to take an extra step before they can get access to the call.
 
