@@ -3394,7 +3394,7 @@ section, summary, time, mark, audio, video {
     }
 
     #sidebar .toggle:before {
-      content: '\f0c9';
+      content: '\f805';
       font-size: 2rem;
       height: inherit;
       left: 0;
