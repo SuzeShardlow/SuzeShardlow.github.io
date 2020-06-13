@@ -41,7 +41,7 @@ I know talks take **weeks to write**.  I wanted to **reduce the labour** on Niam
 * They don't have to think about **timekeeping** - they can rely on me for that.
 * The speaker doesn't have to worry about whether what they're going to say will cover all the desired **topics**, which might be the case if they had to write a talk.
 * It's more **fun** to sit and have a chat than it is to give a presentation.
-* They get **instant verbal feedback**, which doesn't happen whan you give a talk - especially online - unless you ask the audience to jump in with questions while you're speaking.
+* They get **instant verbal feedback**, which doesn't happen when you give a talk - especially online - unless you ask the audience to jump in with questions while you're speaking.
 * The sessions are **recorded** and uploaded to YouTube, so they can point to these as examples of **public speaking**.
 
 **Advantages to me:**
