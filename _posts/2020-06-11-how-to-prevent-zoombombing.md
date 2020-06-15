@@ -1,7 +1,7 @@
 ---
 headline: How To Prevent Zoom-bombing
 sub_headline: Some Basic Steps You Can Take To Protect Your Online Meeting 
-read_time: 5
+read_time: 6
 image: /images/zoom_bombing_hacker.jpg
 category: Leadership
 comments: true
