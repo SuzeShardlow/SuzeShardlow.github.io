@@ -32,6 +32,10 @@ section, summary, time, mark, audio, video {
       line-height: 1;
     }
 
+    .fourzerofour-section {
+      margin-top: 1em;
+    }
+
     .share-label {
       color: #ff0000;
       margin-right: 8px;
