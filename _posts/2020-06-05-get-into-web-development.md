@@ -62,7 +62,7 @@ I wanted the interview series to have some **longevity** and be **available** fo
 
 ### Branding and promotion
 
-The name of this series was ***Get Into...*** (we also have our project **co-working** series [***Get On With It***]({{ site.baseurl }}{% link _posts/2020-05-10-get-on-with-it.md %}) and [***Get Coffee***](https://www.meetup.com/Ladies-of-Code-UK/events/270677983/), our [**lean coffee**](https://leancoffee.org/) series).  I created an eyecatching *Get Into...* **brand** and promotional **banner** (the one at the top of this page) to use on **meetup.com** and across **social networks** (including **YouTube**).  I designed it so it was **easily adaptable** for other events in the series while retaining the **same look and feel**.
+The name of this series was ***Get Into...*** (we also have our project **co-working** series [***Get On With It***](/blog/2020/05/10/get-on-with-it) and [***Get Coffee***](https://www.meetup.com/Ladies-of-Code-UK/events/270677983/), our [**lean coffee**](https://leancoffee.org/) series).  I created an eyecatching *Get Into...* **brand** and promotional **banner** (the one at the top of this page) to use on **meetup.com** and across **social networks** (including **YouTube**).  I designed it so it was **easily adaptable** for other events in the series while retaining the **same look and feel**.
 
 ### Questions
 
