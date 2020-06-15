@@ -14,7 +14,7 @@ I am a Chapter Lead at Ladies Of Code London.  When COVID-19 reached the UK and 
 
 Get Into... is where we demystify roles in the tech industry.  LoC events cater for those who are already in tech and want to level up and/or switch tracks as well as those who are new to the industry. People are always keen to hear from those who have gone before them.
 
-I chose an interview format to make it more interesting for online viewers and reduce the lead time by removing the labour from the interviewee: all they have to do is turn up on the night.  You can read about my methodology in my [blog post]({{ site.baseurl }}{% link _posts/2020-06-05-get-into-web-development.md %}) .
+I chose an interview format to make it more interesting for online viewers and reduce the lead time by removing the labour from the interviewee: all they have to do is turn up on the night.  You can read about my methodology in my [blog post](/blog/2020/06/05/get-into-web-development) .
 
 I source the interviewees, write all my own questions and include two speed rounds to vary the pace and keep viewers engaged.
 
