@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+
+{% include head_tag.html %}
+
+<body>
+  <div id="wrapper">
+    <div id="main">
+      <div class="inner">
+        {% include header.html %}
+        <section id="banner">
+          <div class="row">
+            <div class="col-3 col-12-medium">
+              <div class="content">
+                <header class="main">
+                  <h1>{{ page.headline }}</h1>
+                  <p>{{ page.sub_headline }}</p>
+                </header>
+                {{ content }}
+              </div>
+            </div>
+            <div class="col-9 col-12-medium">
+              <img src="{{ page.image }}" class="image" alt="" />
+            </div>
+          </div>
+
+        </section>
+
+        <hr />
+
+        {% if page.comments %}
+
+        {% include disqus.html %}
+
+        {% endif %}
+
+      </div>
+    </div>
+    {% include navigation.html %}
+  </div>
+  </div>
+
+  {% include script_tag.html %}
+
+</body>
+
+</html>
