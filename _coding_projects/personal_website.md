@@ -10,7 +10,7 @@ comments: true
 
 I have had my own website, on and off, since the mid-1990s.  I coded all of them by hand and, on most of them, I had a blog or some kind of journal.
 
-When I started building full-stack web applications, I was between websites so I published a one-pager using [GitHub Pages](https://pages.github.com/) to display my work.  As my tech career developed, I needed to be able to feature other things alongside my coding, like my [public speaking]({{ site.baseurl }}{% link talks.md %}).  I also wanted to start writing again.
+When I started building full-stack web applications, I was between websites so I published a one-pager using [GitHub Pages](https://pages.github.com/) to display my work.  As my tech career developed, I needed to be able to feature other things alongside my coding, like my [public speaking](/talks).  I also wanted to start writing again.
 
 Because I was going to be adding blog functionality, I needed a new look and feel.  I also needed some way of being able to handle lots of groups of pages which were all based on the same layouts.
 
@@ -22,4 +22,4 @@ I now have a website which showcases all my work and is a breeze to scale up.  I
 
 More recently, I have set up a Jekyll/GitHub Pages site from scratch for a friend.
 
-I also teach a [Jekyll with GitHub Pages workshop]({{ site.baseurl }}{% link talks.md %}).  I ran the first one of these in San Diego, California.  After creating their websites from scratch in my 90-minute workshop, three people had their blogs up and running with their own articles within 24 hours.  A couple of weeks later, one of them was promoted to a cyber security role she had been aiming for after the hiring manager read her blog.
+I also teach a [Jekyll with GitHub Pages workshop](/talks).  I ran the first one of these in San Diego, California.  After creating their websites from scratch in my 90-minute workshop, three people had their blogs up and running with their own articles within 24 hours.  A couple of weeks later, one of them was promoted to a cyber security role she had been aiming for after the hiring manager read her blog.
