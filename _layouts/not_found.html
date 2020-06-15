@@ -10,20 +10,20 @@
         {% include header.html %}
         <div class="content">
           <div class="fourzerofour-section">
-          <div class="row">
-            <div class="col-7 col-12-medium">
-              <header class="main">
-                <h1>{{ page.headline }}</h1>
-                <p>{{ page.sub_headline }}</p>
-              </header>
-              {{ content }}
-            </div>
-            <div class="col-5 col-12-medium">
-              <div class="image fit">
-              <img src="{{ page.image }}" alt="" />
+            <div class="row">
+              <div class="col-9 col-12-medium">
+                <header class="main">
+                  <h1>{{ page.headline }}</h1>
+                  <p>{{ page.sub_headline }}</p>
+                </header>
+                {{ content }}
+              </div>
+              <div class="col-3 col-12-medium">
+                <div class="image fit">
+                  <img src="{{ page.image }}" alt="" />
+                </div>
               </div>
             </div>
-          </div>
           </div>
         </div>
         <hr />
