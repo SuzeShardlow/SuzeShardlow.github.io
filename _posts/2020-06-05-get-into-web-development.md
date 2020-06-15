@@ -27,7 +27,7 @@ LoC events cater for those who are **already in tech** and want to **level up** 
 
 #### Person and role
 
-I **knew exactly whom I wanted** to interview.  I had met [Niamh McCooey](https://twitter.com/niamhmccoo) at an event last year and she was at [GDCFP Day]({{ site.baseurl }}{% link _posts/2019-03-25-so-you-want-to-speak-at-a-tech-conference.md %}) too.  Later in 2019, as experienced speakers, we gave talks at the [same tech meetup](https://codebar.io/meetings/monthly-oct-2019).
+I **knew exactly whom I wanted** to interview.  I had met [Niamh McCooey](https://twitter.com/niamhmccoo) at an event last year and she was at [GDCFP Day](/blog/2019/03/25/so-you-want-to-speak-at-a-tech-conference) too.  Later in 2019, as experienced speakers, we gave talks at the [same tech meetup](https://codebar.io/meetings/monthly-oct-2019).
 
 Niamh's story is a bit different because she **taught herself**.  I wanted to highlight this as a **viable route to paid coding work** which may be an option for those who can't access bootcamps or similar courses.
 
@@ -62,7 +62,7 @@ I wanted the interview series to have some **longevity** and be **available** fo
 
 ### Branding and promotion
 
-The name of this series was ***Get Into...*** (we also have our project **co-working** series [***Get On With It***]({{ site.baseurl }}{% link _posts/2020-05-10-get-on-with-it.md %}) and [***Get Coffee***](https://www.meetup.com/Ladies-of-Code-UK/events/270677983/), our [**lean coffee**](https://leancoffee.org/) series).  I created an eyecatching *Get Into...* **brand** and promotional **banner** (the one at the top of this page) to use on **meetup.com** and across **social networks** (including **YouTube**).  I designed it so it was **easily adaptable** for other events in the series while retaining the **same look and feel**.
+The name of this series was ***Get Into...*** (we also have our project **co-working** series [***Get On With It***](/blog/2020/05/10/get-on-with-it) and [***Get Coffee***](https://www.meetup.com/Ladies-of-Code-UK/events/270677983/), our [**lean coffee**](https://leancoffee.org/) series).  I created an eyecatching *Get Into...* **brand** and promotional **banner** (the one at the top of this page) to use on **meetup.com** and across **social networks** (including **YouTube**).  I designed it so it was **easily adaptable** for other events in the series while retaining the **same look and feel**.
 
 ### Questions
 
