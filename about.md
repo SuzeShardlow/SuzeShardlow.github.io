@@ -3,7 +3,7 @@ layout: default
 title: "Suze Shardlow :: Who I Am"
 headline: Who I Am
 sub_headline: I love creating things that people use and enjoy.
-image: /images/wedding_bunting.jpg
+image: /images/about/wedding_bunting.jpg
 ---
 
 I'm a coder, crafter and choir singer.  At the moment I'm also trying to get my 5km time under 24 minutes...
