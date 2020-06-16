@@ -4,7 +4,7 @@ name: Icebreaker
 sub_headline: A full stack app for techies who know they have to attend networking events but are too scared to go on their own.
 github: icebreaker_backend
 live_app:
-image: /images/icebreaker_on_macbook.jpg
+image: /images/coding_projects/icebreaker/icebreaker_on_macbook.jpg
 comments: true
 ---
 
