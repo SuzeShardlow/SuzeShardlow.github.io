@@ -5,7 +5,7 @@ event_name: Fundamental JS
 event_link: https://www.meetup.com/sandiegojs/events/hsltlrybccbdc/
 venue: American Addiction Centers, San Diego, California, USA
 type: Meetup
-image: /images/speaking/hackathons_sd.jpg
+image: /images/public_speaking/2020_01_22_hackathons_for_the_uninitiated/hackathons_sd.jpg
 category: Speaking
 role: Meetup
 format: Talk

@@ -4,7 +4,7 @@ date: October 2019
 event_name: codebar monthlies
 event_link: https://codebar.io/meetings/monthly-oct-2019
 venue: Ticketmaster HQ, London, United Kingdom
-image: /images/speaking/hackathons.jpg
+image: [ /images/public_speaking/codebar/codebar_logo.jpg, /images/public_speaking/codebar/2019_10_28_hackathons_for_the_uninitiated/hackathons.jpg ]
 category: Speaking
 role: Meetup
 format: Talk

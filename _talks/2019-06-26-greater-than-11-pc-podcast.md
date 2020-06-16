@@ -4,7 +4,7 @@ date: June 2019
 event_name: Greater Than 11% Podcast, Episode 41
 event_link: https://www.hub.tv/blog/greater-than-11/
 venue: Hub TV, London, United Kingdom
-image: /images/speaking/greater_than_11.jpg
+image: /images/public_speaking/2019_06_26_greater_than_11_pc_podcast/greater_than_11.jpg
 category: Speaking
 role: Guest
 format: [ Interview, Podcast ]
