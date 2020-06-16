@@ -2,7 +2,7 @@
 headline: Online Lean Coffee On Zero Budget
 sub_headline: Taking agile meetings online isn't just a simple case of opening a Zoom call
 read_time: 2
-image: /images/lean_coffee_trello_cover.jpg
+image: /images/blog/2020_05_29_online_lean_coffee_on_zero_budget/lean_coffee_trello_cover.jpg
 category: Leadership
 comments: true
 ---
@@ -39,11 +39,11 @@ We decided on the following:
 
 * **Voting for topics: *Slack*.**  This is done on an **honesty** system.  We go through all the topics and put two different **reaction emojis** on each one.  We then give participants two votes each and they upvote by clicking on the emojis that are already there.
 
-![image](/images/lean_coffee_slack.jpg){: .image .center}
+![image](/images/blog/2020_05_29_online_lean_coffee_on_zero_budget/lean_coffee_slack.jpg){: .image .center}
 
 * **Shareable kanban board: *Trello*.**  We shared a view-only link on the basis that the voting could be done elsewhere and only the hosts needed to be able to update the board.  This reduced the number of services that people needed an account for.
 
-![image](/images/lean_coffee_trello.jpg){: .image .center}
+![image](/images/blog/2020_05_29_online_lean_coffee_on_zero_budget/lean_coffee_trello.jpg){: .image .center}
 
 * **Timing: *kitchen timer*.** We would just hold this next to our mic.  We could have used an online timer and shared our screen but, when you're running an event, you have enough windows open as it is!
 

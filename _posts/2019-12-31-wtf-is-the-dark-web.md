@@ -2,7 +2,7 @@
 headline: WTF Is The Dark Web?
 sub_headline: A sinister place, full of criminal activity?  Or a place where good people do good things?
 read_time: 6
-image: /images/wtf_dark_web.jpg
+image: /images/blog/2019_12_31_wtf_is_the_dark_web/wtf_dark_web.jpg
 category: Tech
 comments: true
 ---

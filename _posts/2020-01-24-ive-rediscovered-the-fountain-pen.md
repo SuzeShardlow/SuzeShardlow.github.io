@@ -2,7 +2,7 @@
 headline: I’ve Rediscovered The Fountain Pen
 sub_headline: I got one for Christmas and have used nothing else since
 read_time: 3
-image: /images/ive_rediscovered_the_fountain_pen_text.jpg
+image: /images/blog/2020_01_24_ive_rediscovered_the_fountain_pen/ive_rediscovered_the_fountain_pen_text.jpg
 category: Hobbies
 comments: true
 ---
@@ -19,7 +19,7 @@ For the next five years I alternated between biro and fountain pen.  From sixth 
 
 Last year I discovered sketchnoting and the inevitable pen porn that goes with it.  I’ve always loved stationery and found myself browsing sites that only sell markers, gel pens, fountain pens... I was looking for drawing implements but realised I didn’t have to write with biros.  I needed something because I actually handwrite a lot.  If I’m doing maths or making notes on a call, I prefer to write on paper.  I’m personally not a fan of electronic notes for absolutely everything.
 
-![image](/images/ive_rediscovered_the_fountain_pen_platinum_preppy.jpg){: .image .right}
+![image](/images/blog/2020_01_24_ive_rediscovered_the_fountain_pen/ive_rediscovered_the_fountain_pen_platinum_preppy.jpg){: .image .right}
 So I was gifted a fountain pen for Christmas and haven’t looked back since.  I’m a bit out of practice so it’s been a bit messy, but it’s a pleasure to write with and I actually enjoy referring to my notes now, even if it’s just a page in my notebook where I calculated the electricity bill or recorded my conversation with the buildings insurance company.
 
 I chose a Platinum Preppy with the broadest nib (0.5mm) available.  This came in black, blue-black or red (the ink matches the body colour) and has a transparent casing.  The blue looked the nicest, so I went with that, even though black has always been my ink colour of choice.  I can always buy different cartridges later.  Unlike with fountain pens I’ve had in the past (including the Parker ones), I haven’t had to break this in at all, which surprised me as it’s so cheap it’s almost disposable.

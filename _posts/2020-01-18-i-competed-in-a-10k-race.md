@@ -2,7 +2,7 @@
 headline: I Competed In A 10k Race
 sub_headline: It’s only been a couple of hundred kilometres since I started being able to run 5k without stopping
 read_time: 8
-image: /images/i_competed_in_a_10k_race.jpg
+image: /images/blog/2020_01_18_i_competed_in_a_10k_race/i_competed_in_a_10k_race.jpg
 category: Hobbies
 comments: true
 ---
@@ -15,7 +15,7 @@ Looking back, my interest in trials grew with my increase in speed over 5k.  But
 
 I was taking a long, hard look at things and making some big life changes.  I had secured voluntary redundancy at work and decided that being based at home for a bit was the perfect recipe for sorting out my eating to shed some of the weight I’d gained in my 30s.
 
-![image](/images/i_competed_in_a_10k_race_then_and_now.jpg){: .image .right .small}
+![image](/images/blog/2020_01_18_i_competed_in_a_10k_race/i_competed_in_a_10k_race_then_and_now.jpg){: .image .right .small}
 As predicted, the pounds started falling off me as soon as I commenced my career break.  The long-lost motivation to don my running gear reappeared and I wanted to see if I could still do two laps at Wimbledon Common without slowing to a walk.
 
 To my surprise, when I returned to parkrun in June 2018 after that 22-month hiatus, I ran all the way round at approximately the same speed as the first time I achieved it.
@@ -76,7 +76,7 @@ The finish line was right there in front of me and so were the two chip sensors.
 
 Not only was I chuffed with my position, I was pretty impressed at how consistent my splits were (timings aren’t 100% accurate as I was relying on GPS only):
 
-![image](/images/i_competed_in_a_10k_race_timings.jpg){: .image .right}
+![image](/images/blog/2020_01_18_i_competed_in_a_10k_race/i_competed_in_a_10k_race_timings.jpg){: .image .right}
 **Kilometre 1**: 5:17
 
 **Kilometre 2**: 5:29

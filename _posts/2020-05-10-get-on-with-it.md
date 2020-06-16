@@ -2,7 +2,7 @@
 headline: Get On With It...
 sub_headline: It's easier to combat procrastination when you've got cheerleaders behind you
 read_time: 8
-image: /images/gowi_20200411.png
+image: /images/blog/2020_05_10_get_on_with_it/gowi_20200411.png
 category: Leadership
 comments: true
 ---
@@ -31,13 +31,13 @@ I have heard a lot of talk over the past few weeks about how:
 
 **Not everyone has more time on their hands now.**  Many folks with **caring responsibilities** are getting **zero respite**.  Some are having to manage this alongside **full-time jobs**.  To endeavour **not to alienate people**, I worded the event description carefully.
 
-![image](/images/gowi_wording.jpg){: .image .center}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_wording.jpg){: .image .center}
 
 We were also careful about the **language** we used **during** the events, which I will elaborate on later.
 
 **2. Progress, not perfection.**
 
-![image](/images/gowi_praise_4.png){: .image .right}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_praise_4.png){: .image .right}
 
 **Success looks different for everyone.**  Therefore, it's important that everyone knows that their personal goals and achievements are **valid**.  I knew we were going to hear a lot of "it's not much" so I came to the first session armed with the mantra **"progress, not perfection"**.  I just want everyone to leave Get On With It a little **further forward** than they were when they came.
 
@@ -59,7 +59,7 @@ Working continuously for too long can be **counterproductive** so we made sure t
 
 **6. Opportunities to check in and celebrate.**
 
-![image](/images/gowi_praise_1.png){: .image .right}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_praise_1.png){: .image .right}
 
 This goes hand-in-hand with stating your intentions.  The aim of the session is to get things done, so we needed to be able to **come together** and **cheerlead** and pat each other on the back.
 
@@ -73,7 +73,7 @@ LoC London has a **Slack workspace**.  It's pretty quiet with small bursts of ac
 
 Sarah and I wanted to collaborate on web development during the first session, and I had a feeling others may want to give or receive help too.  So as not to compromise the security of our Zoom room, I created 10 **Google Hangouts** and posted the links to them in the Slack channel, along with instructions on how to "book" them.  I named each Hangout after a **London Tube station** so people could say "I'll be in Pimlico" etc.  A bit of normality in these strange times.
 
-![image](/images/gowi_breakouts.jpg){: .image .center}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_breakouts.jpg){: .image .center}
 
 **8. Publicising success and sharing resources.**
 
@@ -85,13 +85,13 @@ We take a **group photo** at the beginning of each session, which we start each 
 
 I have created a **new Slack channel, #learning_resources**, where I **cross-post** any links shared in #get_on_with_it so they don't get lost and so other members can benefit from them.  Some learning providers have been offering free or discounted courses recently.
 
-![image](/images/gowi_learning_resources.jpg){: .image .center}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_learning_resources.jpg){: .image .center}
 
 ## Planning and logistics
 
 We have always used [Meetup.com](https://www.meetup.com/Ladies-of-Code-UK/events) for event listings and signups.  The interface allows us to ask a question when people book their place.  We use this to ask them to **say what they'll work on**, to get them thinking about it.
 
-![image](/images/gowi_rsvp.jpg){: .image .center}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_rsvp.jpg){: .image .center}
 
 Each session contains **four checkpoints** via Zoom video conferencing:
 
@@ -105,7 +105,7 @@ Each session contains **four checkpoints** via Zoom video conferencing:
 
 As I mentioned earlier, **between** the checkpoints we use Slack for **asynchronous** comms during and between events and **Hangouts** to collaborate in **real time**.
 
-![image](/images/gowi_checkins.jpg){: .image .center}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_checkins.jpg){: .image .center}
 
 ## Outcomes
 
@@ -115,7 +115,7 @@ We have seen a number of results, both expected and unexpected, from these sessi
 
 We run the **four-hour** format every **weekend** and the **three-hour** version during the **week** after work.  [We have now completed nine sessions in total.](https://www.meetup.com/Ladies-of-Code-UK/events/past/)
 
-![image](/images/gowi_praise_2.png){: .image .right}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_praise_2.png){: .image .right}
 
 **2. People from other countries found our event and attend regularly.**
 
@@ -140,7 +140,7 @@ One member mentioned that she was preparing for a **webinar** talk she was givin
 * Learning about accessibility
 * Taking beginners' JavaScript courses
 * Honing JavaScript and CSS skills through practice/personal projects, eg a battleships game, zombie game
-![image](/images/gowi_hardware.jpg){: .image .right}
+![image](/images/blog/2020_05_10_get_on_with_it/gowi_hardware.jpg){: .image .right}
 * Updating a portfolio site to include tech projects
 * Crocheting for the first time
 * Learning about web scraping with Python

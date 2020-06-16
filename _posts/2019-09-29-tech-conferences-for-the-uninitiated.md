@@ -2,7 +2,7 @@
 headline: Tech Conferences For The Uninitiated
 sub_headline: What to expect from events with 500 strangers and a bunch of new tech
 read_time: 12
-image: /images/conf_welcome.jpg
+image: /images/blog/2019_09_29_tech_conferences_for_the_uninitiated/conf_welcome.jpg
 category: Leadership
 comments: true
 ---
