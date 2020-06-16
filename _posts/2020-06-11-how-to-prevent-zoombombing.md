@@ -17,6 +17,8 @@ Therefore, before we ran our first event, I did some research into how Zoom-bomb
 
 For our meetups, we tried to strike a balance between **security** and **convenience**.  Therefore, the below is by no means a method of making your event like Fort Knox, but will make you less of an **easy target**.
 
+**If these tips help you, please consider [buying me a coffee](https://ko-fi.com/suzeshardlow).  Thank you!**
+
 ## 1) Don't publish the link anywhere
 
 Bad actors use **bots** to crawl the Internet for Zoom links so they can join calls.  Don't tweet your Zoom link out or publish it on a web page (eg your event page).
@@ -93,6 +95,6 @@ We usually do this **five minutes** after the meetup starts.  This means that we
 
 ## What's worked for you?
 
-If you found this article useful, please share it using the links at the bottom of the page!
+**If you find these tips useful, please consider [buying me a coffee](https://ko-fi.com/suzeshardlow).  Thank you!**
 
 Have you taken **reactive** or **proactive** measures?  Or have you been the victim of Zoom-bombing and needed to use both?  Let me know in the comments!
