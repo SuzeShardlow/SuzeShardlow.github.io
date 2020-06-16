@@ -3,7 +3,7 @@ layout: talk_list
 headline: What I've Said
 sub_headline: Talks And Workshops I Have Delivered
 title: "Suze Shardlow :: What I've Said"
-image: /images/speaking/ticketmaster.jpg
+image: /images/public_speaking/ticketmaster.jpg
 ---
 
 I am an **experienced public speaker** and have given talks at meetups in **London, UK** and **California, USA**.  I have also **spoken at tech conferences** in the **UK** and **Berlin, Germany**.
