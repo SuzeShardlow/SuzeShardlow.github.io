@@ -4,7 +4,7 @@ name: suze.dev
 sub_headline: A personal portfolio site built using Jekyll and GitHub Pages.
 github: SuzeShardlow.github.io
 live_app:
-image: /images/suze_dev_on_macbook.jpg
+image: /images/coding_projects/personal_website/suze_dev_on_macbook.jpg
 comments: true
 ---
 

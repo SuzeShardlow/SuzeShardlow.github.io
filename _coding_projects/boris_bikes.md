@@ -4,7 +4,7 @@ name: Boris Bikes
 sub_headline: A little JavaScript app I built in one evening using the TfL and Google Maps APIs.
 github: boris-bikes
 live_app:
-image: /images/boris_bikes.jpg
+image: /images/coding_projects/boris_bikes/boris_bikes.jpg
 comments: true
 ---
 

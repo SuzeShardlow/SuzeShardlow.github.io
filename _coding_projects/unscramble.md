@@ -4,7 +4,7 @@ name: Unscramble
 sub_headline: A web-based game I built after two weeks of learning JavaScript.
 github: unscramble
 live_app:
-image: /images/unscramble_on_macbook.png
+image: /images/coding_projects/unscramble/unscramble_on_macbook.png
 comments: true
 ---
 

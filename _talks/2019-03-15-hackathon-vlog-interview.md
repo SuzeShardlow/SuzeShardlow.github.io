@@ -4,7 +4,7 @@ date: March 2019
 event_name: Women Driven Development Hackathon
 event_link: https://www.eventbrite.co.uk/e/techitforward-hackathon-expedia-group-tickets-55716697141
 venue: Expedia UK, London, United Kingdom
-image: /images/speaking/wdd_hackathon.jpg
+image: /images/public_speaking/2019_03_15_hackathon_vlog_interview/wdd_hackathon.jpg
 category: Speaking
 role: Guest
 format: [ Interview, Vlog ]

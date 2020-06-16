@@ -2,7 +2,7 @@
 headline: WTF Is An Operating System?
 sub_headline: What they’re for, why we need them and why there are different kinds...
 read_time: 4
-image: /images/wtf_operating_system.jpg
+image: /images/blog/2019_12_30_wtf_is_an_operating_system/wtf_operating_system.jpg
 category: Tech
 comments: true
 ---

@@ -4,7 +4,7 @@ date: January 2020
 event_name: Women Who Code San Diego
 event_link: https://www.meetup.com/Women-Who-Code-San-Diego/events/267484617/
 venue: Hera Hub, San Diego, California, USA
-image: [ /images/speaking/github_workshop.jpg, /images/speaking/github_sd_insta.jpg, /images/speaking/github_sd_meetup_com.jpg ]
+image: [ /images/public_speaking/2020_01_14_github_pages_personal_website_and_blog_workshop/github_workshop.jpg, /images/public_speaking/2020_01_14_github_pages_personal_website_and_blog_workshop/github_sd_insta.jpg, /images/public_speaking/2020_01_14_github_pages_personal_website_and_blog_workshop/github_sd_meetup_com.jpg ]
 category: Teaching
 format: [ Workshop, Meetup ]
 ---

@@ -4,7 +4,7 @@ date: October 2019
 event_name: Women Who Code Front End Summit
 event_link: https://frontend.womenwhocode.dev/
 venue: BCG Digital Ventures, Berlin, Germany
-image: [ /images/speaking/berlin_speaker_card.jpg, /images/speaking/berlin_tweet.jpg ]
+image: [ /images/public_speaking/2019_10_12_from_policing_to_programming/berlin_speaker_card.jpg, /images/public_speaking/2019_10_12_from_policing_to_programming/berlin_tweet.jpg ]
 category: Speaking
 role: Conference
 format: Talk

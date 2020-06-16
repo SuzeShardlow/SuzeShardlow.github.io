@@ -4,7 +4,7 @@ date: April 2020
 event_name: "Ladies Of Code London: Get Into... Series"
 event_link: https://www.meetup.com/Ladies-of-Code-UK/events/270117837/
 venue: Webinar recorded in London, United Kingdom
-image: [ /images/speaking/get_into_webdev.jpg ]
+image: [ /images/public_speaking/2020_04_27_get_into_web_development/get_into_webdev.jpg ]
 category: Speaking
 role: Meetup
 format: [ Interview, Webinar ]

@@ -4,7 +4,7 @@ date: November 2019
 event_name: FACT///.Mapping Feminists Coding Practices Symposium
 event_link: https://www.eventbrite.com/e/factmapping-feminists-coding-practices-symposium-tickets-73970980193#
 venue: University of Sussex, Brighton, United Kingdom
-image: [ /images/speaking/fact_symposium.jpg, /images/speaking/fact_symposium_tweet.jpg, /images/speaking/fact_symposium_graphic.jpg ]
+image: [ /images/public_speaking/2019_11_20_working_towards_more_inclusive_tech_communities/fact_symposium.jpg, /images/public_speaking/2019_11_20_working_towards_more_inclusive_tech_communities/fact_symposium_tweet.jpg, /images/public_speaking/2019_11_20_working_towards_more_inclusive_tech_communities/fact_symposium_graphic.jpg ]
 category: Speaking
 role: Conference
 format: Talk
