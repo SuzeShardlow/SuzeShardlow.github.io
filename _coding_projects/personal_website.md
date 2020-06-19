@@ -10,7 +10,7 @@ comments: true
 
 I have had my own website, on and off, since the mid-1990s.  I coded all of them by hand and, on most of them, I had a blog or some kind of journal.
 
-When I started building full-stack web applications, I was between websites so I published a one-pager using [GitHub Pages](https://pages.github.com/) to display my work.  As my tech career developed, I needed to be able to feature other things alongside my coding, like my [public speaking](/talks).  I also wanted to start writing again.
+When I started building full-stack web applications, I was between websites so I published a one-pager using [GitHub Pages](https://pages.github.com/) to display my work.  As my tech career developed, I needed to be able to feature other things alongside my coding, like my [public speaking](/public_speaking).  I also wanted to start writing again.
 
 Because I was going to be adding blog functionality, I needed a new look and feel.  I also needed some way of being able to handle lots of groups of pages which were all based on the same layouts.
 

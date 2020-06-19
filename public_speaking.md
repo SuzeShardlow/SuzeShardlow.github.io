@@ -1,5 +1,5 @@
 ---
-layout: talk_list
+layout: public_speaking_list
 headline: What I've Said
 sub_headline: Talks And Workshops I Have Delivered
 title: "Suze Shardlow :: What I've Said"
