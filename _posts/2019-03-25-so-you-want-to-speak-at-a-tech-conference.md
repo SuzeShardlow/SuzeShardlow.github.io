@@ -17,7 +17,7 @@ Not so, [Emanuil Tolev](https://twitter.com/emanuil_tolev), my mentor at the 201
 
 As well as Emanuil’s knowledge and expertise, we also drew on the experience of a range of [guest speakers](https://globaldiversitycfpday.com/schedule) who shared some invaluable hints and tips which got us really drilling down into what we wanted to say.
 
-![image](/images/scotlandjs.jpg){: .image .right}
+![image](/images/blog/2019_03_25_so_you_want_to_speak_at_a_tech_conference/scotlandjs.jpg){: .image .right}
 [Global Diversity CFP Day originated in Scotland in 2016](http://scotlandjs.com/global-diversity-cfp-day).  This year, it came to thousands of would-be conference speakers in more than 75 cities worldwide.  Their vision is that “more people from underrepresented groups within the industry feel safe, supported and encouraged to take to the stage and share their valued perspective and unique voice”.
 
 Here are some of the limiting beliefs we brought to the workshop and the advice that helped us leave them at the door...
