@@ -18,23 +18,23 @@
         <span class="image main"><img src="{{ page.image }}"></span>
         {{content}}
         <hr />
-        {% for talk in site.talks reversed %}
+        {% for event in site.public_speaking reversed %}
         <div class="row">
           <div class="col-4 col-12-medium">
-            {% for image in talk.image %}
+            {% for image in event.image %}
             <span class="image fit">
               <div class="zoombox"><img class="zoomimg" src="{{ image }}"></div>
             </span>
             {% endfor %}
-            {% if talk.event_link %}<div class="align-center event-website"><a href="{{ talk.event_link }}"
+            {% if event.event_link %}<div class="align-center event-website"><a href="{{ event.event_link }}"
                 class="button icon solid large fa-globe" target="_blank">Event Website</a>{% endif %}</div>
           </div> <!-- col -->
           <div class="col-8 col-12-medium">
-            <h4 class="learn-header">{{ talk.event_name }}</h4>
-            <h5>{{ talk.date | date: "%B %Y" }} | {{ talk.venue }}</h5>
-            <h3>{{ talk.title }}</h3>
-            <!-- <h5 class="talk-format">{{ talk.format }}</h5> -->
-            {{talk.content}}
+            <h4 class="learn-header">{{ event.event_name }}</h4>
+            <h5>{{ event.date | date: "%B %Y" }} | {{ event.venue }}</h5>
+            <h3>{{ event.title }}</h3>
+            <!-- <h5 class="talk-format">{{ event.format }}</h5> -->
+            {{event.content}}
           </div> <!-- col -->
         </div> <!-- row -->
         <hr />

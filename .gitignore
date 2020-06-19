@@ -4,3 +4,4 @@
 *.swp
 _site/
 .jekyll-cache/
+.vscode/

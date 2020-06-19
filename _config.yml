@@ -9,7 +9,7 @@ collections:
     permalink: /blog/:year/:month/:day/:title/
   coding_projects:
     output: true
-  talks:
+  public_speaking:
     output: false
 
 defaults:
