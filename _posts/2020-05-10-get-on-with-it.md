@@ -121,7 +121,7 @@ We run the **four-hour** format every **weekend** and the **three-hour** version
 
 This event has attracted the attention of a wider audience than we anticipated, with people joining from **around the world** despite this being an early morning weekend start for some of them!
 
-One of the women I taught at my [San Diego workshop](/public_speaking) found out about GOWI from a [LinkedIn post](https://www.linkedin.com/posts/activity-6657429921717071872-p71y) and has joined several of our sessions.  She is now going to run an online **GOWI-type event in San Diego**, on a weekend morning so we in London can take part.
+One of the women I taught at my [San Diego workshop](/public_speaking) found out about GOWI from a [LinkedIn post](https://www.linkedin.com/posts/activity-6657429921717071872-p71y) and has joined several of our sessions.  She is now going to run an online **GOWI event in San Diego**, on a weekend morning so we in London can join in.  A member in San Francisco plans to follow suit.  **Both are using my ideas with proper attribution (see the end of this post).**
 
 We also have participants from other parts of **San Diego, France and around the UK**!  We would never have met some of these folks had we not taken our events online.
 
