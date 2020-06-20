@@ -69,7 +69,7 @@ Our [weekday sessions](https://www.meetup.com/Ladies-of-Code-UK/events/270029777
 
 **7. Ways to communicate during the session: synchronously and asychronously.**
 
-LoC London has a **Slack workspace**.  It's pretty quiet with small bursts of activity and I want to **increase engagement** on it.  Also, the whole point of coming to Get On With It is knowing that **others are out there working** on their projects too.  So, to kill two birds with one stone, I decided that we needed a **dedicated Slack channel** to support these events.  Slack is where people can discuss things inbetween the scheduled check-ins and inbetween events.  This builds **motivation** and **excitement**.
+LoC London has a **Slack workspace**.  It's pretty quiet with small bursts of activity and I want to **increase engagement** on it.  Also, the whole point of coming to Get On With It is knowing that **others are out there working** on their projects too.  So, to kill two birds with one stone, I decided that we needed a **dedicated Slack channel** to support these events.  Slack is where people can discuss things between the scheduled check-ins and between events.  This builds **motivation** and **excitement**.
 
 Sarah and I wanted to collaborate on web development during the first session, and I had a feeling others may want to give or receive help too.  So as not to compromise the security of our Zoom room, I created 10 **Google Hangouts** and posted the links to them in the Slack channel, along with instructions on how to "book" them.  I named each Hangout after a **London Tube station** so people could say "I'll be in Pimlico" etc.  A bit of normality in these strange times.
 
