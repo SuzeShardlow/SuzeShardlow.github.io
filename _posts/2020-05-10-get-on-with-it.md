@@ -77,7 +77,7 @@ Sarah and I wanted to collaborate on web development during the first session, a
 
 **8. Publicising success and sharing resources.**
 
-We are also trying to increase engagement with [our Twitter account](https://twitter.com/ladiesofcode?ref_src=twsrc%5Etfw), so I decided to make a **thread for each event** where we tweet information about what each person is working on.  We don't attach names without their permission.  The threads describe the type of **activity** and link to relevant **resources**, for example an **online course** that someone is taking.
+We are also trying to increase engagement with [our Twitter account](https://twitter.com/ladiesofcodeLDN), so I decided to make a **thread for each event** where we tweet information about what each person is working on.  We don't attach names without their permission.  The threads describe the type of **activity** and link to relevant **resources**, for example an **online course** that someone is taking.
 
 We take a **group photo** at the beginning of each session, which we start each new thread with.
 
