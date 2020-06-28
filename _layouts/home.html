@@ -40,7 +40,7 @@
               {% else %}{{ day }}th
               {% endcase %}
               {{ post.date | date: " %B %Y" }} •
-              {{ post.read_time }}-minute read
+              {{ post.read_time }}-minute read • {{ post.category }}
             </h4>
             {{ post.excerpt }}
           </div>
