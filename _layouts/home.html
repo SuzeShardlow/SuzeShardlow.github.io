@@ -47,7 +47,7 @@
         <div class="row">
           {% for app in site.coding_projects %}
           {% if app.home == true %}
-          <div class="col-4 col-12-medium">
+          <div class="col-6 col-12-medium">
             <a href="{{ app.url }}">
               <span class="image fit">
                 <div class="zoombox">
@@ -65,6 +65,7 @@
         </div>
         {% endif %}
         {% endfor %}
+        
       </div>
       {{ content }}
     </div>
