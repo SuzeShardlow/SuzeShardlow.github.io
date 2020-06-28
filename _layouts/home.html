@@ -44,9 +44,9 @@
           {% endfor %}
         </div>
 
-
         <div class="row">
           {% for app in site.coding_projects limit:3 %}
+          {% if app.home == true %}
           <div class="col-4 col-12-medium">
             <a href="{{ app.url }}">
               <span class="image fit">
@@ -63,6 +63,7 @@
           </div>
           <p>{{ app.sub_headline }}</p>
         </div>
+        {% endif %}
         {% endfor %}
       </div>
       {{ content }}
