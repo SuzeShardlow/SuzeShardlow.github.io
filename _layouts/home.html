@@ -46,7 +46,7 @@
 
 
         <div class="row">
-          {% for app in site.coding_projects %}
+          {% for app in site.coding_projects limit:3 %}
           <div class="col-4 col-12-medium">
             <a href="{{ app.url }}">
               <span class="image fit">
