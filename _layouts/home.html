@@ -65,6 +65,30 @@
         </div>
         {% endif %}
         {% endfor %}
+      </div>
+
+
+        <div class="row">
+          {% for app in site.coding_projects %}
+          {% if app.home == true %}
+          <div class="col-6 col-12-medium">
+            <a href="{{ app.url }}">
+              <span class="image fit">
+                <div class="zoombox">
+                  <img src="{{ app.image }}" class="zoomimg">
+                </div>
+              </span>
+              <div>
+                <h3 class="learn-header">{{ app.name }}
+            </a></h3>
+            <!-- <div class="align-right learn-more">
+              <a href="{{ app.url }}" class="button small align-right">Learn More</a>
+            </div> -->
+          </div>
+          <p>{{ app.sub_headline }}</p>
+        </div>
+        {% endif %}
+        {% endfor %}
         
       </div>
       {{ content }}
