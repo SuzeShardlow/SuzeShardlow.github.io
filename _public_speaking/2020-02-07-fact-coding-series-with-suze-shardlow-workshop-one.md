@@ -8,6 +8,7 @@ type: Half-day workshop
 image: [ /images/public_speaking/fact_coding_series/2020_02_07_fact_coding_series_with_suze_shardlow_workshop_one/sussex1.jpg, /images/public_speaking/fact_coding_series/sussex_workshops.jpg ]
 category: Teaching
 format: [ Workshop, University ]
+home: true
 ---
 
 Following the talk I gave at their Symposium in November 2019, the lecturers at the University of Sussex invited me to create and deliver a series of three half-day coding workshops for them.

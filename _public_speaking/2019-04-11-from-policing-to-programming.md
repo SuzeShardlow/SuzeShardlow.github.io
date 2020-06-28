@@ -8,6 +8,7 @@ image: [ /images/public_speaking/2019_04_11_from_policing_to_programming/policin
 category: Speaking
 role: Meetup
 format: Talk
+home: true
 ---
 
 This was my first tech talk, which has had over 6400 views on YouTube.  You can watch it below.
