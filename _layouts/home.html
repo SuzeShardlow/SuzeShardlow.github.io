@@ -18,8 +18,8 @@
         <!-- <span class="image main"><img src="{{ page.image }}"></span> -->
 
         <div class="row">
-          {% for post in site.posts %}
-          <div class="col-4 col-12-medium">
+          {% for post in site.posts limit:2 %}
+          <div class="col-6 col-12-medium">
             <a href="{{ post.url }}">
               <span class="image fit">
                 <div class="zoombox">
@@ -47,7 +47,7 @@
 
         <div class="row">
           {% for app in site.coding_projects %}
-          <div class="col-6 col-12-medium">
+          <div class="col-4 col-12-medium">
             <a href="{{ app.url }}">
               <span class="image fit">
                 <div class="zoombox">
