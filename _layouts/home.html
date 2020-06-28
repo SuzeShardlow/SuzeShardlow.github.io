@@ -16,6 +16,35 @@
             </header>
         </section>
         <!-- <span class="image main"><img src="{{ page.image }}"></span> -->
+
+        <div class="row">
+          {% for post in site.posts %}
+          <div class="col-4 col-12-medium">
+            <a href="{{ post.url }}">
+              <span class="image fit">
+                <div class="zoombox">
+                  <img src="{{ post.image }}" class="zoomimg">
+                </div>
+              </span>
+              <h3 class="bloglist-title">{{ post.headline }}
+            </a></h3>
+            <h4 class="bloglist-subtitle">
+              {% assign day = post.date | date: "%-d"  %}
+              {% case day %}
+              {% when '1' or '21' or '31' %}{{ day }}st
+              {% when '2' or '22' %}{{ day }}nd
+              {% when '3' or '23' %}{{ day }}rd
+              {% else %}{{ day }}th
+              {% endcase %}
+              {{ post.date | date: " %B %Y" }} •
+              {{ post.read_time }}-minute read
+            </h4>
+            {{ post.excerpt }}
+          </div>
+          {% endfor %}
+        </div>
+
+
         <div class="row">
           {% for app in site.coding_projects %}
           <div class="col-6 col-12-medium">
