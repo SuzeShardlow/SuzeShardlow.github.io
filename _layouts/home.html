@@ -17,6 +17,9 @@
         </section>
         <!-- <span class="image main"><img src="{{ page.image }}"></span> -->
 
+        <header class="major">
+          <h2>Writing</h2>
+        </header>
         <div class="row">
           {% for post in site.posts limit:2 %}
           <div class="col-6 col-12-medium">
@@ -44,6 +47,9 @@
           {% endfor %}
         </div>
 
+        <header class="major">
+          <h2>Speaking</h2>
+        </header>
         <div class="row">
           {% for event in site.public_speaking %}
           {% if event.home == true %}
@@ -73,32 +79,34 @@
         {% endfor %}
       </div>
 
-
-        <div class="row">
-          {% for app in site.coding_projects %}
-          {% if app.home == true %}
-          <div class="col-6 col-12-medium">
-            <a href="{{ app.url }}">
-              <span class="image fit">
-                <div class="zoombox">
-                  <img src="{{ app.image }}" class="zoomimg">
-                </div>
-              </span>
-              <div>
-                <h3 class="learn-header">{{ app.name }}
-            </a></h3>
-            <!-- <div class="align-right learn-more">
+      <header class="major">
+        <h2>Coding</h2>
+      </header>
+      <div class="row">
+        {% for app in site.coding_projects %}
+        {% if app.home == true %}
+        <div class="col-6 col-12-medium">
+          <a href="{{ app.url }}">
+            <span class="image fit">
+              <div class="zoombox">
+                <img src="{{ app.image }}" class="zoomimg">
+              </div>
+            </span>
+            <div>
+              <h3 class="learn-header">{{ app.name }}
+          </a></h3>
+          <!-- <div class="align-right learn-more">
               <a href="{{ app.url }}" class="button small align-right">Learn More</a>
             </div> -->
-          </div>
-          <p>{{ app.sub_headline }}</p>
         </div>
-        {% endif %}
-        {% endfor %}
-        
+        <p>{{ app.sub_headline }}</p>
       </div>
-      {{ content }}
+      {% endif %}
+      {% endfor %}
+
     </div>
+    {{ content }}
+  </div>
   </div>
   {% include navigation.html %}
   </div>
