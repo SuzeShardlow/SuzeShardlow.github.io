@@ -5,6 +5,7 @@ sub_headline: A little JavaScript app I built in one evening using the TfL and G
 github: boris-bikes
 live_app:
 image: /images/coding_projects/boris_bikes/boris_bikes.jpg
+home: true
 comments: true
 ---
 
