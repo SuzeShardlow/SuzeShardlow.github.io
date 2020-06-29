@@ -65,14 +65,7 @@
             </a></h3>
           </div>
           <h4 class="bloglist-subtitle">
-            {% assign day = event.date | date: "%-d"  %}
-            {% case day %}
-            {% when '1' or '21' or '31' %}{{ day }}st
-            {% when '2' or '22' %}{{ day }}nd
-            {% when '3' or '23' %}{{ day }}rd
-            {% else %}{{ day }}th
-            {% endcase %}
-            {{ event.date | date: " %B %Y" }} • {{ event.venue }}
+            {{ event.venue }}
           </h4>
         </div>
         {% endif %}
