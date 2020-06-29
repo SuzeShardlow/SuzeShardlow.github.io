@@ -7,6 +7,12 @@
 - name: GitHub
   link: https://github.com/SuzeShardlow
   class: icon fa-github-alt
+- name: DEV
+  link: https://dev.to/SuzeShardlow
+  class: icon fa-dev
+- name: Medium
+  link: https://medium.com/@SuzeShardlow
+  class: icon fa-medium-m
 - name: Instagram
   link: https://instagram.com/suze_makes
   class: icon fa-instagram
