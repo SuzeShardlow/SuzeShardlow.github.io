@@ -3,6 +3,7 @@ layout: coding_project
 name: Skedaddle
 sub_headline: A full stack app which draws data from the Transport for London (TfL) API to help Tube travellers.
 github: skedaddle
+tech_stack: MongoDB, Express, EJS, Node.js
 live_app:
 image: /images/coding_projects/skedaddle/skedaddle_on_macbook.jpg
 home: true
