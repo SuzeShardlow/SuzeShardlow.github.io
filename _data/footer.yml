@@ -19,9 +19,6 @@
 - name: SoundCloud
   link: https://soundcloud.com/suzeshardlow
   class: icon fa-soundcloud
-- name: Instagram
-  link: https://instagram.com/suze_makes
-  class: icon fa-instagram
 - name: Mail
   link: #
   class: icon fa-envelope email
