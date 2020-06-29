@@ -3,6 +3,7 @@ layout: coding_project
 name: suze.dev
 sub_headline: A personal portfolio site built using Jekyll and GitHub Pages.
 github: SuzeShardlow.github.io
+tech_stack: HTML, CSS, JavaScript, Jekyll
 live_app:
 image: /images/coding_projects/personal_website/suze_dev_on_macbook.jpg
 home: true
