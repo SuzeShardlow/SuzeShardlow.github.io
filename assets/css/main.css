@@ -1872,6 +1872,7 @@ section, summary, time, mark, audio, video {
       display: inline-block;
       margin: 0 0 1em 0;
       padding: 0 0.75em 0.5em 0;
+      width: 100%;
     }
 
     header.main > :last-child {
