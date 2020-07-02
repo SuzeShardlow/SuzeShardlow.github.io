@@ -19,32 +19,114 @@
         <header class="major">
           <h2>Writing</h2>
         </header>
+
+        <!-- First block starts here -->
+        <!-- Latest post -->
+        {% assign latest_post = site.posts[0] %}
         <div class="row">
-          {% for post in site.posts limit:2 %}
           <div class="col-6 col-12-medium">
-            <a href="{{ post.url }}">
+            <a href="{{ latest_post.url }}">
               <span class="image fit">
                 <div class="zoombox">
-                  <img src="{{ post.image }}" class="zoomimg">
+                  <img src="{{ latest_post.image }}" class="zoomimg">
                 </div>
               </span>
-              <h3 class="bloglist-title">{{ post.headline }}
+              <h3 class="bloglist-title">{{ latest_post.headline }}
             </a></h3>
             <h4 class="bloglist-subtitle">
-              {% assign day = post.date | date: "%-d"  %}
-              {% case day %}
-              {% when '1' or '21' or '31' %}{{ day }}st
-              {% when '2' or '22' %}{{ day }}nd
-              {% when '3' or '23' %}{{ day }}rd
-              {% else %}{{ day }}th
-              {% endcase %}
-              {{ post.date | date: " %B %Y" }} • {{ post.category }} •
-              {{ post.read_time }}-minute read
+              {{ latest_post.category }} • {{ latest_post.read_time }}-minute read
             </h4>
-            {{ post.excerpt }}
+            {{ latest_post.excerpt }}
           </div>
-          {% endfor %}
+
+          <!-- Second and third posts -->
+          <div class="col-6 col-12-medium">
+
+            {% assign second_post = site.posts[1] %}
+            {% assign third_post = site.posts[2] %}
+            {% assign fourth_post = site.posts[3] %}
+
+            <!-- Second post -->
+            <div class="row">
+
+              <div class="col-6 col-12-medium">
+                <a href="{{ second_post.url }}">
+                  <span class="image fit">
+                    <div class="zoombox">
+                      <img src="{{ second_post.image }}" class="zoomimg">
+                    </div></a>
+                </span>
+              </div>
+
+              <div class="col-6 col-12-medium">
+                <a href="{{ second_post.url }}">
+                  <h3 class="bloglist-title">{{ second_post.headline }}
+                </a></h3>
+                <h4 class="bloglist-subtitle">
+                  {{ second_post.category }} • {{ second_post.read_time }}-minute read
+                </h4>
+                {{ second_post.sub_headline }}.
+              </div>
+            </div>
+
+            <!-- Third post -->
+            <div class="row">
+
+              <div class="col-6 col-12-medium">
+                <a href="{{ third_post.url }}">
+                  <span class="image fit">
+                    <div class="zoombox">
+                      <img src="{{ third_post.image }}" class="zoomimg">
+                    </div></a>
+                </span>
+              </div>
+
+              <div class="col-6 col-12-medium">
+                <a href="{{ third_post.url }}">
+                  <h3 class="bloglist-title">{{ third_post.headline }}
+                </a></h3>
+                <h4 class="bloglist-subtitle">
+                  {{ third_post.category }} • {{ third_post.read_time }}-minute read
+                </h4>
+                {{ third_post.sub_headline }}.
+              </div>
+
+              {% for post in site.posts limit:1 %}
+
+              {% endfor %}
+            </div>
+
+            <!-- Fourth post -->
+            <div class="row">
+
+              <div class="col-6 col-12-medium">
+                <a href="{{ fourth_post.url }}">
+                  <span class="image fit">
+                    <div class="zoombox">
+                      <img src="{{ fourth_post.image }}" class="zoomimg">
+                    </div></a>
+                </span>
+              </div>
+
+              <div class="col-6 col-12-medium">
+                <a href="{{ fourth_post.url }}">
+                  <h3 class="bloglist-title">{{ fourth_post.headline }}
+                </a></h3>
+                <h4 class="bloglist-subtitle">
+                  {{ fourth_post.category }} • {{ fourth_post.read_time }}-minute read
+                </h4>
+                {{ fourth_post.sub_headline }}.
+              </div>
+
+              {% for post in site.posts limit:1 %}
+
+              {% endfor %}
+            </div>
+
+          </div>
         </div>
+
+        <!-- First block ends here -->
 
         <header class="major">
           <h2>Speaking</h2>
