@@ -1,6 +1,6 @@
 ---
 headline: Get Into... Web Development
-sub_headline: How I Created An Online Interview Series
+sub_headline: How I created an online interview series
 read_time: 6
 image: /images/blog/2020_06_05_get_into_web_development/giwd_cover.png
 category: Leadership
