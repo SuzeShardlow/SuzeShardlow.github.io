@@ -1120,7 +1120,7 @@ section, summary, time, mark, audio, video {
     @media screen and (max-width: 980px) {
 
       .mb-4-medium {
-        margin-bottom: 4em;
+        margin-bottom: 1em;
       }
 
       .row {
