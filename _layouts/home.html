@@ -40,7 +40,7 @@
           </div>
 
           <!-- Second and third posts -->
-          <div class="col-6 col-12-medium mb-4-medium">
+          <div class="col-6 col-12-medium">
 
             {% assign second_post = site.posts[1] %}
             {% assign third_post = site.posts[2] %}
@@ -49,7 +49,7 @@
             <!-- Second post -->
             <div class="row">
 
-              <div class="col-6 col-12-medium mb-4-medium">
+              <div class="col-6 col-12-medium">
                 <a href="{{ second_post.url }}">
                   <span class="image fit">
                     <div class="zoombox">
@@ -65,14 +65,14 @@
                 <h4 class="bloglist-subtitle">
                   {{ second_post.category }} • {{ second_post.read_time }}-minute read
                 </h4>
-                {{ second_post.sub_headline }}.
+                <p>{{ second_post.sub_headline }}.</p>
               </div>
             </div>
 
             <!-- Third post -->
             <div class="row">
 
-              <div class="col-6 col-12-medium mb-4-medium">
+              <div class="col-6 col-12-medium">
                 <a href="{{ third_post.url }}">
                   <span class="image fit">
                     <div class="zoombox">
@@ -88,7 +88,7 @@
                 <h4 class="bloglist-subtitle">
                   {{ third_post.category }} • {{ third_post.read_time }}-minute read
                 </h4>
-                {{ third_post.sub_headline }}.
+              <p>{{ third_post.sub_headline }}.</p>
               </div>
 
               {% for post in site.posts limit:1 %}
@@ -99,7 +99,7 @@
             <!-- Fourth post -->
             <div class="row">
 
-              <div class="col-6 col-12-medium mb-4-medium">
+              <div class="col-6 col-12-medium">
                 <a href="{{ fourth_post.url }}">
                   <span class="image fit">
                     <div class="zoombox">
@@ -115,7 +115,7 @@
                 <h4 class="bloglist-subtitle">
                   {{ fourth_post.category }} • {{ fourth_post.read_time }}-minute read
                 </h4>
-                {{ fourth_post.sub_headline }}.
+              <p>{{ fourth_post.sub_headline }}.</p>
               </div>
 
               {% for post in site.posts limit:1 %}
