@@ -17,7 +17,7 @@ Make sure you leave it as a **Public** repo and **initialise it with a README**.
 
 When you press the **Create repository** button, the README will be **live immediately** with some **default content**.
 
-![image](/images/blog/2020_07_09_new_on_github_add_a_readme_cover_to_your_github_profile/gh_readme_create_new_repo.jpg){: .image .center}
+![image](/images/blog/2020_07_09_new_on_github_how_to_add_a_readme_cover_to_your_github_profile/gh_readme_create_new_repo.jpg){: .image .center}
 
 ## 2) Customise and edit your README.
 
