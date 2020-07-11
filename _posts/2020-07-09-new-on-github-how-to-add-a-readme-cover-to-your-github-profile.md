@@ -25,7 +25,7 @@ You can do this on the **GitHub website** or **clone the repo** to your computer
 
 Add whatever **text**, **pictures** etc you like.  GitHub gives you some suggestions to get started.
 
-![image](/images/blog/2020_07_09_new_on_github_add_a_readme_cover_to_your_github_profile/gh_readme_get_started.jpg){: .image .center}
+![image](/images/blog/2020_07_09_new_on_github_how_to_add_a_readme_cover_to_your_github_profile/gh_readme_get_started.jpg){: .image .center}
 
 If you want to use an **image** that's in one of your other **public repos**, link to it in the usual way:
 
