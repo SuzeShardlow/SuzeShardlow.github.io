@@ -1,5 +1,5 @@
 ---
-headline: "New On GitHub: Add A README Cover To Your GitHub Profile"
+headline: "New On GitHub: How To Add A README Cover To Your GitHub Profile"
 sub_headline: A cool new feature which gives your GitHub profile a bit of personality.
 read_time: 2
 image: /images/blog/2020_07_09_new_on_github_add_a_readme_cover_to_your_github_profile/gh_profile_cover.jpg
