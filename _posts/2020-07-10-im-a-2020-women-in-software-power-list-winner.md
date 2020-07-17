@@ -44,7 +44,7 @@ Being on **holiday doesn't stop me** from doing the community thing.  In January
 
 WWCode members from around the world are attending **Ladies of Code London** events, too.  WWCode San Diego is now using our **Get On With It** format and another chapter plans to follow suit.  **Ladies of Code London has gone international!**
 
-### Get In Touch!
+## Get In Touch!
 
 I'm always **happy to chat** about any of the above!  Get in touch if you'd like me to **organise something for you** or you'd like to **give a talk** at one of my events.
 
