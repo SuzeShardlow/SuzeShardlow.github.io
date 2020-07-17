@@ -42,6 +42,12 @@ Being on **holiday doesn't stop me** from doing the community thing.  In January
 
 ![image](/images/public_speaking/2020_01_14_github_pages_personal_website_and_blog_workshop/github_workshop.jpg){: .image .center}
 
+WWCode members from around the world are attending **Ladies of Code London** events, too.  WWCode San Diego is now using our **Get On With It** format and another chapter plans to follow suit.  **Ladies of Code London has gone international!**
+
 ### Get In Touch!
 
 I'm always **happy to chat** about any of the above!  Get in touch if you'd like me to **organise something for you** or you'd like to **give a talk** at one of my events.
+
+<hr>
+
+_See the Women In Software Power List 2020 winners [here.](https://blog.makersacademy.com/presenting-the-2020-women-in-software-winners-c32cb20e553e)_
