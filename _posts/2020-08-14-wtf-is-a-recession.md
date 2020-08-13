@@ -43,9 +43,15 @@ Factors that affect GDP are:
 
 ### Manufacturing production
 
+- blurb
+
 ### Levels of investment
 
+- blurb
+
 ### The rate of unemployment
+
+- blurb
 
 ## How can we avoid recession?
 
@@ -66,3 +72,5 @@ Various events can trigger damage to the economy, like the current coronavirus c
 ## Should you be worried?
 
 Any time there is bad news about the economy, it's always worrying.  
+
+- blurb about how I lived through the one in the 1990s and 2008-9
