@@ -19,6 +19,8 @@ Therefore, with COVID-19 forcing the closure of thousands of businesses, it's no
 
 ### Benchmarking
 
+- include some info here about how the benchmark is calculated
+
 ### Gross Domestic Product (GDP)
 
 A country's economic performance is measured in terms of GDP: Gross Domestic Product.  There are three ways of calculating this.  Whichever method you use should give you approximately the same result.
