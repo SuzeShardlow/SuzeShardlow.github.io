@@ -17,7 +17,7 @@ Imagine a balloon.  You blow air into it, it expands like a growing economy.  Yo
 
 In the UK, the decline in performance needs to last for two consecutive quarters (ie six months, in this case January to March (Q1) and April to June (Q2) of 2020) for it to be classed as a recession.
 
-Therefore, with COVID-19 forcing the closure of thousands of businesses, it's not surprising that we now have a UK recession.
+Therefore, with COVID-19 forcing the temporary or permanent closure of thousands of businesses, it's not surprising that we now have a UK recession.
 
 ## How is "performance" measured?
 
