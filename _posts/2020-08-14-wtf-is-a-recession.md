@@ -93,11 +93,21 @@ This is why fast food outlets often experience an increase in business during a 
 
 ## Should you be worried?
 
-Any time there is bad news about the economy, it's always worrying.
+Any time there is bad news about the economy, it's always worrying.  The current recession is the fourth one during my lifetime.
 
-- blurb about how I lived through the one in the 1990s and 2008-9
+I don't remember the first one (Q1 1980 - Q1 1981 inclusive).  However, I clearly remember the second one, which began in Q3 1990 and, again, lasted five quarters.  As a young person, this worried me a lot.  I remember us being on a tight budget even before late 1990.  I now realise this was probably partly because of sky high interest rates (14.8% at the start of the recession) and super-high inflation (9.5% in 1990: in 1992, the UK Government began setting and working towards an inflation target of 1% to 4%).
 
+The third started in spring 2008 and, again, lasted for five quarters.  By then, I was working and saving to buy a house.  This downturn was scary for different reasons: several banks and old, established retail chains were going out of business.
 
+As I suggested earlier, the belt-tightening often made necessary by a recession can actually make it worse.  It is natural to be worried.  Not everyone can pivot into a new career if they lose their job.  However, as I also mentioned earlier, economies go through peaks and troughs.  Therefore, at some point things will get better.  Nothing lasts forever...
+
+### Are there any bargains to be had during a recession?
+
+Assuming you have access to purchasing power, the answer is possibly.  You may be able to buy cheap stocks (although you need to bear in mind that gains may be negative, tiny or very slow).
+
+Cheap credit may be available if the Bank of England reduces interest rates.
+
+The cost of goods may reduce if the Government reduces sales tax in a bid to stimulate spending.  The UK Government reduced VAT in July 2020 and December 2008.  However, companies do not have to pass this saving onto customers.
 
 
 ---
