@@ -1,7 +1,7 @@
 ---
 headline: WTF Is A Recession?
 sub_headline: We hear this word a lot, but what does it actually mean?
-read_time: 2
+read_time: 7
 image: /images/blog/2020_08_14_wtf_is_a_recession/wtf_recession.jpg
 category: Adulting
 comments: true
