@@ -53,7 +53,7 @@ Factors that affect GDP are:
 
 ### Manufacturing production
 
-If **production drops**, the amount of goods and services that can be sold drops accordingly, reducing revenue and tax income.  Jobs may have to be cut, thereby increasing **unemployment** and **reducing** household **spending** and **tax revenue** (VAT and income tax).
+If **production drops**, the amount of goods and services that can be sold drops accordingly, reducing revenue and tax income.  Jobs may have to be cut, thereby increasing **unemployment** and **reducing** household **spending** and **tax revenue** (VAT (a tax you have to pay when you buy goods and services in the UK) and income tax).
 
 ### Levels of investment
 
