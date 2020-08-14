@@ -7,7 +7,7 @@ category: Money
 comments: true
 ---
 
-This week's big news is that the UK has entered recession for the first time since 2009.  But what even is a recession and how do they happen?
+This week's big news is that the UK has entered recession for the first time since 2009.  It's the worst downturn since quarterly records began.  But what even is a recession and how do they happen?
 
 A recession is when the economy of a country is temporarily performing badly.  This means that the economy is experiencing negative economic growth, or contracting.
 
@@ -65,7 +65,7 @@ Low unemployment means more households with an income, which leads to more spend
 
 ## How can we avoid recession?
 
-You can't, really.  Economies naturally go through cycles of prosperity and downturn.  Therefore, recession is a fact of life: what goes up must come down.
+We can't, really.  Economies naturally go through cycles of prosperity and downturn.  Therefore, recession is a fact of life: what goes up must come down.
 
 Various events can trigger damage to the economy, like the current coronavirus crisis or the credit crunch of 2008 which have both led to economic slumps all over the world.
 
@@ -80,10 +80,6 @@ How well a particular industry does during a recession depends, to some extent, 
 People cut back their spending in various ways.  They can stop buying things completely (eg decide not to upgrade electronics) or they can buy fewer things (eg clothes).  They can also modify their spending habits.  For example, people can't live without food and there is only so far they can go with cutting their supermarket spending.  However, if they are accustomed to eating out and they don't want to cook all the time, they might stop eating in restaurants and switch to the cheaper option of buying takeaways instead.
 
 This is why fast food outlets often experience an increase in business during a recession.  The COVID situation also saw many people buying more takeaways in a bid to help ensure local, independent businesses survived the pandemic.
-
-## What is a depression, as opposed to a recession?
-
-- a depression is a recession that lasts ages (cite The Great Depression in the USA and its causes and also mention when the last one in the UK was)
 
 ## What does recession mean for you?
 
