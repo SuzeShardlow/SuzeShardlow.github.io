@@ -3,7 +3,7 @@ headline: Breakfast Burrito Recipe
 sub_headline: A convenient way to serve up and consume parts of a full English breakfast
 read_time: 3
 image: /images/blog/2020_04_19_breakfast_burrito_recipe/burrito_bites.jpg
-category: Hobbies
+category: Adulting
 comments: true
 ---
 
