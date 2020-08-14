@@ -33,7 +33,7 @@ The [Organisation for Economic Co-operation and Development (OECD)](https://data
 
 ### Calculating changes in GDP
 
-If GDP growth = economic growth, we need some way of looking at the change over time so we can determine whether the economy has grown or contracted.
+If GDP growth = economic growth, we need some way of looking at the change in GDP over time so we can determine whether the economy has grown or contracted.
 
 However, we can't do this just by doing a straight comparison of the real data.  This is because £100 buys you a different amount of goods now than it did in the past.  Your purchasing power is affected by inflation (or deflation), so this needs to be taken into account when comparing GDP for different time periods.
 
@@ -87,9 +87,29 @@ This is why fast food outlets often experience an increase in business during a 
 
 ## What does recession mean for you?
 
-- lack of jobs
-- not being able to save
-- higher prices in the shops
+### Possible job insecurity/difficulty finding work
+
+A manufacturing downturn can lead to a reduction in demand for labour.  More people will be chasing fewer jobs.
+
+### Not being able to save
+
+Unemployment will likely result in your having to dip into your savings.  The Government will also do everything in its power to get you out of the house and spending money - see the August 2020 "Eat Out To Help Out" scheme and the reopening of many businesses amid the global pandemic.
+
+### Bargains to be had
+
+Are there any bargains to be had during a recession?  Assuming you have access to purchasing power, the answer is possibly.
+
+#### Cheap stocks
+
+You may be able to buy cheap stocks (although you need to bear in mind that gains may be negative, tiny or very slow).
+
+#### Cheap credit
+
+You may be able to get hold of cheap credit if the Bank of England reduces interest rates.
+
+#### Cheaper goods in the shops
+
+The cost of goods may reduce if the Government reduces sales tax in a bid to stimulate spending.  The UK Government reduced VAT in July 2020 and December 2008.  However, companies do not have to pass this saving onto customers.
 
 ## Should you be worried?
 
@@ -100,25 +120,3 @@ I don't remember the first one (Q1 1980 - Q1 1981 inclusive).  However, I clearl
 The third started in spring 2008 and, again, lasted for five quarters.  By then, I was working and saving to buy a house.  This downturn was scary for different reasons: several banks and old, established retail chains were going out of business.
 
 As I suggested earlier, the belt-tightening often made necessary by a recession can actually make it worse.  It is natural to be worried.  Not everyone can pivot into a new career if they lose their job.  However, as I also mentioned earlier, economies go through peaks and troughs.  Therefore, at some point things will get better.  Nothing lasts forever...
-
-### Are there any bargains to be had during a recession?
-
-Assuming you have access to purchasing power, the answer is possibly.  You may be able to buy cheap stocks (although you need to bear in mind that gains may be negative, tiny or very slow).
-
-Cheap credit may be available if the Bank of England reduces interest rates.
-
-The cost of goods may reduce if the Government reduces sales tax in a bid to stimulate spending.  The UK Government reduced VAT in July 2020 and December 2008.  However, companies do not have to pass this saving onto customers.
-
-
----
-
-Some questions that you might want to answer in the recession post love, just some ideas:
-
-
-
-* Are there any bargains to be had during a recession? (e.g. will more people who can invest in property, stocks that dip lower, buy cars cheaper or on cheap finance?)
-* What tools does the government have to help hasten the end of a recession? (spending on infrastructure projects, VAT reductions or similar to spur consumer spending?)
-
-Maybe also consider something like...
-
-* If I'm moving house during a recession should I consider staying put if my house is losing value?  - like trading a car in for a newer one, it's not really the value of the old car or the price of the new one that matters, but the cost to change from one to another.  If this stays about the same in a recession then you're no worse off - but of course you may have less job security / other costs go higher or income lower ?
