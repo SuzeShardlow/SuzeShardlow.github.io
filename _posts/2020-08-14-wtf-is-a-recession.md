@@ -89,7 +89,7 @@ A manufacturing downturn can lead to a reduction in demand for labour.  More peo
 
 ### Not being able to save
 
-Unemployment will likely result in your having to dip into your savings.  The Government will also do everything in its power to get you out of the house and spending money - see the August 2020 "Eat Out To Help Out" scheme and the reopening of many businesses amid the global pandemic.
+Unemployment will likely result in your having to dip into your savings.  The Government will also do everything in its power to get you out of the house and spending money - see the August 2020 "Eat Out To Help Out" scheme and the reopening of many industry sectors amid the global pandemic.
 
 ### Bargains to be had
 
