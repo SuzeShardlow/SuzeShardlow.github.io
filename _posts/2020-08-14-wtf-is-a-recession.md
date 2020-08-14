@@ -21,19 +21,17 @@ Therefore, with COVID-19 and Brexit forcing the temporary or permanent closure o
 
 ### Gross Domestic Product (GDP)
 
-A country's economic performance is measured in terms of GDP: Gross Domestic Product, usually per quarter.  There are three ways of calculating this:
+A country's economic performance is measured in terms of GDP: Gross Domestic Product, usually per quarter.  There are three ways of calculating this for any given time period:
 
-* total income
-* total expenditure
-* total value of goods and services produced
+* total income earned by companies and individuals
+* total expenditure (by households, businesses and the Government)
+* total value of output ie the value added to the economy in terms of the market prices of all finished goods and services produced by the country
+
+Whichever method you choose to use should, theoretically, give you the same result.
 
 GDP growth = economic growth.
 
 The [Organisation for Economic Co-operation and Development (OECD)](https://data.oecd.org/gdp/gross-domestic-product-gdp.htm) defines GDP as "the standard measure of the value added created through the production of goods and services in a country during a certain period".
-
-Put simply, GDP is made up of:
-
-- add bullet points here
 
 ### Calculating changes in GDP
 
@@ -42,13 +40,6 @@ If GDP growth = economic growth, we need some way of comparing the change over t
 However, we can't do this just by doing a straight comparison of the real data.  This is because £1 buys you a different amount of goods than it did 10 years ago.  Your purchasing power is affected by inflation (or deflation), so this needs to be taken into account when comparing GDP for different time periods.
 
 Once the GDP at current prices has been calculated and adjusted for inflation/deflation,
-
-
-
-To determine whether the economy has grown, stayed the same or contracted, we need to take a benchmark.  
-
-- include some info here about how the benchmark is calculated
-
 
 #### Comparing GDP internationally
 
@@ -119,11 +110,6 @@ Some questions that you might want to answer in the recession post love, just so
 
 * Are there any bargains to be had during a recession? (e.g. will more people who can invest in property, stocks that dip lower, buy cars cheaper or on cheap finance?)
 * What tools does the government have to help hasten the end of a recession? (spending on infrastructure projects, VAT reductions or similar to spur consumer spending?)
-
-
-This one might be tricky to work out:
-
-* How will the end of the transition period with the UK leaving the EU be affected by this?
 
 Maybe also consider something like...
 
