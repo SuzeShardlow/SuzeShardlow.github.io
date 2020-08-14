@@ -21,33 +21,31 @@ Therefore, with COVID-19 and Brexit forcing the temporary or permanent closure o
 
 ### Gross Domestic Product (GDP)
 
-A country's economic performance is measured in terms of GDP: Gross Domestic Product, usually per quarter.  There are three ways of calculating this for any given time period:
+A country's economic performance is measured in terms of GDP: Gross Domestic Product, usually per quarter.  Therefore, GDP growth = economic growth.  There are three ways of calculating this for any given time period:
 
 * total income earned by companies and individuals
 * total expenditure (by households, businesses and the Government)
 * total value of output ie the value added to the economy in terms of the market prices of all finished goods and services produced by the country
 
-Whichever method you choose to use should, theoretically, give you the same result.
-
-GDP growth = economic growth.
+All these methods should, theoretically, give you the same result.
 
 The [Organisation for Economic Co-operation and Development (OECD)](https://data.oecd.org/gdp/gross-domestic-product-gdp.htm) defines GDP as "the standard measure of the value added created through the production of goods and services in a country during a certain period".
 
 ### Calculating changes in GDP
 
-If GDP growth = economic growth, we need some way of comparing the change over time so we can determine whether the economy has grown or contracted.
+If GDP growth = economic growth, we need some way of looking at the change over time so we can determine whether the economy has grown or contracted.
 
-However, we can't do this just by doing a straight comparison of the real data.  This is because £1 buys you a different amount of goods than it did 10 years ago.  Your purchasing power is affected by inflation (or deflation), so this needs to be taken into account when comparing GDP for different time periods.
+However, we can't do this just by doing a straight comparison of the real data.  This is because £100 buys you a different amount of goods now than it did in the past.  Your purchasing power is affected by inflation (or deflation), so this needs to be taken into account when comparing GDP for different time periods.
 
-Once the GDP at current prices has been calculated and adjusted for inflation/deflation,
+Once the GDP at current prices has been calculated and adjusted for inflation/deflation, it can more accurately be compared against previous GDP figures.
 
-#### Comparing GDP internationally
+### Comparing GDP internationally
 
 To more fairly compare GDP between nations of different sizes, we express a country's GDP divided by its resident citizens (ie not including those located overseas), to give a GDP per capita (ie per head).
 
 The latest OECD figures show that Luxembourg has the highest GDP per capita in the world, followed by Singapore and Ireland.
 
-We can then adjust these figures to take into account purchasing power.  This is because, for example, one euro in Spain will buy you a different amount of the same items in Italy, even though the two countries use the same currency).
+We can then adjust these figures to take into account purchasing power.  This is because, for example, €100 in Spain will buy you a different amount of the same items from €100 in Italy, even though the two countries use the same currency.
 
 ## What affects economic performance?
 
@@ -55,21 +53,21 @@ Factors that affect GDP are:
 
 ### Manufacturing production
 
-If production drops, the amount of goods and services that can be sold drops accordingly, reducing revenue and tax income.
+If production drops, the amount of goods and services that can be sold drops accordingly, reducing revenue and tax income.  Jobs may have to be cut, thereby increasing unemployment and reducing household spending and tax revenue (VAT and income tax).
 
 ### Levels of investment
 
-High levels of investment in, for example, equipment means that money is flowing through the economy in terms of sales transactions and tax.  It also means the companies who are making the equipment are manufacturing more.
+High levels of investment in, for example, equipment means that money is flowing through the economy in the form of sales transactions, employee wages and sales and income tax.  It also means the companies who are making the equipment are manufacturing more.
 
 ### The rate of unemployment
 
-Low unemployment means more households which are earning, which leads to more spending.  In fact, if you're using the total expenditure method of calculating GDP, household spending accounts for the majority.  More spending means more sales tax flowing to the Government and more revenue for businesses, some of which they will reinvest by purchasing 
+Low unemployment means more households with an income, which leads to more spending.  In fact, if you're using the total expenditure method of calculating GDP, household spending accounts for the majority.  More spending means more sales tax flowing to the Government and more revenue for businesses, some of which they will reinvest.
 
 ## How can we avoid recession?
 
-You can't really.  Economies naturally go through cycles of prosperity and downturn.  Therefore, recession is a fact of life: what goes up must come down.
+You can't, really.  Economies naturally go through cycles of prosperity and downturn.  Therefore, recession is a fact of life: what goes up must come down.
 
-Various events can trigger damage to the economy, like the current coronavirus crisis or the credit crunch of 2008 which have both led to economic crashes all over the world.
+Various events can trigger damage to the economy, like the current coronavirus crisis or the credit crunch of 2008 which have both led to economic slumps all over the world.
 
 Ironically, worrying about a downturn can invoke one.  If people are anxious about losing their jobs, they may spend less and save more.  This results in less money flowing to businesses and the Government via tax.  If businesses lose income then they will have less money to spend on production, so they may have to cut jobs etc.
 
@@ -95,7 +93,7 @@ This is why fast food outlets often experience an increase in business during a 
 
 ## Should you be worried?
 
-Any time there is bad news about the economy, it's always worrying.  
+Any time there is bad news about the economy, it's always worrying.
 
 - blurb about how I lived through the one in the 1990s and 2008-9
 
