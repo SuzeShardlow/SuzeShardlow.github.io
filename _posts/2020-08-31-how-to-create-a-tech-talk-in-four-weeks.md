@@ -25,7 +25,7 @@ We then paired everyone up so they could bounce ideas off each other.
 
 Here are the topics that people came up with in this session:
 
-
+![image](/images/blog/2020_08_31_how_to_create_a_tech_talk_in_four_weeks/get_heard_july_word_cloud.png){: .image .center}
 
 ### Creating your title
 
