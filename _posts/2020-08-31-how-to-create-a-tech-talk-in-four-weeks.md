@@ -7,3 +7,4 @@ category: Leadership
 comments: true
 ---
 
+We held our first-ever Ladies of Code London public speaking workshop series in July.  It culminated in a short talks showcase evening where members performed their talk in front of a live audience.
