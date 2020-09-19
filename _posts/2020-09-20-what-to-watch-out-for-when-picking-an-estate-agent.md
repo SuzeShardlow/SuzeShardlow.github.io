@@ -33,7 +33,20 @@ Bear in mind that, unless you set your asking price low for a quick sale, you ar
 
 ## Fees
 
-Bricks and mortar estate agents (ie those with a physical sales office on the high street) generally charge a percentage of the final sale price.  In the past year I have seen anything from 0.7% to 1.2% plus VAT.  The less you can pay, the better, but bear in mind that if the agent is only getting a small percentage, then there is little incentive for them to strive to get a couple of extra grand out of your seller.
+Bricks and mortar estate agents (ie those with a physical sales office on the high street) generally charge a percentage of the final sale price.  In the past year I have seen anything from 0.7% to 1.2% plus VAT for sole agency.
+
+You can negotiate the fee.  I always negotiate the fee.  I asked each agent what their fee was, then decided which agent I liked the most.  I then asked that agent to match the lowest fee.
+
+The less you have to shell out, the more goes in your pocket, but bear in mind that if the agent is only getting a small percentage, then there is little incentive for them to strive to get a couple of extra grand out of your seller.
+
+## Sole agency/muliple agency
+
+You can either instruct one agency to market your property, or you can put it on with several agencies at the same time.  I have noticed that sellers tend to go with multiple agencies if they want a quick sale, or they have been trying to sell their house for a long time and haven't been able to agree a sale.
+
+The fees for multiple agency are higher than for sole agency.
+
+
+Contract/agency agreement wording
 
 
 
