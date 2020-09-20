@@ -73,12 +73,12 @@ The other reason I never agree to a long contract period is because I want to co
 
 Consider the following situation.  An agent assures you they can get a very good price for your property and woos you with compliments about it, the area and proximity to schools, amenities etc.  They suggest an asking price which gets you thinking not only could you move to the place of your dreams but could perhaps do some reno too...
 
-Week 1: House goes on the market.  No viewings.
-Week 2: Still no viewings.  Agent suggests dropping the price to generate interest.
-Week 3: You drop the price.  Some viewings.  Feedback is that it's a lovely house but not big enough (read: not worth 90% of the asking price).
-Week 4: Same as last week.  Agent suggests dropping the price.
-Week 5: The people who saw it on Rightmove in Week 3 but didn't view it because it was out of their budget are now thinking hmmm, let's see if they drop the price some more.
-Week 6: People who have just started househunting notice that your house has been on Rightmove for five weeks and that you've reduced the price.  They are put off by preconceptions that there must be something wrong with it.
+* Week 1: House goes on the market.  No viewings.
+* Week 2: Still no viewings.  Agent suggests dropping the price to generate interest.
+* Week 3: You drop the price.  Some viewings.  Feedback is that it's a lovely house but not big enough (read: not worth 90% of the asking price).
+* Week 4: Same as last week.  Agent suggests dropping the price.
+* Week 5: The people who saw it on Rightmove in Week 3 but didn't view it because it was out of their budget are now thinking hmmm, let's see if they drop the price some more.
+* Week 6: People who have just started househunting notice that your house has been on Rightmove for five weeks and that you've reduced the price.  They are put off by preconceptions that there must be something wrong with it.
 
 The longer your house is on the market, the less attractive it will be.  The sweet spot is to put it on the market at an asking price high enough that it doesn't look like too much of a bargain, but low enough that 90% of the asking price would be a realistic sale price.
 
