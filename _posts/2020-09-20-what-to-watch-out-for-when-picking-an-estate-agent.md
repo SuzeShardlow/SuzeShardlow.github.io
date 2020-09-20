@@ -51,7 +51,7 @@ If you think your house will require some effort to sell, or you anticipate a lo
 
 Check your contract carefully to make sure you're clear on what's included in the fee.  You should look for things like photographs, listing on an online property portal, accompanied viewings and floor plans.  If these are not included, ask how much they will cost and factor this into your decision.
 
-## Sole agency/muliple agency
+## Sole agency/multiple agency
 
 You can instruct one or more agencies to sell your property at the same time.  I have noticed that sellers tend to go with multiple agencies if they want a quick sale, or they have been trying to sell their house for a long time and haven't been able to agree a sale.
 
