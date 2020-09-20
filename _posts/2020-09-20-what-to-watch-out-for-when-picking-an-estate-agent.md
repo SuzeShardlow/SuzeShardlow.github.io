@@ -19,6 +19,8 @@ Aside from the contract, there's also the matter of estate agent fees, pricing y
 
 With all this in mind, here are some of the things I learnt when selecting an estate agent to sell through.
 
+**If you find these tips useful, please consider [buying me a coffee](https://ko-fi.com/suzeshardlow).  Thank you!**
+
 ## Agent knowledge
 
 Houses are marketed online these days, so from that point of view you can use anyone who puts all their properties on Rightmove and/or Zoopla.  However, it's a good idea to at least consult one that has recently sold similar houses in your area and can demonstrate this.  If they are selling all the houses in your area, then they are essentially setting the market rates.  Therefore, you'll get a realistic idea of how much you could get for yours by speaking to them.
@@ -110,4 +112,8 @@ I have successfully negotiated this out of agency contracts and changed them to 
 
 If you see this in a contract, either run a mile or make sure it's removed before you sign it.  This clause binds you to paying the estate agent's commission if they find you a ready, willing and able buyer.  Unfortunately, even if that buyer is really keen and has no chain there's nothing to say that their offer needs to be acceptable to you or that contracts need to be exchanged before you are liable for the agent's fee.  Although estate agents are legally allowed to include this phrase, the terms "ready", "willing" and "able" are open to interpretation.
 
+## What's worked for you?
 
+**If you found these tips useful, please consider [buying me a coffee](https://ko-fi.com/suzeshardlow).  Thank you!**
+
+Have you found any other interesting clauses in estate agent contracts?  How did you handle them?  Let me know in the comments!
