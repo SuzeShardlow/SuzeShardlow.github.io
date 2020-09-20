@@ -1,7 +1,7 @@
 ---
 headline: What To Watch Out For When Picking An Estate Agent
 sub_headline: It's not in their interest to educate you about what their contract means.
-read_time: 3
+read_time: 9
 image: /images/blog/2020_08_31_how_to_create_a_tech_talk_in_four_weeks/get_heard_2020_banner.png
 category: Adulting
 comments: true
@@ -41,15 +41,19 @@ Bear in mind that, unless you set your asking price low for a quick sale, you ar
 
 ## Fees
 
-Bricks and mortar estate agents (ie those with a physical sales office on the high street) generally charge a percentage of the final sale price.  In the past year I have seen anything from 0.7% to 1.2% plus VAT for sole agency.  Estate agents have to say whether or not their fee includes VAT.  Most of them don't, so make sure you ask, otherwise you may end up paying them 20% more than you anticipated.
+Bricks and mortar estate agents (ie those with a physical sales office on the high street) generally charge a percentage of the final sale price.  In the past two years I have seen anything from 0.7% to 1.2% plus VAT for sole agency.  Estate agents have to say whether or not their fee includes VAT.  Most of them don't, so make sure you ask, otherwise you may end up paying them 20% more than you anticipated.
 
-You can negotiate the fee.  I always negotiate the fee.  I asked each agent what their fee was, then decided which agent I liked the most.  I then asked that agent to match the lowest fee.
+You can negotiate the fee.  I always negotiate the fee.  I asked each agent what their fee was, then decided which agent I liked the most.  I then asked that agent to match the lowest fee.  This suited my particular circumstances.
 
-The less you have to shell out, the more goes in your pocket, but bear in mind that if the agent is only getting a small percentage, then there is little incentive for them to strive to get a couple of extra grand out of your seller.
+The less you have to shell out, the more goes in your pocket, but bear in mind that if the agent is only getting a small percentage, then there is also little incentive for them to strive to get your potential seller to increase their offer.
+
+If you think your house will require some effort to sell, or you anticipate a long chain or other reasons why the process may take a while, you may want to consider a higher commission to incentivise your agent.
+
+Check your contract carefully to make sure you're clear on what's included in the fee.  You should look for things like photographs, listing on an online property portal, accompanied viewings and floor plans.  If these are not included, ask how much they will cost and factor this into your decision.
 
 ## Sole agency/muliple agency
 
-You can either instruct one agency to market your property, or you can put it on with several agencies at the same time.  I have noticed that sellers tend to go with multiple agencies if they want a quick sale, or they have been trying to sell their house for a long time and haven't been able to agree a sale.
+You can instruct one or more agencies to sell your property at the same time.  I have noticed that sellers tend to go with multiple agencies if they want a quick sale, or they have been trying to sell their house for a long time and haven't been able to agree a sale.
 
 The fees for multiple agency are higher than for sole agency.
 
@@ -98,10 +102,12 @@ If possible, sign the contract at your home.  This gives you a 14-day cooling-of
 
 ### Commission due upon exchange of contracts
 
-This is a standard clause.  Exchanging contracts with your buyer commits them to buying your house and they pay their deposit.  If, for any reason, they have to pull out, they lose their deposit to you and the agent gets their commission from that deposit.
+This is a common clause.  Exchanging contracts with your buyer commits them to buying your house and they pay their deposit.  If, for any reason, they have to pull out, they lose their deposit to you and the agent gets their commission from that deposit.  Check your contract to see whether it says you have to pay their fee on exchange, or simply become liable for it and hand over the money when you complete.
 
-I have successfully negotiated this out of agency contracts.  The agency will have spent some money on placing the property on Rightmove and conducting the viewings, but this won't have been in the thousands of pounds.  I take the view that if I pay them their commission and the sale falls through, there is little incentive for them to try to sell it again.
+I have successfully negotiated this out of agency contracts and changed them to say that the agent gets their commission upon completion, not exchange.  This is because my situation was uncomplicated, with no chain either end so very little chasing for the agent to progress the sale.  The agency will have spent some money on placing the property on Rightmove and conducting the viewings, but this won't have been in the thousands of pounds.  I take the view that if I pay them their commission and the sale falls through, there is little incentive for them to try to sell it again.
 
 ### "Ready, willing and able" buyer
 
 If you see this in a contract, either run a mile or make sure it's removed before you sign it.  This clause binds you to paying the estate agent's commission if they find you a ready, willing and able buyer.  Unfortunately, even if that buyer is really keen and has no chain there's nothing to say that their offer needs to be acceptable to you or that contracts need to be exchanged before you are liable for the agent's fee.  Although estate agents are legally allowed to include this phrase, the terms "ready", "willing" and "able" are open to interpretation.
+
+
