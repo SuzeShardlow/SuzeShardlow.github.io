@@ -1,8 +1,8 @@
 ---
-headline: What To Watch Out For When Picking An Estate Agent
+headline: 10 Things To Look Out For When Choosing An Estate Agent
 sub_headline: It's not in their interest to educate you about what their contract means.
 read_time: 9
-image: /images/blog/2020_09_21_what_to_look_out_for_when_picking_an_estate_agent/estate_agent.jpg
+image: /images/blog/2020_09_21_ten_things_to_look_out_for_when_choosing_an_estate_agent/estate_agent.jpg
 category: Adulting
 comments: true
 permalink: /blog/:title/
