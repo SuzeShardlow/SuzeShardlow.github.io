@@ -5,6 +5,7 @@ read_time: 9
 image: /images/blog/2020_09_21_what_to_look_out_for_when_picking_an_estate_agent/estate_agent.jpg
 category: Adulting
 comments: true
+permalink: /blog/:title/
 ---
 
 Selling a house for the first time can be daunting.  It's totally different from the buying process, not least because you will likely employ an estate agent.
