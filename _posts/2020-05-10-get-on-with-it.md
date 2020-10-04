@@ -19,7 +19,7 @@ We figured that if nobody else turned up, we'd lost nothing except £15 on a [Zo
 
 ## Methodology
 
-_**We run Ladies Of Code London on a completely voluntary basis and work hard to create and deliver innovative events for our members.**  If you would like to run your own **GOWI-inspired event** using **our ideas** or **parts of our format**, please ensure you include **proper attribution** in your promotional material, including a link to this blog post [(https://suze.dev/blog/2020/05/10/get-on-with-it/)](https://suze.dev/blog/2020/05/10/get-on-with-it/) to make it clear **where the ideas originated**_.
+_**We run Ladies Of Code London on a completely voluntary basis and work hard to create and deliver innovative events for our members.**  If you would like to run your own **GOWI-inspired event** using **our ideas** or **parts of our format**, please ensure you include **proper attribution** in your promotional material, including a link to this blog post [(https://suze.dev/blog/get-on-with-it/)](https://suze.dev/blog/get-on-with-it/) to make it clear **where the ideas originated**_.
 
 In my mind, for Get On With It (GOWI) to be **successful**, there were a few **essential ingredients**:
 
@@ -176,7 +176,7 @@ Some people just needed help taking the **first step** to achieving their goals.
 
 ---
 
-**We run Ladies Of Code London on a completely voluntary basis and work hard to create and deliver innovative events for our members.**  If you would like to run your own **GOWI-inspired event** using **our ideas** or **parts of our format**, please ensure you include **proper attribution** in your promotional material, including a link to this blog post [(https://suze.dev/blog/2020/05/10/get-on-with-it/)](https://suze.dev/blog/2020/05/10/get-on-with-it/) to make it clear **where the ideas originated**.
+**We run Ladies Of Code London on a completely voluntary basis and work hard to create and deliver innovative events for our members.**  If you would like to run your own **GOWI-inspired event** using **our ideas** or **parts of our format**, please ensure you include **proper attribution** in your promotional material, including a link to this blog post [(https://suze.dev/blog/get-on-with-it/)](https://suze.dev/blog/get-on-with-it/) to make it clear **where the ideas originated**.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Video walkthrough of <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> project I made with <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> and arcade button from <a href="https://twitter.com/adafruit?ref_src=twsrc%5Etfw">@adafruit</a> as part of <a href="https://twitter.com/ladiesofcodeLDN?ref_src=twsrc%5Etfw">@ladiesofcodeLDN</a> <a href="https://twitter.com/hashtag/getitdone?src=hash&amp;ref_src=twsrc%5Etfw">#getitdone</a> session today. Thanks <a href="https://twitter.com/SarahNUsher?ref_src=twsrc%5Etfw">@SarahNUsher</a> <a href="https://twitter.com/Shilaghae?ref_src=twsrc%5Etfw">@Shilaghae</a> <a href="https://twitter.com/SuzeShardlow?ref_src=twsrc%5Etfw">@SuzeShardlow</a> for organizing <a href="https://twitter.com/hashtag/iot?src=hash&amp;ref_src=twsrc%5Etfw">#iot</a> <a href="https://t.co/m04bnqCPfG">https://t.co/m04bnqCPfG</a></p>&mdash; Simon Prickett 🇪🇺 (@simon_prickett) <a href="https://twitter.com/simon_prickett/status/1254615660698587138?ref_src=twsrc%5Etfw">April 27, 2020</a></blockquote>
 
