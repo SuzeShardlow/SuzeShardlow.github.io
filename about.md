@@ -22,6 +22,6 @@ I also love to bake and sing.  Here's one of my favourite karaoke songs:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6ul-cZyuYq4" allowfullscreen></iframe>
 </div><br/>
 
-I'm an active volunteer and currently hold leadership roles at [Women Who Code: London](https://www.womenwhocode.com/london), [Ladies Of Code: London](https://www.ladiesofcode.com) and [The Scout Association](https://www.scouts.org.uk).
+I'm an active volunteer and currently hold leadership roles at [Ladies Of Code London](https://www.ladiesofcode.com) and [The Scout Association](https://www.scouts.org.uk).
 
 The photo is of me standing underneath 100ft of bunting I sewed for my best friend's wedding.
