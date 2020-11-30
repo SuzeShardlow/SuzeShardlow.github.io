@@ -11,7 +11,7 @@ collections:
     output: true
   public_speaking:
     output: false
-  today_i_learnt:
+  today_i_learned:
     output: true
 
 defaults:
