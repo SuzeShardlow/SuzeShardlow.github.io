@@ -11,6 +11,8 @@ collections:
     output: true
   public_speaking:
     output: false
+  today_i_learnt:
+    output: true
 
 defaults:
   - scope:
