@@ -11,7 +11,7 @@ collections:
     output: true
   public_speaking:
     output: false
-  today_i_learned:
+  til:
     output: true
 
 defaults:
@@ -28,6 +28,11 @@ defaults:
       type: "coding_projects"
     values:
       layout: "coding_project"
+  - scope:
+      path: ""
+      type: "til"
+    values:
+      layout: "post"
   - scope:
       path: ""
     values:
