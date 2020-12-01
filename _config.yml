@@ -12,6 +12,7 @@ collections:
   public_speaking:
     output: false
   til:
+    permalink: /til/:title/
     output: true
 
 defaults:
