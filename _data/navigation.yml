@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: Who I Am
+- name: About Me
   link: /about
 - name: What I've Coded
   link: /coding_projects
