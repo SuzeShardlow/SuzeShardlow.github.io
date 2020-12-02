@@ -35,8 +35,7 @@
               {% when '3' or '23' %}{{ day }}rd
               {% else %}{{ day }}th
               {% endcase %}
-              {{ post.date | date: " %B %Y" }} •
-              {{ post.read_time }}-minute read
+              {{ post.date | date: " %B %Y" }}
             </h4>
           </div>
           {% endfor %}
