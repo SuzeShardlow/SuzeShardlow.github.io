@@ -62,5 +62,5 @@ The four women who came all the way through the series **started with nothing**.
 Here's the **video** of the **showcase event** we held four weeks after that first workshop session, where they delivered their finished talks.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KGG3PXYwKIE" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-KGG3PXYwKIE" allowfullscreen></iframe>
 </div><br/>

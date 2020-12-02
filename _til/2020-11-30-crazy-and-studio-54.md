@@ -11,7 +11,7 @@ Today I learned about...
 ### *Crazy*
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/N4jf6rtyuw" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-N4jf6rtyuw" allowfullscreen></iframe>
 </div><br/>
 
 
@@ -29,7 +29,7 @@ I was watching [The Noughties](https://www.bbc.co.uk/iplayer/episode/m000pypw/th
 
 ### Studio 54 
 
-* The 1970s NYC nightclub didn't have an alcohol licence at first, so they obtained daily licences using a catering business, the Broadway Catering Company, as a front.
+* The 1970s NYC nightclub didn't have an alcohol licence at first, so they obtained daily licences using a catering business, the Broadway Catering Corp, as a front.
 
 #### How:
 
