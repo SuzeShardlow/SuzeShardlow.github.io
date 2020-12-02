@@ -2,7 +2,7 @@
   link: /
 - name: About Me
   link: /about
-- name: What I've Coded
+- name: Coding Projects
   link: /coding_projects
   sub: yes
 - name: What I Think
