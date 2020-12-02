@@ -18,7 +18,7 @@
         <span class="image main"><img src="{{ page.image }}"></span>
         <div class="row">
           {% for post in site.posts %}
-          <div class="col-4 col-12-medium">
+          <div class="col-3 col-12-medium">
             <a href="{{ post.url }}">
               <span class="image fit">
                 <div class="zoombox">
@@ -38,7 +38,6 @@
               {{ post.date | date: " %B %Y" }} •
               {{ post.read_time }}-minute read
             </h4>
-            {{ post.excerpt }}
           </div>
           {% endfor %}
         </div>
