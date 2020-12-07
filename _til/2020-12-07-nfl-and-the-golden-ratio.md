@@ -18,3 +18,5 @@ Today I learned about...
 
 
 ### The Golden Ratio
+
+https://www.mathsisfun.com/numbers/golden-ratio.html
