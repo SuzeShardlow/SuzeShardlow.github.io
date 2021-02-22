@@ -1,8 +1,8 @@
 ---
-title: Get into... Product Management 
+title: Get into... Data Engineering 
 date: June 2020
 event_name: "Ladies Of Code London: Get Into... Series"
-event_link: https://www.meetup.com/Ladies-of-Code-UK/events/270546411/
+event_link: https://www.meetup.com/Ladies-of-Code-UK/events/270546430/
 venue: Webinar recorded in London, United Kingdom
 image: [ /images/public_speaking/2020_06_02_get_into_product_management/get_into_prodmgmt.jpg ]
 category: Speaking
@@ -20,17 +20,17 @@ I source the interviewees, write all my own questions and include two speed roun
 
 The interviews are conducted on Zoom in front of a live audience who can send their questions in via the chat function.  I select some of these questions to weave into the interview.
 
-For Get Into... Product Management, I approached Head of Consumer Product at Gousto, Melanie McKay, because she has worked in Product Management at a variety of organisations in the public and private sectors over the past 15 years.  She now leads product management at the UK's largest real estate and property website.
+For Get Into... Data Engineering, I interviewed Sarah Usher and Valentina Romeo.
 
 Topics we covered included:
 
-* How to get into technical product management from outside the tech industry
-* The tools that product managers use
-* Common misconceptions about product management
-* What Melanie's second-favourite website is...
+* The relationship between data engineering and other teams in the business
+* How data engineering differs from data analysis, machine learning engineering and data science
+* What sort of portfolio a budding data engineer should have
+* What their favourite takeaways are...
 
-We record the interviews and post them on YouTube after the event.  You can watch Get Into... Product Management below:
+We record the interviews and post them on YouTube after the event.  You can watch Get Into... Data Engineering below:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yNUHIFwhB5A" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mHx20M7Y6do" allowfullscreen></iframe>
 </div><br/>
