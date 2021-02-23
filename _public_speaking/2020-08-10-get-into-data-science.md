@@ -4,7 +4,7 @@ date: June 2020
 event_name: "Ladies Of Code London: Get Into... Series"
 event_link: https://www.meetup.com/Ladies-of-Code-UK/events/272187631/
 venue: Webinar recorded in London, United Kingdom
-image: [ /images/public_speaking/2020_06_02_get_into_product_management/get_into_prodmgmt.jpg ]
+image: [ /images/public_speaking/2020_08_10_get_into_data_science/get_into_data_science.jpg ]
 category: Speaking
 role: Meetup
 format: [ Interview, Webinar ]
