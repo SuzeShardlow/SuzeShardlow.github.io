@@ -29,8 +29,8 @@ Topics we covered included:
 * Common misconceptions about product management
 * What Melanie's second-favourite website is...
 
-We record the interviews and post them on YouTube after the event.  You can watch Get Into... Product Management below:
+We record the interviews and post them on YouTube after the event.  You can watch Get Into... Data Science below:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yNUHIFwhB5A" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bJ2nkcRQ0Cc" allowfullscreen></iframe>
 </div><br/>
