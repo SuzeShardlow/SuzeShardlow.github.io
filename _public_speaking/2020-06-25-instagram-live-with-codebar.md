@@ -4,7 +4,7 @@ date: June 2020
 event_name: "Instagram Live with codebar"
 event_link: https://www.meetup.com/Ladies-of-Code-UK/events/271478515/
 venue: Webinar recorded in London, United Kingdom
-image: [ /images/public_speaking/2020_06_17_get_into_data_engineering/get_into_dataeng.jpg ]
+image: [ /images/public_speaking/2020_06_25_instagram_live_with_codebar/insta_codebar.jpg ]
 category: Speaking
 role: Meetup
 format: [ Interview, Webinar ]
@@ -14,10 +14,8 @@ Our friends at codebar asked me to join them for an Instagram Live to talk about
 
 Topics we covered included:
 
+* What we do at Ladies of Code
 * Ladies of Code going 100% online
-* How data engineering differs from data analysis, machine learning engineering and data science
-* What sort of portfolio a budding data engineer should have
-* What their favourite takeaways are...
 
 You can watch the recording below:
 
