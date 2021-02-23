@@ -1,6 +1,6 @@
 ---
 title: Get into... Data Science 
-date: June 2020
+date: August 2020
 event_name: "Ladies Of Code London: Get Into... Series"
 event_link: https://www.meetup.com/Ladies-of-Code-UK/events/272187631/
 venue: Webinar recorded in London, United Kingdom
