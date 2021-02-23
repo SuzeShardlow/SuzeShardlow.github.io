@@ -20,14 +20,14 @@ I source the interviewees, write all my own questions and include two speed roun
 
 The interviews are conducted on Zoom in front of a live audience who can send their questions in via the chat function.  I select some of these questions to weave into the interview.
 
-For Get Into... Product Management, I approached Head of Consumer Product at Gousto, Melanie McKay, because she has worked in Product Management at a variety of organisations in the public and private sectors over the past 15 years.  She now leads product management at the UK's largest real estate and property website.
+For Get Into... Data Science, I interviewed Dr Eva M, who pivoted her career from ecology to data science.
 
 Topics we covered included:
 
-* How to get into technical product management from outside the tech industry
-* The tools that product managers use
-* Common misconceptions about product management
-* What Melanie's second-favourite website is...
+* The basic qualifications you need to become a data scientist
+* Which data science skills are most in demand at the moment
+* Which tools and languages she uses
+* Whether she accepts or rejects cookies...
 
 We record the interviews and post them on YouTube after the event.  You can watch Get Into... Data Science below:
 
