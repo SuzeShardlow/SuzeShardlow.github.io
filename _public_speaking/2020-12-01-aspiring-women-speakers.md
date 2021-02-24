@@ -10,13 +10,16 @@ role: Interview
 format: [ Webinar ]
 ---
 
-I am a Chapter Lead at Ladies Of Code London.  When COVID-19 reached the UK and forced us 100% online, we had to look at our plans and decide whether to mothball them or convert them to something we could deliver over Zoom.
+The Aspiring Women Speakers group asked me to take part in a Q&A to help people who want to get into public speaking.
 
-Get Heard was a four-week public speaking workshop series we ran in July 2020.  It culminated in a short talks showcase evening for the four "graduates".  You can read about our methodology in my [blog post](/blog/2020/how-to-create-a-tech-talk-in-four-weeks).
+In this round table, I talk about:
 
-I MCd the event, using my own script.
+- What 2020 was like for me
+- How I got into public speaking
+- The [public speaking workshops](/blog/2020/how-to-create-a-tech-talk-in-four-weeks) I ran for Ladies of Code London
+- What to leave your audience with
 
-You can watch the Get Heard short talks showcase event below:
+You can watch the interview below:
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rgeVhLwQMMw?start=109" allowfullscreen></iframe>
