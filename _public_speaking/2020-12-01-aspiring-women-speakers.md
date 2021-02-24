@@ -1,12 +1,12 @@
 ---
-title: "Get Heard: Summer Short Talks"
-date: August 2020
-event_name: "Ladies Of Code London: Get Heard Public Speaking Workshop Series"
-event_link: https://www.meetup.com/Ladies-of-Code-UK/events/272472641/
+title: Aspiring Women Speakers
+date: December 2020
+event_name: Aspiring Women Speakers Q&A With Suze Shardlow
+event_link: https://www.eventbrite.co.uk/e/rw-aspiring-women-speakers-qa-with-suze-shardlow-registration-130241236043
 venue: Webinar recorded in London, United Kingdom
-image: [ /images/public_speaking/2020_08_17_get_heard/get_heard_2020.jpg ]
+image: [ /images/public_speaking/2020_12_01_aspiring_women_speakers/aspiring_women_speakers.jpg ]
 category: Speaking
-role: Meetup
+role: Interview
 format: [ Webinar ]
 ---
 
@@ -19,5 +19,5 @@ I MCd the event, using my own script.
 You can watch the Get Heard short talks showcase event below:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KGG3PXYwKIE" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rgeVhLwQMMw?start=109" allowfullscreen></iframe>
 </div><br/>
