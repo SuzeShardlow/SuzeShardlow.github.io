@@ -1,8 +1,8 @@
 ---
-title: Global Diversity CFP Day 2021
-date: February 2021
-event_name: "Global Diversity CFP Day 2021: Europe Live Stream"
-event_link: https://www.globaldiversitycfpday.com/continents/europe
+title: "Get It Done: The Power Of Co-working"
+date: January 2021
+event_name: You Got This From Your Couch
+event_link: https://couch.yougotthis.io/
 venue: Global conference recorded in London, United Kingdom
 image: [ /images/public_speaking/2021_02_20_gdcfp_day/gdcfpday.jpg ]
 category: Speaking
