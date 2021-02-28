@@ -12,7 +12,7 @@ format: [ Conference ]
 
 You Got This is a conference focusing on core skills needed for a happy, healthy work life.
 
-When the UK first went into COVID lockdown in March 2020, I took all my community events online.  One of the events we introduced was a weekly co-working session called Get On With It.  I have written about my Get On With It methodology in my [blog](/blog/get_on_with_it).
+When the UK first went into COVID lockdown in March 2020, I took all my community events online.  One of the events we introduced was a weekly co-working session called Get On With It.  I have written about my Get On With It methodology in my [blog](/blog/get-on-with-it).
 
 This talk discusses:
 
