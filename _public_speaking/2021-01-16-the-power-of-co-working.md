@@ -10,7 +10,15 @@ role: Meetup
 format: [ Conference ]
 ---
 
+You Got This is a conference focusing on core skills needed for a happy, healthy work life.
 
+When the UK first went into COVID lockdown in March 2020, I took all my community events online.  One of the events we introduced was a weekly co-working session called Get On With It.  I have written about my Get On With It methodology in my [blog](/blog/get_on_with_it).
 
+This talk discusses:
+
+- How to allocate time to projects you need to get done
+- The benefits of co-working
+- How to use co-working as a productivity tool
+- How to set up and run your own co-working sessions using my framework which has since been adopted in the USA
 
 [Watch the talk.](https://yougotthis.io/talks/the-power-of-co-working/)
