@@ -1,8 +1,8 @@
 ---
 layout: sketchnote
-name: Blogging Is For Everyone
-sub_headline: Sketchnote of a talk by Ana Rodrigues
-image: /images/sketchnotes/2019_05_21_blogging_is_for_everyone.jpg
+name: The British Museum
+sub_headline: Sketchnote of a virtual tour around The British Museum
+image: /images/sketchnotes/2020_05_02_the_british_museum.jpg
 comments: true
 ---
 
