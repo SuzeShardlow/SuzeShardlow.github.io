@@ -1,10 +1,8 @@
 ---
-layout: coding_project
-name: suze.dev
-sub_headline: A personal portfolio site built using Jekyll and GitHub Pages.
-github: SuzeShardlow.github.io
-live_app:
-image: /images/coding_projects/personal_website/suze_dev_on_macbook.jpg
+layout: sketchnotes
+name: Blogging Is For Everyone
+sub_headline: Sketchnote of a talk by Ana Rodrigues.
+image: /images/sketchnotes/2019_05_21_blogging_is_for_everyone.jpg
 comments: true
 ---
 
