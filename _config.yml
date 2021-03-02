@@ -30,6 +30,11 @@ defaults:
       layout: "coding_project"
   - scope:
       path: ""
+      type: "sketchnotes"
+    values:
+      layout: "sketchnote"
+  - scope:
+      path: ""
     values:
       layout: "default"
 
