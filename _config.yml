@@ -12,6 +12,7 @@ collections:
   public_speaking:
     output: false
   sketchnotes:
+    permalink: /sketchnotes/:title/
     output: true
 
 defaults:
