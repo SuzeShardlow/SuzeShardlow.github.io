@@ -11,6 +11,8 @@ collections:
     output: true
   public_speaking:
     output: false
+  sketchnotes:
+    output: true
 
 defaults:
   - scope:
