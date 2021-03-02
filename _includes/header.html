@@ -1,5 +1,8 @@
 <header id="header">
-  {% if page.url contains "blog" %}
+  {% if page.url contains "/about/" %}
+  <a href="/about" class="logo"><strong>About</strong> Suze Shardlow</a>
+
+  {% elsif page.url contains "blog" %}
   <a href="/blog" class="logo"><strong>Blog posts</strong> by Suze Shardlow</a>
   
   {% elsif page.url contains "public_speaking" %}
