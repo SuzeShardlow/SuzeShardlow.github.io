@@ -1,8 +1,8 @@
 ---
 layout: sketchnote
-name: Blogging Is For Everyone
-sub_headline: Sketchnote of a talk by Ana Rodrigues
-image: /images/sketchnotes/2019_05_21_blogging_is_for_everyone.jpg
+name: Navigating Legacy Code
+sub_headline: Sketchnote of a talk by Kavita Kalaichelvan
+image: /images/sketchnotes/2019_05_21_navigating_legacy_code.jpg
 comments: true
 ---
 
