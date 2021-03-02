@@ -1,5 +1,5 @@
 ---
-layout: sketchnotes
+layout: sketchnote
 name: Blogging Is For Everyone
 sub_headline: Sketchnote of a talk by Ana Rodrigues.
 image: /images/sketchnotes/2019_05_21_blogging_is_for_everyone.jpg
