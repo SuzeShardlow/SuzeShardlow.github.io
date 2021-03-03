@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+
+{% include head_tag.html %}
+
+<body>
+  <div id="wrapper">
+    <div id="main">
+      <div class="inner">
+        {% include header.html %}
+        <section id="banner">
+          <div class="content">
+            <header class="main">
+              <h1>{{ page.headline }}</h1>
+              <p>{{ page.sub_headline }}</p>
+            </header>
+        </section>
+        <!-- <span class="image main"><img src="{{ page.image }}"></span> -->
+        <div class="row">
+          {% for sketchnote in site.sketchnotes %}
+          <div class="col-6 col-12-medium">
+            <a href="{{ sketchnote.url }}">
+              <span class="image fit">
+                <div class="zoombox">
+                  <img src="{{ sketchnote.image }}" class="zoomimg">
+                </div>
+              </span>
+              <div>
+                <h3 class="learn-header">{{ sketchnote.name }}
+            </a></h3>
+            <div class="align-right learn-more">
+              <a href="{{ sketchnote.url }}" class="button small align-right">Learn More</a>
+            </div>
+          </div>
+          <p>{{ app.sub_headline }}</p>
+        </div>
+        {% endfor %}
+      </div>
+      {{ content }}
+    </div>
+  </div>
+  {% include navigation.html %}
+  </div>
+
+  {% include script_tag.html %}
+
+</body>
+
+</html>

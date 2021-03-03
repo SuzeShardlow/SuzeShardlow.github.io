@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+
+{% include head_tag.html %}
+
+<body class="is-preload">
+  <div id="wrapper">
+    <div id="main">
+      <div class="inner">
+        {% include header.html %}
+        <section id="banner">
+          <div class="content">
+            <header class="main">
+              <h1>{{ page.name }}</h1>
+              <h2>{{ page.sub_headline }}</h2>
+
+            </header>
+        </section>
+        <span class="image main"><img src="{{ page.image }}"></span>
+        <div class="blogpost">
+          {{ content }}
+        </div>
+
+        {% include social_sharer.html bottom=true %}
+
+        <hr />
+        
+        {% if page.comments %}
+
+        {% include disqus.html %}
+
+        {% endif %}
+
+      </div>
+    </div>
+    {% include navigation.html %}
+  </div>
+
+  {% include script_tag.html %}
+
+</body>
+
+</html>
