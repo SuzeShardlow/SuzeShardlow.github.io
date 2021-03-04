@@ -2,6 +2,8 @@ url: https://suze.dev
 
 name: suze.dev
 
+description: Suze Shardlow's personal website.
+
 permalink: pretty
 
 collections:
@@ -43,6 +45,7 @@ defaults:
 plugins: 
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
 
 # SEO Plugin
 twitter:
