@@ -22,12 +22,12 @@
 
         </section>
         <span class="image main"><img src="{{ page.image }}"></span>
-        <div class="blogpost">
+        <article class="blogpost">
           {{ content }}
-        </div>
+        </article>
 
         {% include social_sharer.html bottom=true %}
-
+        
         <hr />
 
         {% if page.comments %}
@@ -43,6 +43,7 @@
   </div>
 
   {% include script_tag.html %}
+</div>
 
 </body>
 
