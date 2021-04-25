@@ -1,8 +1,8 @@
 ---
 title: codebar Festival
 date: March 2021
-event_name: "codebar Festival"
-event_link: https://www.globaldiversitycfpday.com/continents/europe
+event_name: "codebar Festival: How To Land Your First Developer Job Panel"
+event_link: https://codebar.io/events/codebar-festival-2021-day-2
 venue: Global online conference
 image: [ /images/public_speaking/codebar/2021_03_13_codebar_festival/codebar_festival.jpg ]
 category: Speaking
@@ -10,20 +10,18 @@ role: Meetup
 format: [ Conference ]
 ---
 
-The Global Diversity CFP Day (GDCFP Day) team approached me to ask if I would be Europe Lead for their first online event.
+codebar Festival was a three-day online conference.  The organisers approached me to moderate an hour-long live panel discussion on How To Your First Developer Job.
 
-GDCFP Day takes place at the beginning of every year.  It usually takes the form of in-person workshops in 80+ cities worldwide (see my [blog post](/blog/so-you-want-to-speak-at-a-tech-conference/)), however, for COVID reasons that was not possible this year.
+As moderator, I:
 
-Instead, GDCFP Day consisted of six live streams from different continents across the world, which all took place from 9am local time on Saturday 20th February.
+* Researched the five panellists' career history.
+* Prepared appropriate questions, based on my industry knowledge and research, to find out their experiences of getting their first developer job.
+* Ensured each panellist had an equal amount of airtime.
+* Fielded questions from the live audience and wove them into the discussion.
+* Ensured the session started and finished on time.
 
-The European stream was six hours long.
+You can watch the panel discussion below:
 
-As Europe Lead, I:
-
-- Curated content suitable for aspiring tech conference speakers.
-- Sourced fellow Europe-based experienced conference speakers to deliver the content.
-- Designed the schedule for the six-hour event.
-- MCd the entire event, ensuring it kept to the schedule.
-- Facilitated one 1:1 fireside chat and two fireside panel discussions.
-
-The video will be available soon.
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-xpPg6TPgK0" allowfullscreen></iframe>
+</div><br/>
