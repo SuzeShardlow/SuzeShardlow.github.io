@@ -1,29 +1,24 @@
 ---
-title: Global Diversity CFP Day 2021
-date: February 2021
-event_name: "Global Diversity CFP Day 2021: Europe Live Stream"
-event_link: https://www.globaldiversitycfpday.com/continents/europe
+title: "Get It Done: The Power Of Co-working"
+date: March 2021
+event_name: TECH(K)NOW Day
+event_link: https://www.techknowday.com/
 venue: Global conference recorded in London, United Kingdom
-image: [ /images/public_speaking/2021_02_20_gdcfp_day/gdcfpday.jpg ]
+image: [ /images/public_speaking/2021_03_13_the_power_of_co-working/co-working_techknowday.jpg ]
 category: Speaking
 role: Meetup
 format: [ Conference ]
 ---
 
-The Global Diversity CFP Day (GDCFP Day) team approached me to ask if I would be Europe Lead for their first online event.
+TECH(K)NOW Day is a twice-yearly women in tech conference, held around International Women's Day (March) and Ada Lovelace Day (October).
 
-GDCFP Day takes place at the beginning of every year.  It usually takes the form of in-person workshops in 80+ cities worldwide (see my [blog post](/blog/so-you-want-to-speak-at-a-tech-conference/)), however, for COVID reasons that was not possible this year.
+When the UK first went into COVID lockdown in March 2020, I took all my community events online.  One of the events we introduced was a weekly co-working session called Get On With It.  I have written about my Get On With It methodology in my [blog](/blog/get-on-with-it).
 
-Instead, GDCFP Day consisted of six live streams from different continents across the world, which all took place from 9am local time on Saturday 20th February.
+This talk discusses:
 
-The European stream was six hours long.
+- How to allocate time to projects you need to get done
+- The benefits of co-working
+- How to use co-working as a productivity tool
+- How to set up and run your own co-working sessions using my framework which has since been adopted in the USA
 
-As Europe Lead, I:
-
-- Curated content suitable for aspiring tech conference speakers.
-- Sourced fellow Europe-based experienced conference speakers to deliver the content.
-- Designed the schedule for the six-hour event.
-- MCd the entire event, ensuring it kept to the schedule.
-- Facilitated one 1:1 fireside chat and two fireside panel discussions.
-
-The video will be available soon.
+[Watch the talk.](https://yougotthis.io/talks/the-power-of-co-working/)
