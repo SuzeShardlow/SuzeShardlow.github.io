@@ -21,4 +21,4 @@ This talk discusses:
 - How to use co-working as a productivity tool
 - How to set up and run your own co-working sessions using my framework which has since been adopted in the USA
 
-[Watch the talk.](https://yougotthis.io/talks/the-power-of-co-working/)
+[Watch the talk.](https://www.youtube.com/watch?v=UzLX_hkhwQY)
