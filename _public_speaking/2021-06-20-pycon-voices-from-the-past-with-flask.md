@@ -4,7 +4,7 @@ date: June 2021
 event_name: PyCon Colombia
 event_link: https://2021.pycon.co/en/talks/14/
 venue: Global conference recorded in London, United Kingdom
-image: [ /images/public_speaking/2021_03_13_the_power_of_co-working/co-working_techknowday.jpg ]
+image: [ /images/public_speaking/2021_06_20_pycon_voices_from_the_past_with_flask/pycon_colombia_speaker_card.jpeg ]
 category: Speaking
 role: Meetup
 format: [ Conference ]
