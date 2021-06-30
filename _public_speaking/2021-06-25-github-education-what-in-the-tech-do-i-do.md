@@ -10,7 +10,6 @@ role: Meetup
 format: [ Conference ]
 ---
 
-
 I was approached to take part in this GitHub Education Twitch show.  For each episode, they have a tech professional (on this occasion, me) and a student who is taking a non-computer science degree.
 
 We started off with two games of Hangman: one to reveal my profession and the other to reveal the student's degree title.
