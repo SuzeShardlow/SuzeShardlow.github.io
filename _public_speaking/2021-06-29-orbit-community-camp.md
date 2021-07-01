@@ -1,5 +1,5 @@
 ---
-title: "What will developer events look like in 2021 and beyond?"
+title: "What Will Developer Events Look Like In 2021 and Beyond?"
 date: June 2021
 event_name: Community Camp by Orbit
 event_link: https://orbit.love/community-camp
