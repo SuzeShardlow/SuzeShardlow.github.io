@@ -4,7 +4,7 @@ date: June 2021
 event_name: Community Camp by Orbit
 event_link: https://orbit.love/community-camp
 venue: Global online event recorded in London, United Kingdom
-image: [ /images/public_speaking/2021_06_20_pycon_voices_from_the_past_with_flask/pycon_colombia_speaker_card.jpeg ]
+image: [ /images/public_speaking/2021_06_29_community_camp/community_camp_speaker_card.jpeg ]
 category: Speaking
 role: Meetup
 format: [ Conference ]
