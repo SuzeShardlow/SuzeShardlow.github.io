@@ -10,8 +10,9 @@ role: Meetup
 format: [ Conference ]
 ---
 
+Orbit asked me to speak at a panel as part of their Community Camp festival.
 
-
+At the time, I had delivered more than 100 online tech events (for a total of over 250 hours) during COVID, so I was invited to speak about the future of developer events as the pandemic progresses.
 
 Watch the recording here:
 
