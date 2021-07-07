@@ -13,9 +13,13 @@ format: [ Conference ]
 
 
 
-
-
-
 Watch the recording here:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://player.twitch.tv/?video=1071333159?t=00h07m41s&parent=suze.dev&autoplay=false" allowfullscreen></iframe>
+</div>
+
+
+
 
 https://www.twitch.tv/videos/1071333159?t=00h07m41s
