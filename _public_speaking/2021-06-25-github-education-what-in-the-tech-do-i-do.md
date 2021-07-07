@@ -21,3 +21,18 @@ Finally, we played a game where we had to give one-word clues so the others coul
 It was a lot of fun and the audience was ace!  My first time on Twitch.
 
 Watch the episode here:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://player.twitch.tv/videos/1067215594" allowfullscreen></iframe>
+
+<!-- <iframe src="https://player.twitch.tv/?video=1067215594&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+
+?t=00h05m00s
+
+https://www.twitch.tv/videos/1067215594
+
+ -->
+
+
+
+</div><br/>
