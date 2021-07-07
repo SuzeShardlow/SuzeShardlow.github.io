@@ -23,5 +23,5 @@ It was a lot of fun and the audience was ace!  My first time on Twitch.
 Watch the episode here:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe src="https://player.twitch.tv/?video=1067215594&t=00h05m00s&parent=suze.dev" allowfullscreen></iframe>
+  <iframe src="https://player.twitch.tv/?video=1067215594&time=00h05m00s&parent=suze.dev&autoplay=false" allowfullscreen></iframe>
 </div>
