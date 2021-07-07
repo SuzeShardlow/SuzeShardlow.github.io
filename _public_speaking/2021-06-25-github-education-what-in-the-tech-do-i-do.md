@@ -22,11 +22,6 @@ It was a lot of fun and the audience was ace!  My first time on Twitch.
 
 Watch the episode here:
 
-<!-- height="378" width="620" frameborder="0" ="true" scrolling="no"
-  allowfullscreen></iframe>
-  </div><br/> -->
-
-
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://player.twitch.tv/?video=1067215594&t=00h05m00s&parent=suze.dev" allowfullscreen></iframe>
 </div>
