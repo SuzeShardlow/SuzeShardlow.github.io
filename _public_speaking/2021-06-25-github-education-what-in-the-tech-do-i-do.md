@@ -26,4 +26,4 @@ Watch the episode here:
   <iframe class="embed-responsive-item" src="https://player.twitch.tv/videos/1067215594" allowfullscreen></iframe>
   </div><br/> -->
 
-<iframe src="https://www.twitch.tv/videos/1067215594&t=00h05m00s&parent=www.suze.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/videos/1067215594&t=00h05m00s&parent=www.suze.dev" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
