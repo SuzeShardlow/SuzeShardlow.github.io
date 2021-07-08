@@ -10,7 +10,7 @@ role: Conference
 format: Talk
 ---
 
-This is a long version of my first tech talk, the original lightning version of which has had over 6400 views on YouTube.  You can watch the lightning version below.
+This is a long version of my first tech talk, the original lightning version of which has had over 7200 views on YouTube.  You can watch the lightning version below.
 
 People had come to this conference from all over the world, so I adapted the content and terminology for an international audience.  I also went into more detail in the section on the bootcamp experience.
 
