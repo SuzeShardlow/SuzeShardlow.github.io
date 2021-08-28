@@ -17,5 +17,5 @@ At the time, I had delivered more than 100 online tech events (for a total of ov
 Watch the recording here:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe src="https://player.twitch.tv/?video=1071333159&t=00h07m41s&parent=suze.dev&autoplay=false" allowfullscreen></iframe>
-</div>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EX13-eAzgB4" allowfullscreen></iframe>
+</div><br/>
