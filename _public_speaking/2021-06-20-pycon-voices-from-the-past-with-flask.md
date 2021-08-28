@@ -27,3 +27,9 @@ Having attended this talk, the audience should be able to:
 + Describe the architecture of a chatbot web application
 + Set up a basic Flask application
 + Be empowered to further research new ways of bringing existing data sets to life
+
+Watch the talk here:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w4J_Wa46cMA" allowfullscreen></iframe>
+</div><br/>
