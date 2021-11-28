@@ -3,7 +3,7 @@ title: "Fireside Chat: Calls For Proposals"
 date: August 2021
 event_name: Event Handler Monthly Fireside Chat
 event_link: https://eventhandler.community/
-venue: Global online event recorded in London, United Kingdom
+venue: Member-only online event recorded in London, United Kingdom
 image: [ ]
 category: Speaking
 role: Meetup
