@@ -1,13 +1,13 @@
 ---
-title: "What Will Developer Events Look Like In 2021 and Beyond?"
-date: June 2021
-event_name: Community Camp by Orbit
-event_link: https://orbit.love/community-camp
+title: "Fireside Chat: Calls For Proposals"
+date: August 2021
+event_name: Event Handler Monthly Fireside Chat
+event_link: https://eventhandler.community/
 venue: Global online event recorded in London, United Kingdom
-image: [ /images/public_speaking/2021_06_29_community_camp/community_camp_speaker_card.jpeg ]
+image: [ ]
 category: Speaking
 role: Meetup
-format: [ Conference ]
+format: [ Fireside ]
 ---
 
 Orbit asked me to speak at a panel as part of their Community Camp festival.
