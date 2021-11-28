@@ -4,7 +4,7 @@ date: November 2021
 event_name: DevRelCon 2021
 event_link: https://2021.devrel.net/
 venue: Global online event recorded in London, United Kingdom
-image: [ /images/public_speaking/2021_06_29_community_camp/community_camp_speaker_card.jpeg ]
+image: [ /images/public_speaking/2021_11_10_devrelcon/devrelcon_talk_speaker_card.jpeg, /images/public_speaking/2021_11_10_devrelcon/devrelcon_panel_speaker_card.jpeg ]
 category: Speaking
 role: Conference
 format: [ Conference ]
@@ -18,7 +18,7 @@ My talk covered:
 
 * What marketing is
 * What marketing is not (it isn't just about advertising and publicity)
-The AIDA (attention/awareness, interest, desire, action) marketing model
+* The AIDA (attention/awareness, interest, desire, action) marketing model
 * The 7 Ps of marketing (product, price, place, promotion, people, process, physical evidence)
 * Practical, actionable ways in which devrel professionals can combine AIDA with the marketing 7 Ps to engage with developers in a meaningful way without selling or marketing to them
 
