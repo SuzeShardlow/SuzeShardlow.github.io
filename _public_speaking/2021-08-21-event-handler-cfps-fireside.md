@@ -10,12 +10,15 @@ role: Meetup
 format: [ Fireside ]
 ---
 
-Orbit asked me to speak at a panel as part of their Community Camp festival.
+I am a resident expert at Event Handler, a Discord community for developer event organisers.
 
-At the time, I had delivered more than 100 online tech events (for a total of over 250 hours) during COVID, so I was invited to speak about the future of developer events as the pandemic progresses.
+Kevin Lewis, the founder, asked me to join him for a fireside chat about Calls For Proposals.
 
-Watch the recording here:
+We covered:
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EX13-eAzgB4" allowfullscreen></iframe>
-</div><br/>
+* What CFPs are
+* When to run a CFP
+* How to run a CFP and how to choose talks
+* CFP platforms
+* Understanding speaker motivations
+* How to communicated the results
