@@ -22,4 +22,8 @@ My talk covered:
 * The 7 Ps of marketing (product, price, place, promotion, people, process, physical evidence)
 * Practical, actionable ways in which devrel professionals can combine AIDA with the marketing 7 Ps to engage with developers in a meaningful way without selling or marketing to them
 
-The recording of this talk is coming soon.
+Watch the recording here:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Qp3V4eHpV6Y" allowfullscreen></iframe>
+</div><br/>
