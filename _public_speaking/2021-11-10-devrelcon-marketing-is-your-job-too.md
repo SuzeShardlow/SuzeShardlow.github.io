@@ -2,7 +2,7 @@
 title: "Marketing Is Your Job, Too"
 date: November 2021
 event_name: DevRelCon 2021
-event_link: https://2021.devrel.net/
+event_link: https://developerrelations.com/developer-marketing/marketing-is-your-job-too
 venue: Global online event recorded in London, United Kingdom
 image: [ /images/public_speaking/2021_11_10_devrelcon/devrelcon_talk_speaker_card.jpeg, /images/public_speaking/2021_11_10_devrelcon/devrelcon_panel_speaker_card.jpeg ]
 category: Speaking
