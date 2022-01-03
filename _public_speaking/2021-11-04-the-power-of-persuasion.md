@@ -4,7 +4,7 @@ date: November 2021
 event_name: "Women In Tech Nottingham"
 event_link: https://www.technottingham.com/events/wit-november-2021
 venue: Online event recorded in London, United Kingdom
-image: [ /images/public_speaking/codebar/2021_12_08_fighting_the_fear_of_public_speaking/fighting-the-fear-of-public-speaking.jpeg ]
+image: [ /images/public_speaking/2021_11_04_the_power_of_persuasion/wit_notts_the_power_of_persuasion_speaker_card.jpg ]
 category: Speaking
 role: Meetup
 format: [ Conference ]
