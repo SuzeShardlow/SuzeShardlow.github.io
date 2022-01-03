@@ -4,7 +4,7 @@ date: June 2020
 event_name: "Instagram Live with codebar"
 event_link: https://www.meetup.com/Ladies-of-Code-UK/events/271478515/
 venue: Webinar recorded in London, United Kingdom
-image: [ /images/public_speaking/2020_06_25_instagram_live_with_codebar/insta_codebar.jpg ]
+image: [ /images/public_speaking/codebar/2020_06_25_instagram_live_with_codebar/insta_codebar.jpg ]
 category: Speaking
 role: Meetup
 format: [ Interview, Webinar ]
