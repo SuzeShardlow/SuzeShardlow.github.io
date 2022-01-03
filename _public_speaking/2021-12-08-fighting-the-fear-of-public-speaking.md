@@ -4,7 +4,7 @@ date: December 2021
 event_name: "codebar Talks: Demystifying Public Speaking"
 event_link: https://codebar.io/events/demystifying-public-speaking-2021
 venue: Global online event recorded in London, United Kingdom
-image: [ /images/public_speaking/2021_11_10_devrelcon/devrelcon_talk_speaker_card.jpeg, /images/public_speaking/2021_11_10_devrelcon/devrelcon_panel_speaker_card.jpeg ]
+image: [ /images/public_speaking/codebar/2021_12_08_fighting_the_fear_of_public_speaking/fighting-the-fear-of-public-speaking.jpeg ]
 category: Speaking
 role: Meetup
 format: [ Conference ]
