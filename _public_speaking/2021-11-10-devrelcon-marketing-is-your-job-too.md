@@ -2,7 +2,7 @@
 title: "Marketing Is Your Job, Too"
 date: November 2021
 event_name: DevRelCon 2021
-event_link: https://2021.devrel.net/
+event_link: https://developerrelations.com/developer-marketing/marketing-is-your-job-too
 venue: Global online event recorded in London, United Kingdom
 image: [ /images/public_speaking/2021_11_10_devrelcon/devrelcon_talk_speaker_card.jpeg, /images/public_speaking/2021_11_10_devrelcon/devrelcon_panel_speaker_card.jpeg ]
 category: Speaking
@@ -22,4 +22,8 @@ My talk covered:
 * The 7 Ps of marketing (product, price, place, promotion, people, process, physical evidence)
 * Practical, actionable ways in which devrel professionals can combine AIDA with the marketing 7 Ps to engage with developers in a meaningful way without selling or marketing to them
 
-The recording of this talk is coming soon.
+Watch the recording here:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Qp3V4eHpV6Y" allowfullscreen></iframe>
+</div><br/>
