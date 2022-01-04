@@ -21,5 +21,5 @@ Lance is one of our technical writers and manages the documentation team.  In th
 Watch the recording:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w6XAFmzhteU" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SeK0OGF5dgE" allowfullscreen></iframe>
 </div><br/>
