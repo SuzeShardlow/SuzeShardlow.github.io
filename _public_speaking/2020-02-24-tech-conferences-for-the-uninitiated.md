@@ -5,7 +5,7 @@ event_name: codebar monthlies
 event_link: https://codebar.io/meetings/monthly-feb-2020
 venue: FutureGov, London, United Kingdom
 type: Meetup
-image: [ /images/public_speaking/codebar/codebar_logo.jpg ]
+image: [ /images/public_speaking/codebar/2020_02_24_tech_conferences_for_the_uninitiated/tech-conferences-for-the-uninitiated.jpeg ]
 category: Speaking
 role: Meetup
 format: Talk
