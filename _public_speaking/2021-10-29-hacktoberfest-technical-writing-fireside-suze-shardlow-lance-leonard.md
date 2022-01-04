@@ -4,7 +4,7 @@ date: October 2021
 event_name: Hacktoberfest
 event_link: https://developer.redis.com/hacktoberfest/
 venue: Webinar recorded in the UK and USA
-image: [ /images/public_speaking/2021_10_01_hacktoberfest/2021_10_26_suze_rachel_fireside/suze_rachel_fireside.jpg ]
+image: [ /images/public_speaking/2021_10_01_hacktoberfest/2021_10_29_suze_lance_fireside/lance_fireside.jpg ]
 category: Speaking
 role: [ Interviewer, MC ]
 format: [ Conference ]
