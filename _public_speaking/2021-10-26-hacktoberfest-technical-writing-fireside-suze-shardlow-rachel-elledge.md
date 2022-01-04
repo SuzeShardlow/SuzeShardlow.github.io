@@ -7,7 +7,7 @@ venue: Webinar recorded in the UK and USA
 image: [ /images/public_speaking/2021_10_01_hacktoberfest/2021_10_26_suze_rachel_fireside/suze_rachel_fireside.jpg ]
 category: Speaking
 role: [ Interviewer, MC ]
-format: [ Conference ]
+format: [ Live stream ]
 ---
 
 I am the Developer Community Manager at Redis.  In 2021, I organised the company's first-ever Hacktoberfest project.
