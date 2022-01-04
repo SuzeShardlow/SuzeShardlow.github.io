@@ -1,10 +1,11 @@
 ---
 title: "Hacktoberfest at Redis with Suze Shardlow and Simon Prickett from the Devrel Team"
 date: October 2021
+realdate: 22nd October 2021
 event_name: Hacktoberfest
 event_link: https://developer.redis.com/hacktoberfest/
 venue: Live stream recorded in the UK
-image: [ /images/public_speaking/2021_10_01_hacktoberfest/2021_10_29_suze_lance_fireside/lance_fireside.jpg ]
+image: [ /images/public_speaking/2021_10_01_hacktoberfest/2021_10_14_suze_simon_hacktoberfest_roundup/hacktoberfest_roundup.jpg ]
 category: Speaking
 role: [ Interviewer, MC ]
 format: [ Live stream ]
