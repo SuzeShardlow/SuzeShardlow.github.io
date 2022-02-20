@@ -1,9 +1,9 @@
 ---
-title: Podcast - Suze Shardlow - Creating welcoming spaces in dev communities
-date: November 2021
-event_name: Virtual Coffee podcast, Season 4, Episode 5
-event_link: https://virtualcoffee.io/podcast/0405-suze-shardlow/
-venue: Recorded in the UK and USA
+title: Podcast - Suze Shardlow - from marketing and the police to simply creating
+date: January 2022
+event_name: Software Developer's Journey podcast, Episode 186, Season 5
+event_link: https://devjourney.info/Guests/186-SuzeShardlow.html
+venue: Recorded in the UK and Germany
 image: /images/public_speaking/2021_11_01_virtual_coffee/virtual_coffee.jpeg
 category: Speaking
 role: Guest
