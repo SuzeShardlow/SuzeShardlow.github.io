@@ -1,10 +1,10 @@
 ---
 title: codebar Festival
-date: March 2021
+date: March 2022
 event_name: "codebar Festival: How To Land Your First Developer Job Panel"
-event_link: https://codebar.io/events/codebar-festival-2021-day-2
+event_link: http://festival.codebar.io/
 venue: Global online conference
-image: [ /images/public_speaking/codebar/2021_03_13_codebar_festival/codebar_festival.jpg ]
+image: [ /images/public_speaking/codebar/2022_03_12_codebar_festival/codebar_festival.jpeg ]
 category: Speaking
 role: Meetup
 format: [ Conference ]
