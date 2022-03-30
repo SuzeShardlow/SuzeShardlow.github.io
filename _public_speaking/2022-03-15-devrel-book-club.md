@@ -10,6 +10,6 @@ role: Guest
 format: [ Interview, Podcast ]
 ---
 
-Tim Bourgignon of the DevJourney podcast invited me to speak to him about the different stages of my career.  We talked about why I don't have imposter syndrome, how my job has been made redundant three times and the skills and experience I brought from my past roles in marketing and management to my current job in developer relations.
+Matthew Revell of DeveloperRelations.com invited me to speak on the DevRel Book Club podcast.  He asked me to select a book which has helped me as a devrel practitioner so that we could discuss it.
 
-[Have a listen.](https://devjourney.info/Guests/186-SuzeShardlow.html)
+I chose The Art Of Gathering by Priya Parker and the recording is coming soon.
