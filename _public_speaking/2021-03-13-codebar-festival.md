@@ -10,7 +10,7 @@ role: Meetup
 format: [ Conference ]
 ---
 
-codebar Festival was a three-day online conference.  The organisers approached me to moderate an hour-long live panel discussion on How To Your First Developer Job.
+codebar Festival was a three-day online conference.  The organisers approached me to moderate an hour-long live panel discussion on How To Land Your First Developer Job.
 
 As moderator, I:
 
