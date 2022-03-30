@@ -10,7 +10,7 @@ role: Meetup
 format: [ Conference ]
 ---
 
-codebar Festival is an annual, three-day, online conference.  For the second year running, the organisers approached me to moderate an hour-long live panel discussion on How To Land Your First Developer Job.
+codebar Festival is an annual, three-day, online conference which began in 2021.  For the second year running, the organisers approached me to moderate an hour-long live panel discussion on How To Land Your First Developer Job.
 
 As moderator, I:
 
