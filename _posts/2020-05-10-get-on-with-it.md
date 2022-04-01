@@ -1,6 +1,6 @@
 ---
 headline: Get On With It...
-sub_headline: It's easier to combat procrastination when you've got cheerleaders behind you
+sub_headline: It's easier to combat procrastination when you've got cheerleaders behind you.
 read_time: 8
 image: /images/blog/2020_05_10_get_on_with_it/gowi_20200411.png
 category: Leadership
