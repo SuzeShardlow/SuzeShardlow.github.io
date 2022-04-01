@@ -1,6 +1,6 @@
 ---
 headline: KT Tunstall In Concert
-sub_headline: The Music Box, San Diego, California, 9th January 2020
+sub_headline: The Music Box, San Diego, California, 9th January 2020.
 read_time: 4
 image: /images/blog/2020_01_21_kt_tunstall_in_concert/kt_tunstall_in_concert_main.jpg
 category: Hobbies
