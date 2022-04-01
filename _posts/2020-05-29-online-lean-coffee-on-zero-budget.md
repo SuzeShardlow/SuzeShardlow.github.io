@@ -1,6 +1,6 @@
 ---
 headline: Online Lean Coffee On Zero Budget
-sub_headline: Taking agile meetings online isn't just a simple case of opening a Zoom call
+sub_headline: Taking agile meetings online isn't just a simple case of opening a Zoom call.
 read_time: 2
 image: /images/blog/2020_05_29_online_lean_coffee_on_zero_budget/lean_coffee_trello_cover.jpg
 category: Leadership
