@@ -1,6 +1,6 @@
 ---
 headline: My First Podcast
-sub_headline: Discussing how I combine coding and creativity
+sub_headline: Discussing how I combine coding and creativity.
 read_time: 1
 image: /images/blog/2019_06_26_my_first_podcast/podcast_mic.jpg
 category: Leadership
