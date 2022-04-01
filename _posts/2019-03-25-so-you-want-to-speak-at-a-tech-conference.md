@@ -1,6 +1,6 @@
 ---
 headline: So You Want To Speak At A Tech Conference?
-sub_headline: Breaking down the barriers we put between us and the stage
+sub_headline: Breaking down the barriers we put between us and the stage.
 read_time: 7
 image: /images/blog/2019_03_25_so_you_want_to_speak_at_a_tech_conference/conference_speaker.jpg
 category: Leadership
