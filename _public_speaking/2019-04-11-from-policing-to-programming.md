@@ -11,7 +11,7 @@ format: Talk
 home: true
 ---
 
-This was my first tech talk, which has had over 6400 views on YouTube.  You can watch it below.
+This was my first tech talk, which has had over 7200 views on YouTube.  You can watch it below.
 
 I first started coding when I was seven years old.  I became a software engineer as an adult following long careers in marketing and policing and surviving three redundancies.
 

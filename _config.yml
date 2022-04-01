@@ -2,15 +2,20 @@ url: https://suze.dev
 
 name: suze.dev
 
+description: Suze Shardlow's personal website.
+
 permalink: pretty
 
 collections:
   posts:
-    permalink: /blog/:year/:month/:day/:title/
+    permalink: /blog/:title/
   coding_projects:
     output: true
   public_speaking:
     output: false
+  sketchnotes:
+    permalink: /sketchnotes/:title/
+    output: true
 
 defaults:
   - scope:
@@ -28,6 +33,11 @@ defaults:
       layout: "coding_project"
   - scope:
       path: ""
+      type: "sketchnotes"
+    values:
+      layout: "sketchnote"
+  - scope:
+      path: ""
     values:
       layout: "default"
 
@@ -35,6 +45,7 @@ defaults:
 plugins: 
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
 
 # SEO Plugin
 twitter:

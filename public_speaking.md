@@ -1,8 +1,8 @@
 ---
 layout: public_speaking_list
+title: What I've Said
 headline: What I've Said
 sub_headline: Talks And Workshops I Have Delivered
-title: "Suze Shardlow :: What I've Said"
 image: /images/public_speaking/ticketmaster.jpg
 ---
 

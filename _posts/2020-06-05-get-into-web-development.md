@@ -1,6 +1,6 @@
 ---
 headline: Get Into... Web Development
-sub_headline: How I Created An Online Interview Series
+sub_headline: How I created an online interview series
 read_time: 6
 image: /images/blog/2020_06_05_get_into_web_development/giwd_cover.png
 category: Leadership
@@ -27,7 +27,7 @@ LoC events cater for those who are **already in tech** and want to **level up** 
 
 #### Person and role
 
-I **knew exactly whom I wanted** to interview.  I had met [Niamh McCooey](https://twitter.com/niamhmccoo) at an event last year and she was at [GDCFP Day](/blog/2019/03/25/so-you-want-to-speak-at-a-tech-conference) too.  Later in 2019, as experienced speakers, we gave talks at the [same tech meetup](https://codebar.io/meetings/monthly-oct-2019).
+I **knew exactly whom I wanted** to interview.  I had met [Niamh McCooey](https://twitter.com/niamhmccoo) at an event last year and she was at [GDCFP Day]({% post_url 2019-03-25-so-you-want-to-speak-at-a-tech-conference %}) too.  Later in 2019, as experienced speakers, we gave talks at the [same tech meetup](https://codebar.io/meetings/monthly-oct-2019).
 
 Niamh's story is a bit different because she **taught herself**.  I wanted to highlight this as a **viable route to paid coding work** which may be an option for those who can't access bootcamps or similar courses.
 

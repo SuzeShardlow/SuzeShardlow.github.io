@@ -1,11 +1,14 @@
 - name: Home
   link: /
-- name: Who I Am
+- name: About Me
   link: /about
-- name: What I've Coded
+- name: Writing
+  link: /blog
+- name: Public Speaking
+  link: /public_speaking
+- name: Coding Projects
   link: /coding_projects
   sub: yes
-- name: What I Think
-  link: /blog
-- name: What I've Said
-  link: /public_speaking
+- name: Sketchnotes
+  link: /sketchnotes
+
