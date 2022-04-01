@@ -1,6 +1,6 @@
 ---
 headline: I’ve Rediscovered The Fountain Pen
-sub_headline: I got one for Christmas and have used nothing else since
+sub_headline: I got one for Christmas and have used nothing else since.
 read_time: 3
 image: /images/blog/2020_01_24_ive_rediscovered_the_fountain_pen/ive_rediscovered_the_fountain_pen_text.jpg
 category: Hobbies
