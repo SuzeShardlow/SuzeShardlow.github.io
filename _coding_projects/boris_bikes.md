@@ -3,8 +3,10 @@ layout: coding_project
 name: Boris Bikes
 sub_headline: A little JavaScript app I built in one evening using the TfL and Google Maps APIs.
 github: boris-bikes
+tech_stack: HTML, CSS, JavaScript
 live_app:
 image: /images/coding_projects/boris_bikes/boris_bikes.jpg
+home: true
 comments: true
 ---
 

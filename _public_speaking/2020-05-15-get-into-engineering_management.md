@@ -8,6 +8,7 @@ image: [ /images/public_speaking/2020_05_15_get_into_engineering_management/get_
 category: Speaking
 role: Meetup
 format: [ Interview, Webinar ]
+home: true
 ---
 
 I am a Chapter Lead at Ladies Of Code London.  When COVID-19 reached the UK and forced us 100% online, I looked at ways to innovate our offerings.  This led to me devising an interview format for our Get Into... series.

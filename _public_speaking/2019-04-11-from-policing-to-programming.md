@@ -4,10 +4,11 @@ date: April 2019
 event_name: "COED:CODE Lightning Talks Event: New Speaker Talent Showcase"
 event_link: https://www.meetup.com/Coed-Code/events/259389043/
 venue: Pivotal Europe, London, United Kingdom
-image: [ /images/public_speaking/2019_04_11_from_policing_to_programming/policing_to_prog_pivotal.jpg, /images/public_speaking/2019_04_11_from_policing_to_programming/policing_to_prog_comment.jpg ]
+image: [ /images/public_speaking/2019_04_11_from_policing_to_programming/policing_to_prog_pivotal_main.jpg, /images/public_speaking/2019_04_11_from_policing_to_programming/policing_to_prog_pivotal.jpg, /images/public_speaking/2019_04_11_from_policing_to_programming/policing_to_prog_comment.jpg ]
 category: Speaking
 role: Meetup
 format: Talk
+home: true
 ---
 
 This was my first tech talk, which has had over 7200 views on YouTube.  You can watch it below.

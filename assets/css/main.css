@@ -1119,6 +1119,10 @@ section, summary, time, mark, audio, video {
 
     @media screen and (max-width: 980px) {
 
+      .mb-1-medium {
+        margin-bottom: 1em;
+      }
+
       .row {
         display: flex;
         flex-wrap: wrap;
@@ -1868,10 +1872,11 @@ section, summary, time, mark, audio, video {
     }
 
     header.major > :last-child {
-      border-bottom: solid 3px #ff0000;
+      border-bottom: solid 2px #ff0000;
       display: inline-block;
       margin: 0 0 1em 0;
       padding: 0 0.75em 0.5em 0;
+      width: 100%;
     }
 
     header.main > :last-child {

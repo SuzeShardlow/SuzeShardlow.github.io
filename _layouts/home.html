@@ -1,0 +1,195 @@
+<!DOCTYPE HTML>
+<html>
+
+{% include head_tag.html %}
+
+<body>
+  <div id="wrapper">
+    <div id="main">
+      <div class="inner">
+        {% include header.html %}
+        <section id="banner">
+          <div class="content">
+            <header class="main">
+              <h1>{{ page.headline }}</h1>
+              <p>{{ page.sub_headline }}</p>
+            </header>
+        </section>
+
+        <header class="major">
+          <h2>Writing</h2>
+        </header>
+
+        <!-- First block starts here -->
+        <!-- Latest post -->
+        {% assign latest_post = site.posts[0] %}
+        <div class="row">
+          <div class="col-7 col-12-medium mb-1-medium">
+            <a href="{{ latest_post.url }}">
+              <span class="image fit">
+                <div class="zoombox">
+                  <img src="{{ latest_post.image }}" class="zoomimg">
+                </div>
+              </span>
+              <h3 class="bloglist-title">{{ latest_post.headline }}
+            </a></h3>
+            <h4 class="bloglist-subtitle">
+              {{ latest_post.category }} • {{ latest_post.read_time }}-minute read
+            </h4>
+            {{ latest_post.excerpt }}
+          </div>
+
+          <!-- Second and third posts -->
+          <div class="col-5 col-12-medium">
+
+            {% assign second_post = site.posts[1] %}
+            {% assign third_post = site.posts[2] %}
+            {% assign fourth_post = site.posts[3] %}
+
+            <!-- Second post -->
+            <div class="row">
+
+              <div class="col-5 col-12-medium">
+                <a href="{{ second_post.url }}">
+                  <span class="image fit">
+                    <div class="zoombox">
+                      <img src="{{ second_post.image }}" class="zoomimg">
+                    </div></a>
+                </span>
+              </div>
+
+              <div class="col-7 col-12-medium mb-1-medium">
+                <a href="{{ second_post.url }}">
+                  <h3 class="bloglist-title">{{ second_post.headline }}
+                </a></h3>
+                <h4 class="bloglist-subtitle">
+                  {{ second_post.category }} • {{ second_post.read_time }}-minute read
+                </h4>
+                <p>{{ second_post.sub_headline }}.</p>
+              </div>
+            </div>
+
+            <!-- Third post -->
+            <div class="row">
+
+              <div class="col-5 col-12-medium">
+                <a href="{{ third_post.url }}">
+                  <span class="image fit">
+                    <div class="zoombox">
+                      <img src="{{ third_post.image }}" class="zoomimg">
+                    </div></a>
+                </span>
+              </div>
+
+              <div class="col-7 col-12-medium mb-1-medium">
+                <a href="{{ third_post.url }}">
+                  <h3 class="bloglist-title">{{ third_post.headline }}
+                </a></h3>
+                <h4 class="bloglist-subtitle">
+                  {{ third_post.category }} • {{ third_post.read_time }}-minute read
+                </h4>
+              <p>{{ third_post.sub_headline }}.</p>
+              </div>
+
+              {% for post in site.posts limit:1 %}
+
+              {% endfor %}
+            </div>
+
+            <!-- Fourth post -->
+            <div class="row">
+
+              <div class="col-5 col-12-medium">
+                <a href="{{ fourth_post.url }}">
+                  <span class="image fit">
+                    <div class="zoombox">
+                      <img src="{{ fourth_post.image }}" class="zoomimg">
+                    </div></a>
+                </span>
+              </div>
+
+              <div class="col-7 col-12-medium mb-1-medium">
+                <a href="{{ fourth_post.url }}">
+                  <h3 class="bloglist-title">{{ fourth_post.headline }}
+                </a></h3>
+                <h4 class="bloglist-subtitle">
+                  {{ fourth_post.category }} • {{ fourth_post.read_time }}-minute read
+                </h4>
+              <p>{{ fourth_post.sub_headline }}.</p>
+              </div>
+
+              {% for post in site.posts limit:1 %}
+
+              {% endfor %}
+            </div>
+
+          </div>
+        </div>
+
+        <!-- First block ends here -->
+
+        <header class="major">
+          <h2>Speaking</h2>
+        </header>
+        <div class="row">
+          {% for event in site.public_speaking %}
+          {% if event.home == true %}
+          <div class="col-4 col-12-medium">
+            <a href="/public_speaking">
+              <span class="image fit">
+                <div class="zoombox">
+                  <img src="{{ event.image }}" class="zoomimg">
+                </div>
+              </span>
+              <div>
+                <h3 class="bloglist-title">{{ event.title }}
+            </a></h3>
+          </div>
+          <p>
+            {{ event.venue }}
+          <p>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+
+      <header class="major">
+        <h2>Coding</h2>
+      </header>
+      <div class="row">
+        {% for app in site.coding_projects %}
+        {% if app.home == true %}
+        <div class="col-3 col-12-medium">
+          <a href="{{ app.url }}">
+            <span class="image fit">
+              <div class="zoombox">
+                <img src="{{ app.image }}" class="zoomimg">
+              </div>
+            </span>
+            <div>
+              <h3 class="learn-header">{{ app.name }}
+          </a>
+          </h3>
+
+          <h5>{{ app.tech_stack }}</h5>
+        </div>
+        <p>{{ app.sub_headline }}</p>
+      </div>
+      {% endif %}
+      {% endfor %}
+
+    </div>
+    {{ content }}
+    <hr />
+
+  </div>
+
+  </div>
+  {% include navigation.html %}
+  </div>
+
+  {% include script_tag.html %}
+
+</body>
+
+</html>
