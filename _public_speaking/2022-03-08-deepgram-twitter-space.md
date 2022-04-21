@@ -14,6 +14,4 @@ The Deepgram devrel team asked me to be a guest speaker on their Twitter Space a
 
 We discussed community, inclusion, privilege and lots more.
 
-Have a listen:
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks again to our guests <a href="https://twitter.com/saronyitbarek?ref_src=twsrc%5Etfw">@saronyitbarek</a>, <a href="https://twitter.com/SuzeShardlow?ref_src=twsrc%5Etfw">@SuzeShardlow</a>, <a href="https://twitter.com/remotesynth?ref_src=twsrc%5Etfw">@remotesynth</a>, <a href="https://twitter.com/domitriusclark?ref_src=twsrc%5Etfw">@domitriusclark</a>, and <a href="https://twitter.com/chatterboxCoder?ref_src=twsrc%5Etfw">@chatterboxCoder</a> for sharing your voices with us today. <br><br>If you weren&#39;t able to make it, you can listen to the replay now: <a href="https://t.co/i3aqM6qzWL">https://t.co/i3aqM6qzWL</a></p>&mdash; Deepgram Developers (@DeepgramDevs) <a href="https://twitter.com/DeepgramDevs/status/1503072147115167746?ref_src=twsrc%5Etfw">March 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
