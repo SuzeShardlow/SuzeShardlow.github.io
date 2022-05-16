@@ -20,5 +20,8 @@ As moderator, I:
 * Fielded questions from the live audience and wove them into the discussion.
 * Ensured the session started and finished on time.
 
-The recording of this session is coming soon.
-https://www.youtube.com/watch?v=0lEDBjd87_E
+Watch the recording:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0lEDBjd87_E" allowfullscreen></iframe>
+</div><br/>
