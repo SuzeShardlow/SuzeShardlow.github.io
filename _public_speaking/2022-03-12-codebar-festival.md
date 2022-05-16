@@ -21,3 +21,4 @@ As moderator, I:
 * Ensured the session started and finished on time.
 
 The recording of this session is coming soon.
+https://www.youtube.com/watch?v=0lEDBjd87_E
