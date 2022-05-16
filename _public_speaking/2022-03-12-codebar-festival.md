@@ -10,9 +10,9 @@ role: Meetup
 format: [ Conference ]
 ---
 
-codebar Festival is an annual, three-day, online conference which began in 2021.  For the second year running, the organisers approached me to moderate an hour-long live panel discussion on How To Land Your First Developer Job.
+codebar Festival is an annual, three-day, online conference which began in 2021.  For the second year running, the organisers approached me to MC / moderate an hour-long live panel discussion on How To Land Your First Developer Job.
 
-As moderator, I:
+As MC / moderator, I:
 
 * Researched the four panellists' career history.
 * Prepared appropriate questions, based on my industry knowledge and research, to find out their experiences of getting their first developer job.
@@ -20,4 +20,8 @@ As moderator, I:
 * Fielded questions from the live audience and wove them into the discussion.
 * Ensured the session started and finished on time.
 
-The recording of this session is coming soon.
+Watch the recording:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0lEDBjd87_E" allowfullscreen></iframe>
+</div><br/>
