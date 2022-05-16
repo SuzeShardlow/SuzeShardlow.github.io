@@ -7,7 +7,30 @@ category: Adulting
 comments: true
 ---
 
-The main reason you want to know what I'm paid now is so you can take this figure, add a few grand onto it and present that as an improvement on my current deal that I should be grateful to accept.  I'm not allowing you to do this.
+
+
+
+
+It's a fact that people aren't paid equally for the same work
+
+
+
+
+
+"I need to know if your salary expectations are aligned with what we can offer you."
+But you haven't asked me what my salary expectations are.  You asked me what I'm currently paid.  What I expect to be paid in my next job may or may not have some connection with what I'm paid now.
+
+If you want to know what my salary expectations are, then why not ask that question?  Or, better still, decide on an offer based on what you're looking for and how well I fit that?  Decide what you think I'm worth, instead of trying to find out what I think I'm worth or what my current employer thinks I'm worth.
+
+
+"I need to know what people in this industry are being paid, so I can see how the market is doing and make sure we are paying market rate."
+If you want to know the market rate, don't ask a woman.  And don't ask a brown person.  Basically, don't ask a brown woman because we are not in the upper percentile of earners.  There are lots of ways you can get data on market rates.
+
+
+"It's on you to negotiate."
+Yes, it is.  Your job is to negotiate, so you know a lot of strategies.  A common one is anchoring, where you table your preferred option (your offer or salary range) as a variation on what's already been put forward (my current salary).
+
+
 
 
 
