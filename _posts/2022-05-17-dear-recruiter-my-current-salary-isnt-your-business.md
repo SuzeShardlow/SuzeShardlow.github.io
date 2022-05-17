@@ -31,6 +31,16 @@ If you want to know the market rate, don't ask a woman.  And don't ask a brown p
 Yes, it is.  Your job is to negotiate, so you know a lot of strategies.  A common one is anchoring, where you table your preferred option (your offer or salary range) as a variation on what's already been put forward (my current salary).
 
 
+- All jobs, job titles, companies etc are different
+- I work in devrel.  Everyone's background and skills are different so you can't easily compare us
+- You asked me this question in our first meeting so you are making the decision about pay right at the beginning before I have met anyone at the actual company
+- Are you passing this information to the company or is it just for your own reference?
+- The company must have told you what their budget is.  As a professional, you should be able to determine whether I am within that range or if you think I am too low or too high
+- It seems to be a British thing - all the recruiters asked me when I was in my 20s.  In my conversations with American recruiters, nobody has asked me this question
+- I know what the market rate is as well as you do
+- You know I can't lie about it, because my salary is on my P46.  I feel comfortable declining to answer the question, but a lot of people aren't.  I wasn't comfortable when I was younger
+- By casually asking this question along with other admin-type stuff (like "how long is your notice period?") you are couching this as something mundane and integral to the recruitment process
+- Not knowing my salary doesn't stop you from making me an offer
 
 
 
