@@ -7,6 +7,8 @@ category: Adulting
 comments: true
 ---
 
+When you use my current salary as a basis for what I'm worth to you, you're being mean and lazy.  You're also actively perpetuating the gender and ethnicity pay gaps in tech.  What's worse is that you're a woman yourself.
+
 
 
 
