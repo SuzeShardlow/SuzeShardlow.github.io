@@ -7,9 +7,6 @@
 - name: GitHub
   link: https://github.com/SuzeShardlow
   class: icon fa-github-alt
-- name: Medium
-  link: https://medium.com/@SuzeShardlow
-  class: icon fa-medium-m
 - name: YouTube
   link: https://www.youtube.com/channel/UCWSMhdjbGea46ugbKF31CDA
   class: icon fa-youtube
