@@ -14,4 +14,6 @@ Matthew Revell of DeveloperRelations.com invited me to speak on the DevRel Book 
 
 I chose The Art Of Gathering by Priya Parker.
 
+[Here is the audio recording](https://episodes.castos.com/61b7cc74b6a291-59102378/42d52daf-d19e-4704-83f2-84b8e7729d4d-DevRel-Book-Club-s1e3.mp3).
+
 [Check out the audio and / or video recording](https://developerrelations.com/podcast/the-art-of-gathering-with-suze-shardlow).
