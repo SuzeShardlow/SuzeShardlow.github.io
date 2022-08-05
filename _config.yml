@@ -8,7 +8,8 @@ permalink: pretty
 
 collections:
   about:
-    output: true
+    output: false
+    permalink: /:title
   posts:
     permalink: /blog/:title/
   public_speaking:
