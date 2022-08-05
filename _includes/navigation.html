@@ -4,11 +4,27 @@
       <header class="major">
         <h2>Look around...</h2>
       </header>
+
       <ul>
         {% for menu_item in site.data.navigation %}
+        {% if menu_item.submenuitems[0] %}
+        <li>
+        <span class="opener">{{ menu_item.name }}</span>
+      <ul>
+          {% for submenuitem in menu_item.submenuitems %}
+            <li><a href="{{submenuitem.url}}">{{submenuitem.page}}</a>
+            </li>
+        </li>
+          {% endfor %}
+      </ul>
 
-        <li><a href="{{ menu_item.link }}">{{ menu_item.name }}</a></li>
+        {% else %}
+        <li><a href="{{ menu_item.link }}">{{ menu_item.name }}</a>
+        </li>
+        {% endif %}
+
         {% endfor %}
+
         <!-- <li>
           <span class="opener">Submenu</span>
           <ul>
