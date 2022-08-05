@@ -1,8 +1,9 @@
 - name: Home
   link: /
-- name: About Me
-  link: /about
-  subfolderitems:
+- name: About
+  submenuitems:
+    - page: About Me
+      url: /about
     - page: Bio
       url: /bio
 - name: Writing
