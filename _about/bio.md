@@ -1,10 +1,13 @@
 ---
 layout: bio
 title: Bio
-headline: Bio
+name: Bio
 sub_headline: Use one of these in your marketing if I am delivering something for you.
 image: /images/about/wedding_bunting.jpg
 ---
+
+I have included bios of different lengths below.  Please choose the one that's the right length for the space you have.
+
 
 Handy links - where to find Suze online:
 Twitter: https://twitter.com/SuzeShardlow
