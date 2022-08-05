@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Who I Am
-headline: Who I Am
-sub_headline: I love creating things that people use and enjoy.
+title: Bio
+headline: Bio
+sub_headline: Use one of these in your marketing if I am delivering something for you.
 image: /images/about/wedding_bunting.jpg
 ---
 
