@@ -12,7 +12,7 @@
         <span class="opener">{{ menu_item.name }}</span>
       <ul>
           {% for submenuitem in menu_item.submenuitems %}
-            <li><a href="{{submenuitem.url}}">{{submenuitem.page}}</a>
+            <li><a href="{{submenuitem.link}}">{{submenuitem.page}}</a>
             </li>
         </li>
           {% endfor %}
