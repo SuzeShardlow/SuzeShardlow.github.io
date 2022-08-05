@@ -3,9 +3,9 @@
 - name: About
   submenuitems:
     - page: About Me
-      url: /about
+      link: /about
     - page: Bio
-      url: /bio
+      link: /bio
 - name: Writing
   link: /blog
 - name: Public Speaking
