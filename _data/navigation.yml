@@ -2,6 +2,9 @@
   link: /
 - name: About Me
   link: /about
+  subfolderitems:
+    - page: Bio
+      url: /bio
 - name: Writing
   link: /blog
 - name: Public Speaking
