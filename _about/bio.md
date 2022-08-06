@@ -6,14 +6,14 @@ sub_headline: Use one of these in your marketing if I am delivering something fo
 image: /images/about/bio_banner.jpeg
 ---
 
-I have included bios of different lengths below.  Please choose the one that's the right length for the space you have.
+Here are some bios of different lengths.  Please choose the one that's the right length for the space you have.
 
-
-Handy links - where to find Suze online:
+### Handy links - where to find Suze online:
 Twitter: https://twitter.com/SuzeShardlow
 LinkedIn: https://linkedin.com/in/SuzeShardlow
 GitHub: https://github.com/SuzeShardlow
 Personal website: https://suze.dev
+
 
 Super short (<50 words)
 Suze Shardlow is a published tech author, event MC and international conference speaker.  Currently the head of developer community at Redis, Suze has won awards including Rising Star In Tech 2021, TechWomen100 2020, Women In Software Power List 2020 and was a Women In Tech Excellence Awards 2021 finalist.
