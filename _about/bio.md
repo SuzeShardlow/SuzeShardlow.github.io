@@ -9,10 +9,10 @@ image: /images/about/bio_banner.jpeg
 Here are the links to my socials and some bios of different lengths.  Please choose the bio that's the right length for the space you have.
 
 ### Handy links - where to find Suze online:
-**Personal website**: https://suze.dev<br>
-**Twitter**: https://twitter.com/SuzeShardlow<br>
-**LinkedIn**: https://linkedin.com/in/SuzeShardlow<br>
-**GitHub**: https://github.com/SuzeShardlow
+**Personal website**: https://**suze**.dev<br>
+**Twitter**: https://twitter.com/**SuzeShardlow**<br>
+**LinkedIn**: https://linkedin.com/in/**SuzeShardlow**<br>
+**GitHub**: https://github.com/**SuzeShardlow**
 {: .box}
 
 ### Super short bio (<50 words)
