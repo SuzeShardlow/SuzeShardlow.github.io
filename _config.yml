@@ -7,12 +7,15 @@ description: Suze Shardlow's personal website.
 permalink: pretty
 
 collections:
+  about:
+    output: true
+    permalink: /:title
   posts:
     permalink: /blog/:title/
-  coding_projects:
-    output: true
   public_speaking:
     output: false
+  coding_projects:
+    output: true
   sketchnotes:
     permalink: /sketchnotes/:title/
     output: true

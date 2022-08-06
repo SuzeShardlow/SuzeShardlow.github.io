@@ -1,7 +1,11 @@
 - name: Home
   link: /
-- name: About Me
-  link: /about
+- name: About
+  submenuitems:
+    - page: About Me
+      link: /about
+    - page: Bio
+      link: /bio
 - name: Writing
   link: /blog
 - name: Public Speaking
