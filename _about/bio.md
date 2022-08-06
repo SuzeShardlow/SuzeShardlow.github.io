@@ -9,10 +9,10 @@ image: /images/about/bio_banner.jpeg
 Here are some bios of different lengths.  Please choose the one that's the right length for the space you have.
 
 ### Handy links - where to find Suze online:
-Twitter: https://twitter.com/SuzeShardlow<br>
-LinkedIn: https://linkedin.com/in/SuzeShardlow<br>
-GitHub: https://github.com/SuzeShardlow<br>
-Personal website: https://suze.dev
+**Twitter**: https://twitter.com/SuzeShardlow<br>
+**LinkedIn**: https://linkedin.com/in/SuzeShardlow<br>
+**GitHub**: https://github.com/SuzeShardlow<br>
+**Personal website**: https://suze.dev
 {: .box}
 
 Super short (<50 words)
