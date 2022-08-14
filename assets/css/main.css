@@ -3814,3 +3814,8 @@ section, summary, time, mark, audio, video {
       padding-bottom: 0.5em;
       padding-top: 0.5em;
     }
+
+    .menu-highlight {
+      color: #FF0000 !important;
+      font-weight: 600 !important;
+    }
