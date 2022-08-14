@@ -15,5 +15,5 @@ Getting what you want can be hard, and it often feels like the other person won'
 Watch the recording:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/s8oCwvzKETg" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ds8ycUzQjDE" allowfullscreen></iframe>
 </div><br/>
