@@ -7,24 +7,50 @@
 
       <ul>
         {% for menu_item in site.data.navigation %}
+          {% if menu_item.link == "/" %}
+            {% if page.url == "/" %}
+              {% assign menu_highlight = "menu-highlight" %}
+            {% else %}
+              {% assign menu_highlight = "" %}
+            {% endif %}
+          {% else %}
+            {% if page.url contains menu_item.link %}
+              {% assign menu_highlight = "menu-highlight" %}
+            {% else %}
+              {% assign menu_highlight = "" %}
+            {% endif %}
+          {% endif %}
+
         {% if menu_item.submenuitems[0] %}
         <li>
-        <span class="opener">{{ menu_item.name }}</span>
-      <ul>
-          {% for submenuitem in menu_item.submenuitems %}
-            <li><a href="{{ submenuitem.link }}">{{submenuitem.page}}</a>
-            </li>
+          {% assign subsection_highlight = "" %}
+          {% capture submenulist %}
+            <ul>
+              {% for submenuitem in menu_item.submenuitems %}
+                {% if page.url contains submenuitem.link %}
+                  {% assign menu_highlight = "menu-highlight" %}
+                  {% assign subsection_highlight = "menu-highlight" %}
+                {% else %}
+                  {% assign menu_highlight = "" %}
+                {% endif %}
+              <li><a href="{{ submenuitem.link }}" class="{{ menu_highlight }}">{{submenuitem.page}}</a>
+              </li>
         </li>
           {% endfor %}
-      </ul>
+            </ul>
+          {% endcapture %}
+
+        <span class="opener {{ subsection_highlight }}">{{ menu_item.name }}</span>
+          {{ submenulist }}
 
         {% else %}
-        <li><a href="{{ menu_item.link }}">{{ menu_item.name }}</a>
-        </li>
+          <li><a href="{{ menu_item.link }}" class="{{ menu_highlight }}">{{ menu_item.name }}</a>
+          </li>
         {% endif %}
 
         {% endfor %}
 
+        {% comment %}
         <!-- <li>
           <span class="opener">Submenu</span>
           <ul>
@@ -36,6 +62,7 @@
         </li>
         <li><a href="#">Etiam Dolore</a></li>
         <li><a href="#">Adipiscing</a></li> -->
+        {% endcomment %}
 
       </ul>
 
