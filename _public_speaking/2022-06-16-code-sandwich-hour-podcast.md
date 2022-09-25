@@ -10,6 +10,10 @@ role: Guest
 format: [ Interview, Podcast ]
 ---
 
-Tim Bourguignon of the DevJourney podcast invited me to speak to him about the different stages of my career.  We talked about why I don't have imposter syndrome, how my job has been made redundant three times and the skills and experience I brought from my past roles in marketing and management to my current job in developer relations.
+Sean C Davis of the Code Sandwich podcast invited me to speak to him about the different stages of my career.  We also discussed my favourite sandwich, who I'd like to have lunch with and [how you can tell where in the UK someone is from by what they call a bread roll](https://yougov.co.uk/topics/consumer/articles-reports/2018/07/20/cobs-buns-baps-or-barm-cakes-what-do-people-call-b).
 
-[Have a listen.](https://devjourney.info/Guests/186-SuzeShardlow.html)
+Watch the recording here:
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PuiWy3SEkdA" allowfullscreen></iframe>
+</div><br/>
