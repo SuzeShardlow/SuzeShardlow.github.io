@@ -10,6 +10,12 @@ role: Meetup
 format: [ Conference ]
 ---
 
-Getting what you want can be hard, and it often feels like the other person won't budge.  But negotiation is a two-way process that you can influence and, as with most things in life, preparation is key.  In this talk, I demonstrated some tried and tested techniques that you can start applying straightaway to achieve your desired results.
+"No" is a complete sentence and it's often a difficult word to say.  As a result, we end up with situations, environments, tasks and treatment we don't want.  Setting boundaries helps us to understand and establish our limits.  They are essential for our health, but they are useless if we don't enforce them.  And it's harder to enforce them if we haven't communicated them.
+
+In this talk, I cover:
+
+- how to let someone know they have crossed the line
+- how to tell them it won't be happening again
+- how to decide in advance how you will uphold your boundary if they cross it
 
 [Watch the recording and / or read the transcript.](https://yougotthis.io/library/communicating-and-upholding-boundaries)
