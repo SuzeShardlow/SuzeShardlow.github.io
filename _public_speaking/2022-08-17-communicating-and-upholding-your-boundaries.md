@@ -14,8 +14,8 @@ format: [ Conference ]
 
 In this talk, I cover:
 
-- how to let someone know they have crossed the line
-- how to tell them it won't be happening again
-- how to decide in advance how you will uphold your boundary if they cross it
+- How to let someone know they have crossed the line
+- How to tell them it won't be happening again
+- How to decide in advance how you will uphold your boundary if they cross it
 
 [Watch the recording and / or read the transcript.](https://yougotthis.io/library/communicating-and-upholding-boundaries)
