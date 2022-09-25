@@ -12,22 +12,14 @@ format: [ Conference ]
 
 I was invited to speak at DevRelCon Deep Dives, which was an online event for DevRel leaders featuring speakers with deep expertise in their field.
 
+My session was a round table entitled "Developer Marketing In Practice" where I discussed the following questions with Christie Fidura, Mahmoud Abdelwahab, Matthew Revell and Ramón Huidobro:
 
-
-
-
-I was also invited to speak on a panel about how to go further with your developer marketing, with Tamao Nakahara, Zachary Powell and Cory Althoff.
-
-My talk covered:
-
-* What marketing is
-* What marketing is not (it isn't just about advertising and publicity)
-* The AIDA (attention/awareness, interest, desire, action) marketing model
-* The 7 Ps of marketing (product, price, place, promotion, people, process, physical evidence)
-* Practical, actionable ways in which devrel professionals can combine AIDA with the marketing 7 Ps to engage with developers in a meaningful way without selling or marketing to them
+- What is the difference between DevRel and developer marketing?
+- What do developer marketing people do?
+- How can you make developer marketing a part of your developer relations strategy?
 
 Watch the recording here:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Qp3V4eHpV6Y" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xR2tsTPtOqE" allowfullscreen></iframe>
 </div><br/>
