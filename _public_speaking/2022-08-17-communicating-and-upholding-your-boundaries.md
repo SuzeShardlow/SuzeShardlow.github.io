@@ -4,7 +4,7 @@ date: August 2022
 event_name: You Got This!  Happy, Healthy Communication
 event_link: https://yougotthis.io/collections/happy-healthy-communication/
 venue: Online event recorded in the United Kingdom
-image: [ /images/public_speaking/2021_11_04_the_power_of_persuasion/wit_notts_the_power_of_persuasion_speaker_card.jpg ]
+image: [ /images/public_speaking/2022_08_17_communicating_and_upholding_your_boundaries/boundaries_speaker_card.jpeg ]
 category: Speaking
 role: Meetup
 format: [ Conference ]
