@@ -4,7 +4,7 @@ date: September 2022
 event_name: DevRel Round Table Podcast
 event_link: https://developerrelations.com/podcast/devrel-tips-for-hacktoberfest
 venue: Global online event recorded in the United Kingdom
-image: [ /images/public_speaking/2022_09_29_devrel_hacktoberfest_speaker_card.jpeg ]
+image: [ /images/public_speaking/2022_09_29_devrel_podcast_hacktoberfest/devrel_hacktoberfest_speaker_card.jpeg ]
 category: Speaking
 role: Podcast
 format: [ Podcast ]
