@@ -1,7 +1,7 @@
 ---
 title: DevRel Tips For Hacktoberfest
 date: September 2022
-event_name: DevRel Podcast
+event_name: DevRel Round Table Podcast
 event_link: https://developerrelations.com/podcast/devrel-tips-for-hacktoberfest
 venue: Global online event recorded in the United Kingdom
 image: [ /images/public_speaking/2022_09_29_devrel_hacktoberfest_speaker_card.jpeg ]
@@ -18,8 +18,8 @@ My session was a round table entitled "Developer Marketing In Practice" where I 
 - What do developer marketing people do?
 - How can you make developer marketing a part of your developer relations strategy?
 
-Watch the recording here:
+[Listen to the podcast](https://developerrelations.com/podcast/devrel-tips-for-hacktoberfest) or watch the recording here:
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xR2tsTPtOqE" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sAjrcKufge0" allowfullscreen></iframe>
 </div><br/>
