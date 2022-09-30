@@ -10,13 +10,16 @@ role: Podcast
 format: [ Podcast ]
 ---
 
-I was invited to speak at DevRelCon Deep Dives, which was an online event for DevRel leaders featuring speakers with deep expertise in their field.
+[DeveloperRelations.com](https://developerrelations.com/) invited me to co-host a round table for their podcast, aimed at helping devrel professionals to get the most out of Hacktoberfest.
 
-My session was a round table entitled "Developer Marketing In Practice" where I discussed the following questions with Christie Fidura, Mahmoud Abdelwahab, Matthew Revell and Ramón Huidobro:
+Matthew Revell and I discussed the following topics with Phoebe Quincy, Haimantika Mitra, Floor Drees and Courtney Robertson:
 
-- What is the difference between DevRel and developer marketing?
-- What do developer marketing people do?
-- How can you make developer marketing a part of your developer relations strategy?
+- How Hacktoberfest processes have been improved this year to help maintainers and contributors
+- Which themes DigitalOcean is focusing on this year
+- How to get buy-in from senior people
+- Approaches to Hacktoberfest
+- Bringing a project into Hacktoberfest for the first time
+- How to keep the momentum up through the month of October
 
 [Listen to the podcast](https://developerrelations.com/podcast/devrel-tips-for-hacktoberfest) or watch the recording here:
 
