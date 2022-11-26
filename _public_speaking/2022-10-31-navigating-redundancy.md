@@ -10,12 +10,8 @@ role: Meetup
 format: [ Conference ]
 ---
 
-"No" is a complete sentence and it's often a difficult word to say.  As a result, we end up with situations, environments, tasks and treatment we don't want.  Setting boundaries helps us to understand and establish our limits.  They are essential for our health, but they are useless if we don't enforce them.  And it's harder to enforce them if we haven't communicated them.
+For most people, “we’re letting you go” are the words you never want to hear.  Being made redundant, or laid off, can be shocking and devastating.  I have faced redundancy three times in my career.  It became easier each time because I learnt something new about the process, and knowledge is power.
 
-In this talk, I cover:
-
-- How to let someone know they have crossed the line
-- How to tell them it won't be happening again
-- How to decide in advance how you will uphold your boundary if they cross it
+In this talk, I outline the things you need to know and do before, during and after your job is taken away from you so you can protect your emotional and financial well-being.
 
 [Watch the recording and / or read the transcript.](https://yougotthis.io/library/communicating-and-upholding-boundaries)
