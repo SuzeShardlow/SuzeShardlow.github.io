@@ -14,4 +14,4 @@ For most people, “we’re letting you go” are the words you never want to he
 
 In this talk, I outline the things you need to know and do before, during and after your job is taken away from you so you can protect your emotional and financial well-being.
 
-[Watch the recording and / or read the transcript.](https://yougotthis.io/library/communicating-and-upholding-boundaries)
+[Watch the recording and / or read the transcript.](https://yougotthis.io/library/navigating-redundancy/)
