@@ -1,5 +1,5 @@
 ---
-headline: "I'm a TechWomen100 2020 Winner!"
+headline: WTF Are Staff / Principal and the Individual Contributor And Management Tracks?
 sub_headline: "This is my second tech award."
 read_time: 2
 image: /images/blog/2020_11_16_im_a_techwomen100_2020_winner/techwomen100.jpg
