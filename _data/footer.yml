@@ -7,6 +7,9 @@
 - name: GitHub
   link: https://github.com/SuzeShardlow
   class: icon fa-github-alt
+- name: Mastodon
+  link: https://hachyderm.io/@suze
+  class: icon fa-mastodon
 - name: YouTube
   link: https://www.youtube.com/channel/UCWSMhdjbGea46ugbKF31CDA
   class: icon fa-youtube
