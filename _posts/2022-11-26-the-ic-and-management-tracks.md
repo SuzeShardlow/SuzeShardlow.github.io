@@ -7,8 +7,23 @@ category: Tech
 comments: true
 ---
 
-I've been recognised for my community building, event hosting and tech education work.  There were a total of 700 nominations and I am in the top 100!  Here's what they said about me...
+There are generally two tracks:
 
-"Suze creates and delivers her own coding courses, teaching Python and JavaScript as well as how to create your own personal branding website.  She has worked with academics at the University of Sussex to bring their research interviews from 30 years ago to life via a chatbot.  The interviews are with women about their views on love, sex and relationships at the height of the AIDS pandemic.  Suze is also a technical writer and conference speaker, having given talks in the UK and overseas.  She’s an experienced and engaging event host who instinctively gets the best out of her guests and speakers, even when live and unedited.
+Individual contributor (IC)
+Management
 
-"During the COVID-19 pandemic, Suze took all her tech meetups online, delivering more than 120 hours of live online tech content across 50+ events.  These included over 90 hours of facilitated tech co-working sessions which helped more than 60 people through lockdown.  She designed and delivered more than 15 hours of public speaking coaching and mentoring workshops, then organised and hosted a live online showcase event for the women (all software engineers) who “graduated” from these workshops.  Suze’s tech community event ideas and methodologies, borne of two decades of knowing her various audiences and documented in her blog, have been replicated by other groups including those based in Silicon Valley, California."
+The levels / job titles within these (eg Software Engineer I, II etc) vary between companies.
+
+If you don’t have anyone reporting to you, you’re an IC. IC levels can go from entry level to very senior.
+
+If the IC is very junior then they are focused on doing. If they’re very senior they’re also focused on doing, but at a higher level.  The very senior will also take on leadership activities like coaching others in the team and strategising. With the seniority comes a lot more autonomy.
+
+On the management track, there are also different levels of seniority. As it’s a managerial role, it doesn’t start at entry level like IC does. You’ll be strategising, but also managing, ie making sure the work gets done. You’ll be leading, so you’ll be responsible for your team’s health and looking at things like career paths, resourcing etc. You might be doing some hands-on stuff, but it will be much less than if you were an IC. You often hear people describing it as being “further away from the code”.
+
+In both roles you could be doing the following types of activity:
+
+Managing budget
+Working as part of a project team
+Coaching / teaching
+
+As an IC you might have managerial-looking words in your job title, eg Manager or Director or Chief <something> Officer. Eg I’m an IC and I’m Developer Community Manager but I don’t manage anyone. I manage the community. I’ve noticed on the management side, they’re often styled as “Manager, <function>” which feels a bit clumsy but looks like it’s one way that some companies distinguish between the tracks.
