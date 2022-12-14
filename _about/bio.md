@@ -2,11 +2,11 @@
 layout: bio
 title: Bio
 name: Bio
-sub_headline: Bios and photos you can use in your marketing if I am delivering something for you.
+sub_headline: Words and pictures to use in your marketing if I am delivering something for you.
 image: /images/about/bio_banner.jpeg
 ---
 
-Here are the links to my socials and some bios of different lengths.  Please choose the bio that's the right length for the space you have.
+Here are the links to my socials, along with profile pics and bios of different lengths.  Please choose the bio that's the right length for the space you have.
 
 ### Handy links - where to find me online
 **Personal website**: [**suze**.dev](https://suze.dev)<br>
