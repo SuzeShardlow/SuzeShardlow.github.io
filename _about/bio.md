@@ -2,17 +2,24 @@
 layout: bio
 title: Bio
 name: Bio
-sub_headline: Use one of these in your marketing if I am delivering something for you.
+sub_headline: Words and pictures to use in your marketing if I am delivering something for you.
 image: /images/about/bio_banner.jpeg
 ---
 
-Here are the links to my socials and some bios of different lengths.  Please choose the bio that's the right length for the space you have.
+Here are the links to my socials, along with profile pics and bios of different lengths.  Please choose the bio that's the right length for the space you have.
 
-### Handy links - where to find me online:
+### Handy links - where to find me online
 **Personal website**: [**suze**.dev](https://suze.dev)<br>
-**Twitter**: [twitter.com/**SuzeShardlow**](https://twitter.com/SuzeShardlow)<br>
 **LinkedIn**: [linkedin.com/in/**SuzeShardlow**](https://linkedin.com/in/SuzeShardlow)<br>
-**GitHub**: [github.com/**SuzeShardlow**](https://github.com/SuzeShardlow)
+**GitHub**: [github.com/**SuzeShardlow**](https://github.com/SuzeShardlow)<br>
+**Mastodon**: [hachyderm.io/**@suze**](https://hachyderm.io/@suze)<br>
+**Twitter**: [twitter.com/**SuzeShardlow**](https://twitter.com/SuzeShardlow)
+{: .box}
+
+### Profile pictures (right click, save as)
+![image](/images/about/suze_shardlow_bw.jpeg){: .image .thumbnail}
+![image](/images/about/suze_shardlow_colour.jpg){: .image .thumbnail}
+![image](/images/about/suze_shardlow_office_colour.jpg){: .image .thumbnail}
 {: .box}
 
 ### Super short bio (<50 words)

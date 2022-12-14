@@ -2171,6 +2171,13 @@ section, summary, time, mark, audio, video {
       position: relative;
     }
 
+    .image.thumbnail {
+      max-width: 30%;
+      border: rgba(127, 136, 143, 1);
+      border-width: 3px;
+      border-style: solid;
+    }
+
     .image img {
       border-radius: 0.375em;
       display: block;
