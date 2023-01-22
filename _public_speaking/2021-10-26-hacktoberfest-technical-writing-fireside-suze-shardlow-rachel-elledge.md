@@ -10,13 +10,13 @@ role: [ Interviewer, MC ]
 format: [ Live stream ]
 ---
 
-I am the Developer Community Manager at Redis.  In 2021, I organised the company's first-ever Hacktoberfest project.
+I was the Developer Community Manager at Redis.  In 2021, I organised the company's first-ever Hacktoberfest project.
 
-As part of this, I held a series of fireside chats with members of our documentation team to demystify technical writing.  I decided to do this because documentation is often cited as a great way to get started with open source, but many people don't know what it involves, so they don't try it.
+As part of this, I held a series of fireside chats with members of the documentation team to demystify technical writing.  I decided to do this because documentation is often cited as a great way to get started with open source, but many people don't know what it involves, so they don't try it.
 
 I organised the firesides, structured the conversations, wrote the questions and acted as host, interviewer and MC for the events.
 
-Rachel is one of our technical writers.  In this fireside chat we discussed how she got into technical writing from a software engineering background.
+Rachel is one of the technical writers.  In this fireside chat we discussed how she got into technical writing from a software engineering background.
 
 Watch the recording:
 
