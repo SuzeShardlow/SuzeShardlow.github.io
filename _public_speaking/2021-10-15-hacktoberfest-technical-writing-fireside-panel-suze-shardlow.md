@@ -12,7 +12,7 @@ format: [ Live stream ]
 
 I was the Developer Community Manager at Redis.  In 2021, I organised the company's first-ever Hacktoberfest project.
 
-As part of this, I held a series of fireside chats with members of our documentation team to demystify technical writing.  I decided to do this because documentation is often cited as a great way to get started with open source, but many people don't know what it involves, so they don't try it.
+As part of this, I held a series of fireside chats with members of the documentation team to demystify technical writing.  I decided to do this because documentation is often cited as a great way to get started with open source, but many people don't know what it involves, so they don't try it.
 
 I organised the firesides, structured the conversations, wrote the questions and acted as host, interviewer and MC for the events.
 
