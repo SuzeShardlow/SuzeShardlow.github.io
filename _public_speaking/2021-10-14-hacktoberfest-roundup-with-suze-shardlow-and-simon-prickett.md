@@ -13,9 +13,9 @@ format: [ Live stream ]
 
 I was the Developer Community Manager at Redis.  In 2021, I organised the company's first-ever Hacktoberfest project.
 
-As part of this, I held a number of live streams with members of the devrel team.  One of them was a Hacktoberfest roundup/progress report which I presented with Simon Prickett.  We explained what Hacktoberfest was, how to get involved and then looked at some of the issues we had made available to the open source community and the pull requests we had received from contributors.
+As part of this, I held a number of live streams with members of the devrel team.  One of them was a Hacktoberfest roundup/progress report which I presented with Simon Prickett, the Principal Developer Advocate.  We explained what Hacktoberfest was, how to get involved and then looked at some of the issues we had made available to the open source community and the pull requests we had received from contributors.
 
-We streamted this live on Twitch and the recording lives on YouTube.  Watch it below:
+We streamed this live on Twitch and the recording lives on YouTube.  Watch it below:
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/g9xt4p_-3AU" allowfullscreen></iframe>
